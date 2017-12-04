@@ -1,0 +1,297 @@
+svg {
+  font: 10px sans-serif;
+  font-family: "Roboto Condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.background path {
+  fill: none;
+  stroke: #eee;
+  shape-rendering: crispEdges;
+}
+
+.foreground path {
+  fill: none;
+}
+
+.brush .extent {
+  fill-opacity: .3;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+  cursor: move;
+}
+.axistitle {
+	text-anchor:middle;
+	font-size:14px;
+	fill:black;
+	font-weight:bold;
+}
+
+path:hover {
+  stroke: #000 !important;
+  stroke-width:4px;
+  cursor: pointer;
+}
+
+.tooltip2 {
+  position: absolute;
+  font-size: 14px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color:rgba(255, 255, 255, 0.95);
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.test {
+	display:none !important;
+}
+
+h1 {
+  font-size: 2.1em !important;
+  font-weight:bold;
+}
+h2 {
+  font-size: 1.7em !important;
+  font-weight:bold;
+}
+h3 {
+  font-size: 1.4em !important;
+}
+h4 {
+  font-size: 1.2em !important;
+}
+
+p {
+  font-size: 1.1em;
+}
+.perc_bec_mat_escolar_pub, .perc_bec_comedor_pub, .perc_alum_ext_pub {
+  display:none;	
+}
+.alum_ext_pub, .alum_ext_kristau_eskola, .alum_ext_partaide, .alum_ext_otros_priv {
+  display:none;
+}
+.square {
+	width:40px;
+	height:4px;
+	float:left;
+	margin: 9px 4px 0 0;
+}
+.square2 {
+	width:40px;
+	height:10px;
+	float:left;
+	margin: 4px 4px 0 0;
+}
+.bizkaia {
+}
+.square_bizkaia {
+	background-color:#da5455;
+}
+.gipuzkoa {
+}
+.square_gipuzkoa {
+	background-color:#4199cb;
+}
+.araba {
+}
+.square_araba {
+	background-color:#f6ae01;
+}
+.square_media {
+	background-color:#666;
+}
+
+#bizkaiamedia,#gipuzkoamedia,#arabamedia,#mediaponderada {
+	stroke-width: 4px;
+	stroke-dasharray: 6,6;
+}
+
+#indicadores .axis_title  {
+	display:none;
+}
+
+.axis_label {
+	text-anchor:middle;
+	font-size:1em;
+	fill:black;
+	font-weight:bold;
+}
+.legend p {
+	float:left;
+	margin-right:15px;
+}
+#legend {
+	font-size:0.8em;
+  max-height: 350px;
+  overflow-y: auto;
+}
+path.basurtozorroza, path.igorre, path.montañaalavesa, path#todas, .background path.todas {
+	display:none;
+}
+
+.vis-item {
+	padding: 70px 0;
+}
+.vis-head h2,
+.vis-head h3 {
+	text-transform: uppercase;
+	margin-top: 0;
+}
+.vis-box {
+	background-color: #f5f5f5;
+	padding: 5px 10px;
+}
+.vis-src a {
+	font-weight: bold;
+	color: #000;
+}
+.vis-btn {
+	background-color: #fff;
+	color: #000;
+	border: 1px solid #000;
+	padding: 5px 10px;
+	text-transform: uppercase;
+	display: inline-block;
+}
+.vis-btn:hover {
+	color: rgba(0,0,0,0.5);
+	text-decoration: none;
+}
+.vis-legend {
+	border-top: 1px solid #ccc;
+	color: #888;
+	padding-top: 7px;
+	margin-top: 25px;
+	clear: both;
+}
+.vis-featured {
+	background-color: #fd5;
+	padding: 5px 10px;
+}
+.vis-big {
+	font-size: 1.3em;
+	text-transform: uppercase;
+}
+
+.vis-gradient {
+	padding: 5px;
+	font-size: 1.2em;
+	color: #fff;
+}
+.vis-gradient-1 {
+	background-color: #6BAED6;
+}
+.vis-gradient-2 {
+	background-color: #4292C6;
+}
+.vis-gradient-3 {
+	background-color: #2171B5;
+}
+.vis-gradient-4 {
+	background-color: #084594;
+}
+.vis-gradient-green-1 {
+	background-color: #0D585F;
+}
+.vis-gradient-green-2 {
+	background-color: #337F7F;
+}
+.vis-gradient-green-3 {
+	background-color: #63A6A0;
+}
+.vis-gradient-green-4 {
+	background-color: #9CCDC1;
+}
+.vis-gradient-green-5 {
+	background-color: #E4F1E1;
+}
+
+figcaption {
+	margin: 0 0 2em 0;
+	font-size: 0.8em;
+}
+
+#bottom {
+	background-color: #f5f5f5;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#top-navbar {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.navbar-brand {
+	font-size: 15px !important;
+}
+.nav > li > a {
+	padding-right:9px !important;
+}
+.bgimg {
+	background-repeat: none;
+	font-size: 17px;
+}
+.bgimg .bginner {
+	display: table-cell;
+	vertical-align: bottom;
+}
+.bgcontainer {
+	margin-bottom: 1em;
+}
+.bgimg a:hover {
+	text-decoration: none;
+}
+.bgimg-caption,
+.bgimg-caption a {
+	color: #ccc !important;
+	text-align: right;
+}
+#top {
+	background-size: cover;
+	height: 450px;
+	display: table;
+	margin-bottom: 0;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+.top-segregacion {
+	background-image: url(images/top-segregacion-escolar-euskadi-2.png);
+}
+.top-segregacion h1 {
+	font-weight:bold;
+  margin-top: 2em !important;
+}
+.top-segregacion p.desc, .top-segregacion h1 {
+	color:#000;
+	text-shadow: 0px 0px 3px #FFF;
+	background-color: rgb(255,255,255);
+}
+.perc_bec_mat_escolar_pubx, .perc_bec_mat_escolar_privx, .perc_bec_comedor_pubx, .perc_bec_comedor_privx, .perc_alum_ext_pubx, .perc_alum_ext_privx, .total_alumnadox {
+	text-align:right;
+}
+.vis-head h1 {
+	font-weight:bold;
+}
+#idtodas, #idaraba, #idgipuzkoa, #idbizkaia, #idarabamedia, #idgipuzkoamedia, #idbizkaiamedia, #idmediaponderada {
+	font-weight:bold;
+}
+li #idtodas, li #idbizkaia {
+	border-bottom: 1px solid #ccc;
+}
+.btn-activo {
+	background-color:#FF0;
+}
+.localizacion {
+	font-size:1.1em !important;
+}
+.prime {
+	margin-top:30px;
+}
