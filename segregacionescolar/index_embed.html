@@ -50,7 +50,39 @@
 <body>
 
 <main id="indicadores">
-	<div id="vis"></div>
+	<div class="row vis-body">
+		<div class="col-md-7">
+			<h2>Diferencia de porcentaje de alumnado con becas de material escolar, comedor y alumnado extranjero en zonas escolares</h2>
+		</div>
+		<div class="col-md-3 col-md-offset-2">
+			<p class="bg-warning prime"><span class="glyphicon glyphicon glyphicon-hand-up" aria-hidden="true"></span> Pasa el cursor para descubrir más información sobre cada zona.</p>
+		</div>
+	</div>
+	<div class="row vis-body">
+		<div class="col-md-6 col-xs-12">
+			<div class="legend">
+				<p><span class="square square_araba"></span>Araba</p>
+				<p><span class="square square_gipuzkoa"></span>Gipuzkoa</p>
+				<p><span class="square square_bizkaia"></span>Bizkaia</p>
+				<p><span class="square square_media"></span>Media (ponderada)</p>
+			</div>
+		</div>
+		<div class="col-md-2 col-xs-6">
+			<div class="dropdown text-right">
+				<button class="btn btn-default dropdown-toggle btn-xs" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" style="background-color:#FF0;">Selecciona zona escolar <span class="caret"></span></button>
+				<ul id="legend" class="dropdown-menu" aria-labelledby="dropdownMenu1">
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-4 col-xs-6">
+			<div id="zona"><p>Todas las zonas</p></div>
+		</div>
+	</div>
+	<div class="row vis-body">
+		<div class="col-md-12">
+			<div id="vis"></div>
+		</div>
+	</div>
 </main>
 
 <script type="text/javascript" src="js/jquery.min.js"></script>
