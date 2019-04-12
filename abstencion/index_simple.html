@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="es-ES">
+
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brecha de Abstención en elecciones generales 2016</title>
+
+<!-- source code based on https://bl.ocks.org/jasondavies/1341281 -->
+<meta charset="utf-8">
+<link href="style.css" rel="stylesheet">
+<!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Fontawesome -->
+<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- generic meta -->
+<meta content="Montera34" name="author" />
+<meta content="Brecha de Abstención en elecciones generales 2016" name="description" />
+<meta content=" " name="keywords" />
+<!-- facebook meta -->
+<!--<meta property="og:title" content="Análisis educación Euskadi: redes pública vs privada-concertada" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Un análisis gráfico de la segregación entre centros públicos y privados en Euskadi." />
+<meta name="og:image" content="https://lab.montera34.com/segregacionescolar/images/segregacion-publico-privada-para-ilp.png" />
+<meta property="og:url" content="https://lab.montera34.com/segregacionescolar/" />-->
+<!-- twitter meta -->
+<!--
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@montera34">
+<meta property="twitter:site:id" content="137677992" />
+<meta name="twitter:title" content="Análisis educación Euskadi: redes pública vs privada-concertadaa" />
+<meta name="twitter:description" content="Un análisis gráfico de la segregación entre centros públicos y privados en Euskadi." />
+<meta name="twitter:creator" content="@montera34">
+<meta name="twitter:image" content="https://lab.montera34.com/segregacionescolar/images/segregacion-publico-privada-para-ilp.png" />
+-->
+<link type="image/x-icon" href="favicon.ico" rel="shortcut icon" />
+<link type="image/png" sizes="256x256" href="favicon.png" rel="icon" />
+</head>
+<body>
+
+	<section id="indicadores">
+		<header class="row vis-head">
+			<div class="col-md-8">
+				<h1>Brecha de abstención (generales 2016)</h1>
+				<h3>Comparativa de porcentaje de abstención en la sección con más y menos porcentaje de abstención por muncipio</h3>
+			</div>
+		</header>
+		<div class="row vis-body">
+			<div class="col-md-4">
+				<p>Cada línea representa un municipio.<br>La pendiente indica la diferencia de porcentaje entre la que tiene más y menos abstención.</p>
+			</div>
+			<div class="col-md-4">
+				<p><span class="glyphicon glyphicon glyphicon-hand-up" aria-hidden="true"></span> Pasa el cursor para descubrir más información sobre cada muncipio.</p>
+			</div>
+			<div class="clearfix"></div>
+			<div class="col-md-2">
+				<div class="dropdown"> 
+					<button class="btn btn-default dropdown-toggle btn-xs" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Selecciona provincia<span class="caret"></span></button>
+					<ul id="legend" class="dropdown-menu" aria-labelledby="dropdownMenu1">
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div id="zona"><p>Todos los municipios</p></div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="col-md-12">
+				<div id="vis"></div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="col-md-7 col-md-offset-2">
+				<!--p><small>Datos del curso 2014-2015. Los datos de alumnado becado son para todas las etapas. Los de alumnado extranjero son de Educación básica (educación primaria y ESO). Las zonas escolares de Montaña alavesa, Igorre y Basurto-Zorroza no aparecen representadas al no tener oferta privada.</small></p>
+				<p><small>Fuente de los datos: <a href="http://www.consejoescolardeeuskadi.hezkuntza.net/c/document_library/get_file?uuid=ea15c830-b320-4199-8a35-424f3060533e&groupId=17937">La educación Euskadi 2013-2015</a>. Consejo Escolar de Euskadi. Departamento de educación. Gobierno Vasco. Vitoria-Gasteiz, 2016.</small></p-->
+			</div>
+		</div>
+	</section>
+
+</main>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/d3.v3.min.js"></script>
+<script type="text/javascript" src="dataviz_simple.js"></script>
+</body>

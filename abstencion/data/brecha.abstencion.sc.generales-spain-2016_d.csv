@@ -1,0 +1,2382 @@
+provincianombre,provincia,maxabs,minabs,brecha_sc,count.sc,municipio,zona,show
+test,22,,,,,,Todas,display
+Álava,22,,,,,,Álava,display
+Albacete,22,,,,,,Albacete,display
+Alicante,22,,,,,,Alicante,display
+Almería,22,,,,,,Almería,display
+Ávila,22,,,,,,Ávila,display
+Badajoz,22,,,,,,Badajoz,display
+Illes Balears,22,,,,,,Illes Balears,display
+Barcelona,22,,,,,,Barcelona,display
+Burgos,22,,,,,,Burgos,display
+Cáceres,22,,,,,,Cáceres,display
+Cádiz,22,,,,,,Cádiz,display
+Castellón,22,,,,,,Castellón,display
+Ciudad Real,22,,,,,,Ciudad Real,display
+Córdoba,22,,,,,,Córdoba,display
+A Coruña,22,,,,,,A Coruña,display
+Cuenca,22,,,,,,Cuenca,display
+Girona,22,,,,,,Girona,display
+Granada,22,,,,,,Granada,display
+Guadalajara,22,,,,,,Guadalajara,display
+Gipuzkoa,22,,,,,,Gipuzkoa,display
+Gipuzcoa,22,,,,,,Gipuzcoa,display
+Huelva,22,,,,,,Huelva,display
+Huesca,22,,,,,,Huesca,display
+Jaén,22,,,,,,Jaén,display
+León,22,,,,,,León,display
+Lleida,22,,,,,,Lleida,display
+La Rioja,22,,,,,,La Rioja,display
+Lugo,22,,,,,,Lugo,display
+Madrid,22,,,,,,Madrid,display
+Málaga,22,,,,,,Málaga,display
+Murcia,22,,,,,,Murcia,display
+Navarra,22,,,,,,Navarra,display
+Ourense,22,,,,,,Ourense,display
+Asturias,22,,,,,,Asturias,display
+Palencia,22,,,,,,Palencia,display
+Las Palmas,22,,,,,,Las Palmas,display
+Pontevedra,22,,,,,,Pontevedra,display
+Salamanca,22,,,,,,Salamanca,display
+Santa Cruz de Tenerife,22,,,,,,Santa Cruz de Tenerife,display
+Cantabria,22,,,,,,Cantabria,display
+Segovia,22,,,,,,Segovia,display
+Sevilla,22,,,,,,Sevilla,display
+Soria,22,,,,,,Soria,display
+Álava,22,,,,,,Álava,display
+Zamora,49,18.6,18.6,0,2,Fuentesaúco,m49081,dontshow
+Madrid,28,92.4,9.3,83.1,2420,Madrid,m28079,dontshow
+xxx,16,100,100,0,2,ee,test,display
+xxxx,16,11.3,11.3,0,2,ee,test,display
+Sevilla,41,86.5,24.6,61.9,532,Sevilla,m41091,dontshow
+Cádiz,11,99.1,38.4,60.7,64,"Puerto de Santa María, El",m11027,dontshow
+Cádiz,11,68.6,9.5,59.1,159,Jerez de la Frontera,m11020,dontshow
+Málaga,29,81.9,29.6,52.3,433,Málaga,m29067,dontshow
+Alicante,3,71,21,50,244,Alicante/Alacant,m3014,dontshow
+Santa Cruz de Tenerife,38,78.8,30.9,47.9,18,Adeje,m38001,dontshow
+Barcelona,8,72,24.6,47.4,146,Badalona,m8015,dontshow
+"Las Palmas",35,67.5,22,45.5,5,Antigua,m35003,dontshow
+"Las Palmas",35,64.8,19.8,45,11,Pájara,m35015,dontshow
+Valencia,46,67.2,22.2,45,14,Albal,m46007,dontshow
+Murcia,30,70.6,25.6,45,186,Cartagena,m30016,dontshow
+Granada,18,73.4,28.5,44.9,185,Granada,m18087,dontshow
+Córdoba,14,67.8,23.1,44.7,249,Córdoba,m14021,dontshow
+Albacete,2,66.2,21.9,44.3,117,Albacete,m2003,dontshow
+León,24,70,25.8,44.2,2,Cistierna,m24056,dontshow
+Alicante,3,64,20.9,43.1,4,Rojales,m3113,dontshow
+"Illes Balears,",7,68.1,25.3,42.8,5,Sant Llorenç des Cardassar,m7051,dontshow
+Almería,4,73.3,30.8,42.5,129,Almería,m4013,dontshow
+Alicante,3,63.4,21,42.4,2,San Fulgencio,m3118,dontshow
+Santa Cruz de Tenerife,38,75.6,33.3,42.3,33,Arona,m38006,dontshow
+Alicante,3,67.4,25.2,42.2,42,Orihuela,m3099,dontshow
+Barcelona,8,66,24.1,41.9,1068,Barcelona,m8019,dontshow
+"Illes Balears,",7,58.6,16.8,41.8,4,Muro,m7039,dontshow
+"Las Palmas",35,62.5,21.1,41.4,26,San Bartolomé de Tirajana,m35019,dontshow
+Murcia,30,60.5,19.2,41.3,389,Murcia,m30030,dontshow
+Alicante,3,71.6,30.9,40.7,4,Teulada,m3128,dontshow
+"Illes Balears,",7,71,30.7,40.3,252,Palma,m7040,dontshow
+Sevilla,41,66.9,26.9,40,21,Carmona,m41024,dontshow
+Lleida,25,70,30.2,39.8,81,Lleida,m25120,dontshow
+Málaga,29,56.9,17.2,39.7,5,Manilva,m29068,dontshow
+Valencia,46,49,9.6,39.4,599,Valencia,m46250,dontshow
+Alicante,3,66.7,27.3,39.4,33,Torrevieja,m3133,dontshow
+Valencia,46,61.7,23,38.7,47,Paterna,m46190,dontshow
+Madrid,28,71.4,32.7,38.7,11,Ciempozuelos,m28040,dontshow
+"Illes Balears,",7,68.5,29.9,38.6,8,Pollença,m7042,dontshow
+Zaragoza,50,58.5,20.3,38.2,491,Zaragoza,m50297,dontshow
+Málaga,29,67.9,29.7,38.2,34,Estepona,m29051,dontshow
+Pontevedra,36,63.9,25.9,38,244,Vigo,m36057,dontshow
+Toledo,45,53.5,15.7,37.8,61,Talavera de la Reina,m45165,dontshow
+Málaga,29,63.6,26,37.6,28,Mijas,m29070,dontshow
+Badajoz,6,61,23.8,37.2,106,Badajoz,m6015,dontshow
+Barcelona,8,74.1,36.9,37.2,40,"Prat de Llobregat, El",m8169,dontshow
+Santa Cruz de Tenerife,38,66.6,30,36.6,7,San Miguel de Abona,m38035,dontshow
+Sevilla,41,64.5,28.1,36.4,34,Utrera,m41095,dontshow
+Madrid,28,58.4,22.1,36.3,125,Alcalá de Henares,m28005,dontshow
+Gipuzkoa,20,65.4,29.3,36.1,18,Arrasate/Mondragón,m20055,dontshow
+Gipuzcoa,20,65.4,29.3,36.1,18,Arrasate/Mondragón,m20055,dontshow
+Málaga,29,50.5,14.5,36,3,Casares,m29041,dontshow
+Barcelona,8,72.5,36.9,35.6,24,Sant Adrià de Besòs,m8194,dontshow
+Santa Cruz de Tenerife,38,67.2,31.7,35.5,164,Santa Cruz de Tenerife,m38038,dontshow
+Almería,4,57.5,22.2,35.3,2,Serón,m4083,dontshow
+Bizkaia,48,64.9,29.7,35.2,281,Bilbao,m48020,dontshow
+Tarragona,43,60.5,25.4,35.1,66,Reus,m43123,dontshow
+Alicante,3,65.2,30.3,34.9,6,Benissa,m3041,dontshow
+Barcelona,8,61.8,27.1,34.7,137,Terrassa,m8279,dontshow
+Tarragona,43,58.6,24,34.6,8,Mont-roig del Camp,m43092,dontshow
+Valencia,46,55.8,21.3,34.5,41,Sagunto/Sagunt,m46220,dontshow
+Málaga,29,60.9,26.4,34.5,8,Torrox,m29091,dontshow
+Alicante,3,59.9,25.5,34.4,19,"Villajoyosa/Vila Joiosa, la",m3139,dontshow
+Málaga,29,55.1,21.5,33.6,4,Almogía,m29011,dontshow
+Barcelona,8,67.2,33.6,33.6,39,Vilanova i la Geltrú,m8307,dontshow
+Huelva,21,68.4,35,33.4,107,Huelva,m21041,dontshow
+"Las Palmas",35,60.9,27.6,33.3,9,"Oliva, La",m35014,dontshow
+"Las Palmas",35,53.4,20.5,32.9,10,Mogán,m35012,dontshow
+Navarra,31,51.8,19.1,32.7,137,Pamplona/Iruña,m31201,dontshow
+Córdoba,14,54.3,21.7,32.6,27,Lucena,m14038,dontshow
+Málaga,29,66.1,33.5,32.6,75,Marbella,m29069,dontshow
+Sevilla,41,66.2,33.9,32.3,47,Alcalá de Guadaíra,m41004,dontshow
+Alicante,3,57,25,32,23,Villena,m3140,dontshow
+"Illes Balears,",7,58.4,26.4,32,24,Manacor,m7033,dontshow
+Alicante,3,50.7,18.8,31.9,7,Guardamar del Segura,m3076,dontshow
+"Las Palmas",35,59.9,28,31.9,6,Yaiza,m35034,dontshow
+Santa Cruz de Tenerife,38,60.8,28.9,31.9,24,Granadilla de Abona,m38017,dontshow
+Alicante,3,54.5,22.9,31.6,7,"Nucia, la",m3094,dontshow
+Alicante,3,59.4,27.8,31.6,7,Calp,m3047,dontshow
+"Illes Balears,",7,60.5,28.9,31.6,25,Calvià,m7011,dontshow
+Valladolid,47,52.8,21.4,31.4,266,Valladolid,m47186,dontshow
+Barcelona,8,62.1,30.9,31.2,152,Sabadell,m8187,dontshow
+Cádiz,11,69.6,38.5,31.1,82,Algeciras,m11004,dontshow
+Ceuta,51,74.3,43.4,30.9,54,Ceuta,m51001,dontshow
+Asturias,33,55.9,25.1,30.8,181,Oviedo,m33044,dontshow
+Almería,4,56.2,25.4,30.8,9,Vera,m4100,dontshow
+"Las Palmas",35,63,32.2,30.8,275,"Palmas de Gran Canaria, Las",m35016,dontshow
+Cáceres,10,53.1,22.4,30.7,71,Cáceres,m10037,dontshow
+Tarragona,43,62.9,32.2,30.7,83,Tarragona,m43148,dontshow
+Tarragona,43,54.8,24.2,30.6,24,Tortosa,m43155,dontshow
+Murcia,30,61.9,31.3,30.6,23,San Javier,m30035,dontshow
+Girona,17,61.8,31.5,30.3,61,Girona,m17079,dontshow
+Málaga,29,62.5,32.3,30.2,30,Benalmádena,m29025,dontshow
+Barcelona,8,63.9,33.7,30.2,99,Santa Coloma de Gramenet,m8245,dontshow
+Jaén,23,58.1,28.1,30,87,Jaén,m23050,dontshow
+Valencia,46,50.9,21.2,29.7,10,Carlet,m46085,dontshow
+"Illes Balears,",7,64.5,34.8,29.7,13,Sant Josep de sa Talaia,m7048,dontshow
+Barcelona,8,63.2,33.6,29.6,192,"Hospitalet de Llobregat, L'",m8101,dontshow
+Tarragona,43,60.4,31,29.4,12,Vila-seca,m43171,dontshow
+Girona,17,65.5,36.1,29.4,11,Roses,m17152,dontshow
+Cádiz,11,69.3,40.2,29.1,48,"Línea de la Concepción, La",m11022,dontshow
+Santa Cruz de Tenerife,38,55.4,26.4,29,20,Puerto de la Cruz,m38028,dontshow
+Ciudad Real,13,59,30.2,28.8,40,Puertollano,m13071,dontshow
+Cádiz,11,64.5,35.8,28.7,30,Puerto Real,m11028,dontshow
+Badajoz,6,42.9,14.4,28.5,26,Don Benito,m6044,dontshow
+Alicante,3,60.3,31.8,28.5,45,Benidorm,m3031,dontshow
+Santa Cruz de Tenerife,38,54.7,26.4,28.3,4,Santiago del Teide,m38040,dontshow
+Madrid,28,47.2,19,28.2,51,San Sebastián de los Reyes,m28134,dontshow
+Valencia,46,51.5,23.3,28.2,15,Llíria,m46147,dontshow
+Alicante,3,48.2,20.2,28,172,Elche/Elx,m3065,dontshow
+Badajoz,6,52.6,24.6,28,41,Mérida,m6083,dontshow
+"Illes Balears,",7,68.6,40.6,28,16,Santa Eulalia del Río,m7054,dontshow
+"Las Palmas",35,63.1,35.2,27.9,6,Tías,m35028,dontshow
+Jaén,23,37.8,10.2,27.6,4,"Guardia de Jaén, La",m23038,dontshow
+Murcia,30,56.3,28.7,27.6,21,Mazarrón,m30026,dontshow
+Barcelona,8,57.1,29.7,27.4,13,Berga,m8022,dontshow
+Sevilla,41,67.4,40,27.4,81,Dos Hermanas,m41038,dontshow
+Madrid,28,44.9,17.6,27.3,114,Getafe,m28065,dontshow
+Málaga,29,55.5,28.3,27.2,47,Vélez-Málaga,m29094,dontshow
+Santa Cruz de Tenerife,38,56.6,29.5,27.1,107,San Cristóbal de La Laguna,m38023,dontshow
+Cádiz,11,58.4,31.3,27.1,13,"Barrios, Los",m11008,dontshow
+Castellón,12,50.5,23.5,27,106,Castellón de la Plana/Castelló de la Plana,m12040,dontshow
+Murcia,30,50.5,23.5,27,69,Lorca,m30024,dontshow
+Córdoba,14,63.1,36.1,27,22,Puente Genil,m14056,dontshow
+Cádiz,11,67.3,40.3,27,52,Chiclana de la Frontera,m11015,dontshow
+Alicante,3,53.9,27,26.9,8,"Alfàs del Pi, l'",m3011,dontshow
+Alicante,3,53.6,26.8,26.8,41,Elda,m3066,dontshow
+Sevilla,41,59.5,32.7,26.8,24,"Rinconada, La",m41081,dontshow
+"Las Palmas",35,51.9,25.3,26.6,39,Santa Lucía de Tirajana,m35022,dontshow
+Madrid,28,46.8,20.3,26.5,41,Rivas-Vaciamadrid,m28123,dontshow
+"La Rioja",26,50.6,24.1,26.5,104,Logroño,m26089,dontshow
+"Las Palmas",35,54.3,27.8,26.5,22,Puerto del Rosario,m35017,dontshow
+Madrid,28,49.8,23.4,26.4,77,Torrejón de Ardoz,m28148,dontshow
+"Las Palmas",35,59.5,33.1,26.4,10,Teguise,m35024,dontshow
+Tarragona,43,61.2,34.8,26.4,11,Calafell,m43037,dontshow
+Alicante,3,52.8,26.5,26.3,18,Santa Pola,m3121,dontshow
+Madrid,28,46.7,20.5,26.2,51,Pozuelo de Alarcón,m28115,dontshow
+"Illes Balears,",7,59.2,33.2,26,3,"Mercadal, Es",m7037,dontshow
+Madrid,28,47.5,21.6,25.9,65,Alcobendas,m28006,dontshow
+"Illes Balears,",7,57,31.2,25.8,21,Llucmajor,m7031,dontshow
+Cádiz,11,62.6,36.8,25.8,68,San Fernando,m11031,dontshow
+Ciudad Real,13,40.3,14.6,25.7,23,Alcázar de San Juan,m13005,dontshow
+Alicante,3,46.2,20.5,25.7,21,Crevillent,m3059,dontshow
+Castellón,12,47.7,22.1,25.6,11,Almazora/Almassora,m12009,dontshow
+"A Coruña",15,51.2,25.6,25.6,22,Ribeira,m15073,dontshow
+Alicante,3,51.7,26.2,25.5,8,Pilar de la Horadada,m3902,dontshow
+Santa Cruz de Tenerife,38,40.2,14.8,25.4,9,Santa Úrsula,m38039,dontshow
+Palencia,34,51.9,26.5,25.4,64,Palencia,m34120,dontshow
+Sevilla,41,49.5,24.2,25.3,15,Mairena del Alcor,m41058,dontshow
+Barcelona,8,62.6,37.3,25.3,29,Esplugues de Llobregat,m8077,dontshow
+Madrid,28,46.5,21.6,24.9,140,Leganés,m28074,dontshow
+Girona,17,58.3,33.4,24.9,4,Vidreres,m17213,dontshow
+Jaén,23,60.9,36,24.9,39,Linares,m23055,dontshow
+Valencia,46,48.6,23.8,24.8,53,Torrent,m46244,dontshow
+Álava,1,51.4,26.7,24.7,187,Vitoria-Gasteiz,m1059,dontshow
+Jaén,23,37.2,12.6,24.6,9,Alcaudete,m23003,dontshow
+Almería,4,43.2,18.6,24.6,4,Pulpí,m4075,dontshow
+Murcia,30,56,31.6,24.4,34,Cieza,m30019,dontshow
+"Illes Balears,",7,61,36.7,24.3,10,Alcúdia,m7003,dontshow
+Madrid,28,44,19.8,24.2,120,Alcorcón,m28007,dontshow
+Ciudad Real,13,52.9,28.7,24.2,24,Tomelloso,m13082,dontshow
+Cantabria,39,51.5,27.4,24.1,21,Castro-Urdiales,m39020,dontshow
+Barcelona,8,61.1,37,24.1,8,Canet de Mar,m8040,dontshow
+Toledo,45,43.5,19.5,24,61,Toledo,m45168,dontshow
+Alicante,3,44.7,20.7,24,19,Aspe,m3019,dontshow
+Barcelona,8,54.8,30.8,24,20,Sant Vicenç dels Horts,m8263,dontshow
+Girona,17,66.3,42.3,24,26,Figueres,m17066,dontshow
+"A Coruña",15,54.5,30.6,23.9,184,"A Coruña",m15030,dontshow
+Barcelona,8,61.9,38,23.9,42,Rubí,m8184,dontshow
+Albacete,2,53.3,29.5,23.8,20,Hellín,m2037,dontshow
+"Illes Balears,",7,55.6,31.8,23.8,4,Sant Lluís,m7052,dontshow
+Lleida,25,56.2,32.4,23.8,2,Alcoletge,m25012,dontshow
+Cádiz,11,56.9,33.1,23.8,16,Barbate,m11007,dontshow
+Alicante,3,53,29.3,23.7,11,Jávea/Xàbia,m3082,dontshow
+Murcia,30,53.2,29.5,23.7,19,San Pedro del Pinatar,m30036,dontshow
+Alicante,3,48.8,25.2,23.6,16,Mutxamel,m3090,dontshow
+Córdoba,14,49.6,26,23.6,14,Baena,m14007,dontshow
+Cádiz,11,67.3,43.7,23.6,45,Sanlúcar de Barrameda,m11032,dontshow
+Córdoba,14,37.7,14.2,23.5,7,Fuente Palmera,m14030,dontshow
+Girona,17,61.2,37.7,23.5,14,Lloret de Mar,m17095,dontshow
+Girona,17,57.9,34.5,23.4,4,Maçanet de la Selva,m17103,dontshow
+Murcia,30,53.6,30.3,23.3,26,Alcantarilla,m30005,dontshow
+Málaga,29,61.2,37.9,23.3,38,Fuengirola,m29054,dontshow
+Madrid,28,48.8,25.6,23.2,132,Móstoles,m28092,dontshow
+"Las Palmas",35,50.8,27.6,23.2,67,Telde,m35026,dontshow
+Zamora,49,53.8,30.6,23.2,15,Benavente,m49021,dontshow
+Barcelona,8,58.9,35.7,23.2,70,Cornellà de Llobregat,m8073,dontshow
+Málaga,29,59.4,36.2,23.2,10,Nerja,m29075,dontshow
+Almería,4,67.2,44,23.2,49,"Ejido, El",m4902,dontshow
+Alicante,3,42.6,19.5,23.1,9,Castalla,m3053,dontshow
+Madrid,28,45.8,22.7,23.1,44,Majadahonda,m28080,dontshow
+Murcia,30,50,26.9,23.1,9,"Alcázares, Los",m30902,dontshow
+Castellón,12,42.3,19.3,23,24,Borriana/Burriana,m12032,dontshow
+Asturias,33,51.4,28.4,23,70,Avilés,m33004,dontshow
+Guadalajara,19,44.4,21.5,22.9,59,Guadalajara,m19130,dontshow
+Madrid,28,47.2,24.3,22.9,118,Fuenlabrada,m28058,dontshow
+Barcelona,8,58.4,35.5,22.9,28,Gavà,m8089,dontshow
+Madrid,28,42.3,19.5,22.8,54,Coslada,m28049,dontshow
+Asturias,33,53.7,30.9,22.8,38,Mieres,m33037,dontshow
+Barcelona,8,56.8,34,22.8,26,Castelldefels,m8056,dontshow
+Barcelona,8,58.4,35.6,22.8,75,Mataró,m8121,dontshow
+"Illes Balears,",7,66.1,43.5,22.6,28,Eivissa,m7026,dontshow
+Alicante,3,44.2,21.7,22.5,5,Monforte del Cid,m3088,dontshow
+Huesca,22,52.2,29.7,22.5,34,Huesca,m22125,dontshow
+Barcelona,8,59.4,36.9,22.5,50,Sant Boi de Llobregat,m8200,dontshow
+Alicante,3,45.2,22.8,22.4,5,Redován,m3111,dontshow
+Alicante,3,51.8,29.4,22.4,14,"Campello, el",m3050,dontshow
+Valencia,46,42.9,20.6,22.3,21,Manises,m46159,dontshow
+Ciudad Real,13,48.6,26.3,22.3,53,Ciudad Real,m13034,dontshow
+Madrid,28,49.7,27.4,22.3,62,Parla,m28106,dontshow
+Cáceres,10,51.2,28.9,22.3,32,Plasencia,m10148,dontshow
+Alicante,3,47.6,25.4,22.2,14,Altea,m3018,dontshow
+Murcia,30,49.2,27,22.2,57,Molina de Segura,m30027,dontshow
+Salamanca,37,49,26.9,22.1,121,Salamanca,m37274,dontshow
+"Illes Balears,",7,37.1,15.1,22,7,Santa Margalida,m7055,dontshow
+Alicante,3,49.3,27.3,22,34,San Vicente del Raspeig/Sant Vicent del Raspeig,m3122,dontshow
+Cádiz,11,52.1,30.1,22,11,Chipiona,m11016,dontshow
+Murcia,30,46,24.1,21.9,18,Alhama de Murcia,m30008,dontshow
+Gipuzkoa,20,46.2,24.3,21.9,142,Donostia-San Sebastián,m20069,dontshow
+Gipuzcoa,20,46.2,24.3,21.9,142,Donostia-San Sebastián,m20069,dontshow
+Cádiz,11,47.1,25.2,21.9,110,Cádiz,m11012,dontshow
+Girona,17,53.8,31.9,21.9,15,Salt,m17155,dontshow
+Valencia,46,40,18.2,21.8,27,Ontinyent,m46184,dontshow
+Pontevedra,36,49.4,27.6,21.8,11,Poio,m36041,dontshow
+Huelva,21,54.4,32.6,21.8,11,Cartaya,m21021,dontshow
+"Illes Balears,",7,61.8,40,21.8,16,Ciutadella de Menorca,m7015,dontshow
+Barcelona,8,54.5,32.8,21.7,9,Calella,m8035,dontshow
+Cádiz,11,41,19.4,21.6,13,Tarifa,m11035,dontshow
+Pontevedra,36,52.7,31.1,21.6,62,Pontevedra,m36038,dontshow
+Córdoba,14,43.4,21.9,21.5,18,Priego de Córdoba,m14055,dontshow
+"Illes Balears,",7,44.4,22.9,21.5,8,Santanyí,m7057,dontshow
+Girona,17,57.7,36.2,21.5,3,Sils,m17193,dontshow
+Valencia,46,45.9,24.5,21.4,26,Burjassot,m46078,dontshow
+Barcelona,8,53.6,32.2,21.4,23,Vic,m8298,dontshow
+Burgos,9,61.5,40.1,21.4,30,Miranda de Ebro,m9219,dontshow
+Huelva,21,49.8,28.5,21.3,12,Isla Cristina,m21042,dontshow
+Málaga,29,56.7,35.4,21.3,43,Torremolinos,m29901,dontshow
+Barcelona,8,58.7,37.4,21.3,14,Sant Andreu de la Barca,m8196,dontshow
+León,24,49.7,28.5,21.2,112,León,m24089,dontshow
+Barcelona,8,56.3,35.1,21.2,35,Granollers,m8096,dontshow
+Jaén,23,41,19.9,21.1,17,Alcalá la Real,m23002,dontshow
+Madrid,28,45.4,24.4,21,16,Villaviciosa de Odón,m28181,dontshow
+Huelva,21,53.7,32.7,21,14,Ayamonte,m21010,dontshow
+Barcelona,8,53.8,32.8,21,14,Castellar del Vallès,m8051,dontshow
+Badajoz,6,34,13.1,20.9,2,Montemolín,m6086,dontshow
+Burgos,9,46.4,25.5,20.9,149,Burgos,m9059,dontshow
+Santa Cruz de Tenerife,38,48.3,27.4,20.9,4,Breña Baja,m38009,dontshow
+Barcelona,8,56,35.1,20.9,8,Canovelles,m8041,dontshow
+Tarragona,43,57.2,36.3,20.9,16,Cambrils,m43038,dontshow
+Valencia,46,40.9,20.1,20.8,45,Gandia,m46131,dontshow
+Asturias,33,48.8,28,20.8,202,Gijón,m33024,dontshow
+Madrid,28,50.8,30,20.8,26,Arganda del Rey,m28014,dontshow
+Cádiz,11,52.3,31.5,20.8,6,Puerto Serrano,m11029,dontshow
+Girona,17,53.4,32.6,20.8,21,Olot,m17114,dontshow
+Santa Cruz de Tenerife,38,43.6,23,20.6,4,Tazacorte,m38045,dontshow
+Sevilla,41,50.6,30.1,20.5,9,Sanlúcar la Mayor,m41087,dontshow
+Santa Cruz de Tenerife,38,37,16.6,20.4,27,"Orotava, La",m38026,dontshow
+Madrid,28,42.8,22.4,20.4,25,Boadilla del Monte,m28022,dontshow
+Girona,17,55.2,34.8,20.4,4,Castelló d'Empúries,m17047,dontshow
+Cantabria,39,40,19.7,20.3,47,Torrelavega,m39087,dontshow
+Madrid,28,44.6,24.4,20.2,24,Colmenar Viejo,m28045,dontshow
+"A Coruña",15,48.7,28.5,20.2,75,Santiago de Compostela,m15078,dontshow
+Asturias,33,54.1,33.9,20.2,36,Langreo,m33031,dontshow
+Barcelona,8,55.1,34.9,20.2,31,Mollet del Vallès,m8124,dontshow
+"Illes Balears,",7,55.2,35,20.2,12,Sant Antoni de Portmany,m7046,dontshow
+Barcelona,8,54.5,34.4,20.1,45,Viladecans,m8301,dontshow
+Castellón,12,42.5,22.5,20,34,Vila-real,m12135,dontshow
+"A Coruña",15,44.3,24.3,20,5,Brión,m15013,dontshow
+Jaén,23,49,29,20,26,Andújar,m23005,dontshow
+Alicante,3,45.1,25.2,19.9,3,San Miguel de Salinas,m3120,dontshow
+Tarragona,43,45.8,25.9,19.9,6,Alcanar,m43004,dontshow
+Valencia,46,40,20.2,19.8,4,Vilamarxant,m46256,dontshow
+Bizkaia,48,48.1,28.3,19.8,23,Galdakao,m48036,dontshow
+Barcelona,8,55.5,35.7,19.8,22,Montcada i Reixac,m8125,dontshow
+Huelva,21,39.9,20.2,19.7,7,Gibraleón,m21035,dontshow
+Madrid,28,45.8,26.1,19.7,32,Aranjuez,m28013,dontshow
+Zaragoza,50,48.3,28.6,19.7,14,Calatayud,m50067,dontshow
+Granada,18,53.2,33.5,19.7,34,Motril,m18140,dontshow
+Cádiz,11,56.8,37.1,19.7,20,Rota,m11030,dontshow
+Murcia,30,44.6,25,19.6,15,Mula,m30029,dontshow
+Barcelona,8,55.8,36.2,19.6,14,Santa Perpètua de Mogoda,m8260,dontshow
+Sevilla,41,54.7,35.2,19.5,15,San Juan de Aznalfarache,m41086,dontshow
+Girona,17,56.6,37.1,19.5,22,Blanes,m17023,dontshow
+"Las Palmas",35,42,22.6,19.4,19,Agüimes,m35002,dontshow
+Barcelona,8,52.9,33.5,19.4,4,Vacarisses,m8291,dontshow
+Sevilla,41,55.4,36,19.4,26,Mairena del Aljarafe,m41059,dontshow
+Barcelona,8,56.6,37.2,19.4,52,Manresa,m8113,dontshow
+Barcelona,8,60.6,41.2,19.4,10,Cubelles,m8074,dontshow
+Tarragona,43,37.7,18.5,19.2,4,Vandellòs i l'Hospitalet de l'Infant,m43162,dontshow
+Málaga,29,47.8,28.6,19.2,29,Antequera,m29015,dontshow
+Castellón,12,48.4,29.2,19.2,4,Oropesa del Mar/Orpesa,m12085,dontshow
+Granada,18,49.5,30.4,19.1,7,Pinos Puente,m18158,dontshow
+Málaga,29,57.9,38.8,19.1,14,Cártama,m29038,dontshow
+Navarra,31,45.1,26.1,19,10,Estella/Lizarra,m31097,dontshow
+Cádiz,11,44.1,25.2,18.9,23,Arcos de la Frontera,m11006,dontshow
+Cantabria,39,44.8,25.9,18.9,13,"Astillero, El",m39008,dontshow
+Sevilla,41,46.5,27.6,18.9,24,"Palacios y Villafranca, Los",m41069,dontshow
+Gipuzkoa,20,47.3,28.4,18.9,23,Eibar,m20030,dontshow
+Gipuzcoa,20,47.3,28.4,18.9,23,Eibar,m20030,dontshow
+Girona,17,52.2,33.3,18.9,4,Caldes de Malavella,m17033,dontshow
+Asturias,33,54.8,35.9,18.9,10,Valdés,m33034,dontshow
+Castellón,12,46.5,27.7,18.8,17,Vinaròs,m12138,dontshow
+Murcia,30,50.6,31.8,18.8,20,"Torres de Cotillas, Las",m30038,dontshow
+Girona,17,51.4,32.6,18.8,12,Banyoles,m17015,dontshow
+Asturias,33,49.9,31.2,18.7,38,Siero,m33066,dontshow
+Sevilla,41,58.9,40.2,18.7,21,Morón de la Frontera,m41065,dontshow
+Santa Cruz de Tenerife,38,39,20.4,18.6,25,"Realejos, Los",m38031,dontshow
+Castellón,12,40.9,22.3,18.6,14,Onda,m12084,dontshow
+Murcia,30,46.7,28.2,18.5,23,Jumilla,m30022,dontshow
+Granada,18,47.2,28.7,18.5,4,Otura,m18149,dontshow
+"A Coruña",15,49.8,31.3,18.5,21,Oleiros,m15058,dontshow
+Bizkaia,48,52.8,34.3,18.5,87,Barakaldo,m48013,dontshow
+Castellón,12,42.2,23.8,18.4,3,Peníscola/Peñíscola,m12089,dontshow
+Sevilla,41,45.5,27.1,18.4,10,"Cabezas de San Juan, Las",m41020,dontshow
+Barcelona,8,50,31.6,18.4,51,Sant Cugat del Vallès,m8205,dontshow
+"A Coruña",15,53.5,35.1,18.4,63,Ferrol,m15036,dontshow
+Córdoba,14,40.3,22,18.3,3,Espiel,m14026,dontshow
+Murcia,30,46.4,28.1,18.3,30,Águilas,m30003,dontshow
+Ourense,32,48.8,30.5,18.3,80,Ourense,m32054,dontshow
+Gipuzkoa,20,50,31.7,18.3,12,Hondarribia,m20036,dontshow
+Gipuzcoa,20,50,31.7,18.3,12,Hondarribia,m20036,dontshow
+Barcelona,8,56.9,38.6,18.3,8,"Franqueses del Vallès, Les",m8086,dontshow
+"Illes Balears,",7,57.8,39.5,18.3,6,Son Servera,m7062,dontshow
+Valencia,46,34.8,16.6,18.2,2,Godelleta,m46136,dontshow
+Bizkaia,48,49.3,31.1,18.2,38,Basauri,m48015,dontshow
+Barcelona,8,50.1,31.9,18.2,15,Martorell,m8114,dontshow
+Barcelona,8,51.3,33.2,18.1,32,Cerdanyola del Vallès,m8266,dontshow
+Zaragoza,50,35.4,17.4,18,4,Zuera,m50298,dontshow
+Almería,4,39.9,21.9,18,2,Mojácar,m4064,dontshow
+León,24,49.5,31.5,18,5,Valverde de la Virgen,m24189,dontshow
+Málaga,29,52.7,34.7,18,24,Rincón de la Victoria,m29082,dontshow
+Madrid,28,41,23.1,17.9,49,"Rozas de Madrid, Las",m28127,dontshow
+Sevilla,41,43.3,25.4,17.9,17,Lora del Río,m41055,dontshow
+Ourense,32,43.8,25.9,17.9,5,"Pereiro de Aguiar, O",m32058,dontshow
+"A Coruña",15,44.4,26.5,17.9,28,Carballo,m15019,dontshow
+Jaén,23,44.9,27,17.9,18,Martos,m23060,dontshow
+Huelva,21,47.6,29.7,17.9,13,Almonte,m21005,dontshow
+Barcelona,8,50,32.1,17.9,9,Sant Celoni,m8202,dontshow
+Huelva,21,50.9,33,17.9,10,Punta Umbría,m21060,dontshow
+Valencia,46,38.7,20.9,17.8,15,Cullera,m46105,dontshow
+Tarragona,43,53.8,36,17.8,3,Roda de Barà,m43131,dontshow
+Castellón,12,37.9,20.2,17.7,4,Alcalà de Xivert,m12004,dontshow
+Lugo,27,45.6,28,17.6,14,Monforte de Lemos,m27031,dontshow
+Santa Cruz de Tenerife,38,46.8,29.2,17.6,12,"Rosario, El",m38032,dontshow
+Málaga,29,46.9,29.3,17.6,11,Alhaurín el Grande,m29008,dontshow
+Bizkaia,48,47.4,29.8,17.6,65,Getxo,m48044,dontshow
+Alicante,3,47.7,30.1,17.6,24,Dénia,m3063,dontshow
+Cádiz,11,50.4,32.8,17.6,18,San Roque,m11033,dontshow
+Huelva,21,39.2,21.7,17.5,5,San Juan del Puerto,m21064,dontshow
+Pontevedra,36,44.1,26.6,17.5,5,"Cañiza, A",m36009,dontshow
+Barcelona,8,53.6,36.1,17.5,11,Esparreguera,m8076,dontshow
+Granada,18,39.3,21.9,17.4,7,Illora,m18102,dontshow
+Pontevedra,36,43.7,26.3,17.4,20,Redondela,m36045,dontshow
+Valencia,46,33.9,16.6,17.3,11,Riba-roja de Túria,m46214,dontshow
+Valencia,46,40.3,23,17.3,19,Catarroja,m46094,dontshow
+Valencia,46,46.6,29.3,17.3,2,Montroy,m46176,dontshow
+"La Rioja",26,48.4,31.1,17.3,14,Calahorra,m26036,dontshow
+Tarragona,43,58.4,41.1,17.3,12,Salou,m43905,dontshow
+Cuenca,16,43.3,26.1,17.2,36,Cuenca,m16078,dontshow
+Burgos,9,46.9,29.7,17.2,22,Aranda de Duero,m9018,dontshow
+Córdoba,14,47.2,30,17.2,15,Palma del Río,m14049,dontshow
+Gipuzkoa,20,50.6,33.4,17.2,42,Irun,m20045,dontshow
+Gipuzcoa,20,50.6,33.4,17.2,42,Irun,m20045,dontshow
+Barcelona,8,52.5,35.3,17.2,16,Premià de Mar,m8172,dontshow
+Burgos,9,40.2,23.1,17.1,2,Villadiego,m9427,dontshow
+"Illes Balears,",7,44.7,27.6,17.1,22,Marratxí,m7036,dontshow
+Barcelona,8,52,34.9,17.1,11,Olesa de Montserrat,m8147,dontshow
+Almería,4,58.1,41,17.1,47,Roquetas de Mar,m4079,dontshow
+Bizkaia,48,48.8,31.8,17,26,Sestao,m48084,dontshow
+Barcelona,8,50.5,33.5,17,12,Sant Quirze del Vallès,m8238,dontshow
+Badajoz,6,39.4,22.5,16.9,20,Almendralejo,m6011,dontshow
+Murcia,30,41.5,24.6,16.9,12,Abarán,m30002,dontshow
+Cantabria,39,45.1,28.2,16.9,147,Santander,m39075,dontshow
+Almería,4,28.6,11.8,16.8,3,Cantoria,m4031,dontshow
+Toledo,45,36.5,19.7,16.8,2,Escalona,m45061,dontshow
+Valencia,46,38,21.2,16.8,5,"Pobla de Farnals, la",m46199,dontshow
+Alicante,3,38.6,21.8,16.8,11,Almoradí,m3015,dontshow
+Sevilla,41,38.6,21.8,16.8,3,Burguillos,m41019,dontshow
+Almería,4,42.1,25.3,16.8,12,Berja,m4029,dontshow
+Granada,18,43.5,26.7,16.8,15,Almuñécar,m18017,dontshow
+"A Coruña",15,43.7,26.9,16.8,20,Ames,m15002,dontshow
+Bizkaia,48,44.9,28.1,16.8,13,Bermeo,m48017,dontshow
+Cádiz,11,53.7,36.9,16.8,15,Conil de la Frontera,m11014,dontshow
+Murcia,30,28,11.3,16.7,6,Abanilla,m30001,dontshow
+Málaga,29,42.7,26,16.7,4,Algarrobo,m29005,dontshow
+Madrid,28,43.2,26.5,16.7,31,Collado Villalba,m28047,dontshow
+Sevilla,41,52.4,35.7,16.7,18,Coria del Río,m41034,dontshow
+Barcelona,8,54.2,37.5,16.7,9,Malgrat de Mar,m8110,dontshow
+Valencia,46,39.1,22.5,16.6,19,Aldaia,m46021,dontshow
+Santa Cruz de Tenerife,38,47.2,30.6,16.6,17,Candelaria,m38011,dontshow
+Pontevedra,36,37.9,21.4,16.5,9,Salvaterra de Miño,m36050,dontshow
+Tarragona,43,41.2,24.7,16.5,2,"Bisbal del Penedès, La",m43028,dontshow
+"Las Palmas",35,42.4,25.9,16.5,18,Ingenio,m35011,dontshow
+Asturias,33,47.9,31.4,16.5,13,Laviana,m33032,dontshow
+Gipuzkoa,20,49.6,33.1,16.5,16,Hernani,m20040,dontshow
+Gipuzcoa,20,49.6,33.1,16.5,16,Hernani,m20040,dontshow
+Murcia,30,36.9,20.5,16.4,16,Cehegín,m30017,dontshow
+Zaragoza,50,38.5,22.1,16.4,9,Tarazona,m50251,dontshow
+Murcia,30,45.1,28.7,16.4,12,Fuente Álamo de Murcia,m30021,dontshow
+Tarragona,43,53.5,37.1,16.4,21,"Vendrell, El",m43163,dontshow
+Melilla,52,48.9,32.6,16.3,44,Melilla,m52001,dontshow
+Málaga,29,53.9,37.6,16.3,28,Ronda,m29084,dontshow
+Sevilla,41,37.3,21.1,16.2,7,Cantillana,m41023,dontshow
+Huelva,21,40.4,24.2,16.2,10,Moguer,m21050,dontshow
+Barcelona,8,47,30.8,16.2,4,Sant Vicenç de Montalt,m8264,dontshow
+Barcelona,8,51.7,35.5,16.2,5,Bigues i Riells,m8023,dontshow
+Tarragona,43,55.8,39.6,16.2,3,Constantí,m43047,dontshow
+Bizkaia,48,42,25.9,16.1,12,Amorebieta-Etxano,m48003,dontshow
+Alicante,3,43.8,27.7,16.1,2,Polop,m3107,dontshow
+Barcelona,8,44.3,28.2,16.1,2,Olèrdola,m8145,dontshow
+Soria,42,44.8,28.7,16.1,24,Soria,m42173,dontshow
+Granada,18,47.7,31.6,16.1,15,Guadix,m18089,dontshow
+Badajoz,6,33.3,17.3,16,18,Villanueva de la Serena,m6153,dontshow
+Pontevedra,36,36.6,20.6,16,8,Caldas de Reis,m36005,dontshow
+León,24,38.2,22.2,16,7,Bembibre,m24014,dontshow
+Alicante,3,39,23,16,11,Monóvar/Monòver,m3089,dontshow
+"A Coruña",15,39.3,23.3,16,4,Dumbría,m15034,dontshow
+Sevilla,41,40,24,16,7,Alcalá del Río,m41005,dontshow
+Zaragoza,50,42.1,26.1,16,2,Pinseque,m50209,dontshow
+Barcelona,8,50.9,34.9,16,2,Castellbell i el Vilar,m8053,dontshow
+Barcelona,8,54.7,38.7,16,8,Argentona,m8009,dontshow
+Madrid,28,32.4,16.5,15.9,24,Tres Cantos,m28903,dontshow
+Valencia,46,39.2,23.3,15.9,32,Alzira,m46017,dontshow
+Toledo,45,39.7,23.8,15.9,5,Ocaña,m45121,dontshow
+Granada,18,40.4,24.5,15.9,5,Montefrío,m18135,dontshow
+Gipuzkoa,20,46.9,31,15.9,8,Beasain,m20019,dontshow
+Gipuzcoa,20,46.9,31,15.9,8,Beasain,m20019,dontshow
+Barcelona,8,50.1,34.2,15.9,30,Sant Feliu de Llobregat,m8211,dontshow
+Girona,17,54.4,38.5,15.9,12,Sant Feliu de Guíxols,m17160,dontshow
+Córdoba,14,35.2,19.4,15.8,4,Santaella,m14060,dontshow
+Valencia,46,36,20.2,15.8,10,"Pobla de Vallbona, la",m46202,dontshow
+Alicante,3,40.2,24.4,15.8,48,Alcoy/Alcoi,m3009,dontshow
+Murcia,30,44.4,28.6,15.8,21,Torre-Pacheco,m30037,dontshow
+Gipuzkoa,20,45.9,30.1,15.8,31,Errenteria,m20067,dontshow
+Gipuzcoa,20,45.9,30.1,15.8,31,Errenteria,m20067,dontshow
+Alicante,3,36.1,20.4,15.7,6,Pedreguer,m3101,dontshow
+Málaga,29,41.7,26,15.7,6,Archidona,m29017,dontshow
+Sevilla,41,42.3,26.6,15.7,9,Espartinas,m41040,dontshow
+Madrid,28,42.4,26.7,15.7,14,Arroyomolinos,m28015,dontshow
+León,24,43.2,27.5,15.7,10,Villaquilambre,m24222,dontshow
+Granada,18,44,28.3,15.7,17,Loja,m18122,dontshow
+"A Coruña",15,47.8,32.1,15.7,18,Arteixo,m15005,dontshow
+Tarragona,43,50.7,35,15.7,2,"Pobla de Montornès, La",m43111,dontshow
+Barcelona,8,53.2,37.5,15.7,10,Montornès del Vallès,m8136,dontshow
+Pontevedra,36,31.6,16,15.6,5,Mondariz,m36030,dontshow
+Alicante,3,39,23.4,15.6,9,Cocentaina,m3056,dontshow
+Gipuzkoa,20,40.8,25.2,15.6,14,Tolosa,m20071,dontshow
+Gipuzcoa,20,40.8,25.2,15.6,14,Tolosa,m20071,dontshow
+Madrid,28,41.5,25.9,15.6,14,Navalcarnero,m28096,dontshow
+Ourense,32,45.5,29.9,15.6,10,"Barco de Valdeorras, O",m32009,dontshow
+Barcelona,8,50.8,35.2,15.6,9,Arenys de Mar,m8006,dontshow
+Barcelona,8,52.7,37.1,15.6,26,Igualada,m8102,dontshow
+León,24,36.3,20.8,15.5,3,"Robla, La",m24134,dontshow
+Asturias,33,45.4,29.9,15.5,2,Ibias,m33028,dontshow
+Tarragona,43,52.5,37,15.5,3,"Pallaresos, Els",m43100,dontshow
+Castellón,12,36.2,20.8,15.4,4,Moncofa,m12077,dontshow
+Ourense,32,38.1,22.7,15.4,10,"Carballiño, O",m32019,dontshow
+Murcia,30,39,23.6,15.4,26,Caravaca de la Cruz,m30015,dontshow
+"La Rioja",26,38.3,23,15.3,10,Arnedo,m26018,dontshow
+Almería,4,47.1,31.8,15.3,16,Adra,m4003,dontshow
+Zamora,49,47.6,32.3,15.3,49,Zamora,m49275,dontshow
+Lugo,27,32.2,17,15.2,10,Sarria,m27057,dontshow
+Valencia,46,37.9,22.7,15.2,17,Oliva,m46181,dontshow
+Cantabria,39,40.5,25.3,15.2,15,Piélagos,m39052,dontshow
+"Illes Balears,",7,44,28.8,15.2,3,Algaida,m7004,dontshow
+Madrid,28,44.9,29.7,15.2,4,"Álamo, El",m28004,dontshow
+Valladolid,47,45.1,29.9,15.2,10,Arroyo de la Encomienda,m47010,dontshow
+Barcelona,8,48.9,33.7,15.2,6,Castellbisbal,m8054,dontshow
+Barcelona,8,53.2,38,15.2,20,Ripollet,m8180,dontshow
+Granada,18,38.7,23.6,15.1,2,Deifontes,m18066,dontshow
+Valencia,46,39,23.9,15.1,21,Alaquàs,m46005,dontshow
+Madrid,28,41.5,26.4,15.1,35,Valdemoro,m28161,dontshow
+Pontevedra,36,42.3,27.2,15.1,18,Ponteareas,m36042,dontshow
+Granada,18,51.1,36,15.1,10,Atarfe,m18022,dontshow
+"Las Palmas",35,52.8,37.7,15.1,10,San Bartolomé,m35018,dontshow
+"Illes Balears,",7,34.1,19.1,15,6,"Pobla, Sa",m7044,dontshow
+Lugo,27,38.3,23.3,15,13,Vilalba,m27065,dontshow
+Tarragona,43,40.8,25.8,15,3,"Ametlla de Mar, L'",m43013,dontshow
+Teruel,44,43.2,28.2,15,20,Teruel,m44216,dontshow
+Salamanca,37,45,30,15,11,Ciudad Rodrigo,m37107,dontshow
+Valencia,46,36.9,22,14.9,32,Mislata,m46169,dontshow
+León,24,41.4,26.5,14.9,10,Villablino,m24202,dontshow
+Sevilla,41,43.7,28.8,14.9,6,Bollullos de la Mitación,m41016,dontshow
+Granada,18,50.7,35.8,14.9,12,Maracena,m18127,dontshow
+Barcelona,8,52.4,37.5,14.9,9,Caldes de Montbui,m8033,dontshow
+Almería,4,42,27.2,14.8,11,Níjar,m4066,dontshow
+Málaga,29,45,30.2,14.8,9,Álora,m29012,dontshow
+Granada,18,46.5,31.7,14.8,8,Salobreña,m18173,dontshow
+Sevilla,41,47.5,32.7,14.8,12,Castilleja de la Cuesta,m41029,dontshow
+Barcelona,8,57.1,42.3,14.8,17,Sant Pere de Ribes,m8231,dontshow
+Castellón,12,30.8,16.1,14.7,9,Nules,m12082,dontshow
+"Illes Balears,",7,35.2,20.5,14.7,2,"Salines, Ses",m7059,dontshow
+Albacete,2,38.1,23.4,14.7,10,"Roda, La",m2069,dontshow
+Málaga,29,43.6,28.9,14.7,13,Coín,m29042,dontshow
+Lugo,27,46.9,32.2,14.7,74,Lugo,m27028,dontshow
+"Illes Balears,",7,21.9,7.3,14.6,2,Montuïri,m7038,dontshow
+Madrid,28,40.1,25.5,14.6,13,Galapagar,m28061,dontshow
+Guadalajara,19,41.7,27.1,14.6,16,Azuqueca de Henares,m19046,dontshow
+Ávila,5,42.1,27.5,14.6,39,Ávila,m5019,dontshow
+Granada,18,45.9,31.3,14.6,4,Padul,m18150,dontshow
+"A Coruña",15,34.1,19.6,14.5,6,Oroso,m15060,dontshow
+Tarragona,43,40.3,25.8,14.5,2,Santa Oliva,m43140,dontshow
+Lugo,27,41.1,26.6,14.5,12,Viveiro,m27066,dontshow
+"A Coruña",15,42,27.5,14.5,5,Carnota,m15020,dontshow
+Zaragoza,50,42.7,28.2,14.5,13,Ejea de los Caballeros,m50095,dontshow
+Santa Cruz de Tenerife,38,42.9,28.4,14.5,10,Guía de Isora,m38019,dontshow
+Lleida,25,48.6,34.1,14.5,5,Tremp,m25234,dontshow
+"A Coruña",15,50.3,35.8,14.5,16,Cambre,m15017,dontshow
+Girona,17,56.5,42,14.5,5,Castell-Platja d'Aro,m17048,dontshow
+Valencia,46,38.2,23.8,14.4,14,Picassent,m46194,dontshow
+"A Coruña",15,43.9,29.5,14.4,12,Teo,m15082,dontshow
+Sevilla,41,49.4,35,14.4,28,Écija,m41039,dontshow
+Valencia,46,36.2,21.9,14.3,8,Chiva,m46111,dontshow
+Girona,17,41.8,27.5,14.3,3,Begur,m17013,dontshow
+Barcelona,8,49.1,34.8,14.3,5,Sant Vicenç de Castellet,m8262,dontshow
+Barcelona,8,58.5,44.2,14.3,11,Corbera de Llobregat,m8072,dontshow
+Pontevedra,36,39.4,25.2,14.2,12,"Porriño, O",m36039,dontshow
+Madrid,28,40.2,26,14.2,28,Pinto,m28113,dontshow
+Santa Cruz de Tenerife,38,41.3,27.1,14.2,6,Arico,m38005,dontshow
+Huelva,21,42.7,28.5,14.2,15,Lepe,m21044,dontshow
+Cáceres,10,44.5,30.3,14.2,13,Navalmoral de la Mata,m10131,dontshow
+Tarragona,43,49.7,35.5,14.2,15,Valls,m43161,dontshow
+Alicante,3,32.6,18.5,14.1,7,Albatera,m3005,dontshow
+Alicante,3,35.1,21,14.1,4,Dolores,m3064,dontshow
+Toledo,45,39.5,25.4,14.1,5,Bargas,m45019,dontshow
+Barcelona,8,40.8,26.7,14.1,5,Navàs,m8141,dontshow
+Barcelona,8,50.6,36.5,14.1,15,Sitges,m8270,dontshow
+Murcia,30,34.7,20.7,14,8,Moratalla,m30028,dontshow
+Alicante,3,39,25,14,2,Formentera del Segura,m3070,dontshow
+Madrid,28,41.4,27.4,14,8,San Martín de la Vega,m28132,dontshow
+Girona,17,49.4,35.4,14,7,Torroella de Montgrí,m17199,dontshow
+Girona,17,52.4,38.4,14,5,"Escala, L'",m17062,dontshow
+Valencia,46,35.8,21.9,13.9,21,Xirivella,m46110,dontshow
+Almería,4,37.6,23.7,13.9,7,Cuevas del Almanzora,m4035,dontshow
+Asturias,33,43.4,29.5,13.9,14,Villaviciosa,m33076,dontshow
+Toledo,45,43.7,29.8,13.9,6,Yuncos,m45205,dontshow
+Barcelona,8,54,40.1,13.9,12,Manlleu,m8112,dontshow
+Sevilla,41,45.5,31.7,13.8,5,Olivares,m41067,dontshow
+Bizkaia,48,47.3,33.5,13.8,20,Erandio,m48902,dontshow
+Bizkaia,48,48.1,34.3,13.8,38,Santurtzi,m48082,dontshow
+Navarra,31,32.1,18.4,13.7,2,Milagro,m31169,dontshow
+Málaga,29,32.9,19.2,13.7,2,Mollina,m29072,dontshow
+Valencia,46,35.7,22,13.7,21,Quart de Poblet,m46102,dontshow
+Segovia,40,40.8,27.1,13.7,43,Segovia,m40194,dontshow
+Segovia,40,41.2,27.5,13.7,7,Cuéllar,m40063,dontshow
+Sevilla,41,41.7,28,13.7,17,Lebrija,m41053,dontshow
+"Illes Balears,",7,42.4,28.7,13.7,5,Alaior,m7002,dontshow
+Córdoba,14,43,29.3,13.7,18,Montilla,m14042,dontshow
+Murcia,30,43.6,29.9,13.7,15,"Unión, La",m30041,dontshow
+Madrid,28,38.2,24.6,13.6,4,Villa del Prado,m28171,dontshow
+Murcia,30,39.7,26.1,13.6,27,Totana,m30039,dontshow
+Pontevedra,36,48.4,34.8,13.6,17,Marín,m36026,dontshow
+Barcelona,8,50,36.4,13.6,2,Olesa de Bonesvalls,m8146,dontshow
+Granada,18,50,36.4,13.6,11,"Gabias, Las",m18905,dontshow
+Huelva,21,31.1,17.6,13.5,3,Beas,m21011,dontshow
+Valencia,46,34.5,21,13.5,6,Cheste,m46109,dontshow
+Jaén,23,47.8,34.3,13.5,12,Bailén,m23010,dontshow
+Murcia,30,38.7,25.3,13.4,8,Alguazas,m30007,dontshow
+Córdoba,14,40,26.6,13.4,7,Almodóvar del Río,m14005,dontshow
+Valladolid,47,41,27.6,13.4,4,Aldeamayor de San Martín,m47007,dontshow
+Barcelona,8,49,35.6,13.4,21,Sant Joan Despí,m8217,dontshow
+"Las Palmas",35,61.1,47.7,13.4,32,Arrecife,m35004,dontshow
+Valencia,46,33.8,20.5,13.3,24,Algemesí,m46029,dontshow
+Albacete,2,34.2,20.9,13.3,18,Almansa,m2009,dontshow
+Navarra,31,40.4,27.1,13.3,21,Tudela,m31232,dontshow
+Bizkaia,48,41.4,28.1,13.3,3,Iurreta,m48910,dontshow
+Gipuzkoa,20,44.7,31.4,13.3,14,Pasaia,m20064,dontshow
+Gipuzcoa,20,44.7,31.4,13.3,14,Pasaia,m20064,dontshow
+Almería,4,48.5,35.2,13.3,10,Huércal de Almería,m4052,dontshow
+Albacete,2,32.4,19.2,13.2,15,Villarrobledo,m2081,dontshow
+Pontevedra,36,32.6,19.4,13.2,6,Salceda de Caselas,m36049,dontshow
+Córdoba,14,33.8,20.6,13.2,4,Hornachuelos,m14036,dontshow
+Alicante,3,36.5,23.3,13.2,7,Onil,m3096,dontshow
+"Las Palmas",35,38.9,25.7,13.2,27,Arucas,m35006,dontshow
+Barcelona,8,44.2,31,13.2,7,Santa Margarida de Montbui,m8250,dontshow
+Barcelona,8,45.3,32.1,13.2,2,Òdena,m8143,dontshow
+Barcelona,8,47.8,34.6,13.2,22,Vilafranca del Penedès,m8305,dontshow
+Barcelona,8,48.2,35,13.2,8,Cardedeu,m8046,dontshow
+Málaga,29,52.6,39.4,13.2,20,Alhaurín de la Torre,m29007,dontshow
+Ourense,32,29.4,16.3,13.1,4,San Cibrao das Viñas,m32075,dontshow
+Pontevedra,36,32,18.9,13.1,19,"Estrada, A",m36017,dontshow
+Valencia,46,38.5,25.4,13.1,9,Utiel,m46249,dontshow
+Almería,4,40.5,27.4,13.1,6,Albox,m4006,dontshow
+Santa Cruz de Tenerife,38,43.3,30.2,13.1,18,Icod de los Vinos,m38022,dontshow
+Gipuzkoa,20,44.9,31.8,13.1,4,Mutriku,m20056,dontshow
+Gipuzcoa,20,44.9,31.8,13.1,4,Mutriku,m20056,dontshow
+Murcia,30,34.9,21.9,13,11,Archena,m30009,dontshow
+Ciudad Real,13,35.1,22.1,13,12,Daimiel,m13039,dontshow
+Ourense,32,36.4,23.4,13,6,Barbadás,m32008,dontshow
+Cantabria,39,37.3,24.3,13,10,Laredo,m39035,dontshow
+Madrid,28,38.4,25.4,13,23,San Fernando de Henares,m28130,dontshow
+Valladolid,47,38.4,25.4,13,18,Laguna de Duero,m47076,dontshow
+Cantabria,39,30,17.1,12.9,6,Cabezón de la Sal,m39012,dontshow
+Valencia,46,31.1,18.2,12.9,4,Puig,m46204,dontshow
+Córdoba,14,35.6,22.7,12.9,4,Iznájar,m14037,dontshow
+Cantabria,39,38.1,25.2,12.9,21,Camargo,m39016,dontshow
+Zaragoza,50,39.3,26.4,12.9,6,Caspe,m50074,dontshow
+Zaragoza,50,44.2,31.3,12.9,11,Utebo,m50272,dontshow
+Bizkaia,48,44.6,31.7,12.9,40,Portugalete,m48078,dontshow
+Sevilla,41,50.4,37.5,12.9,5,Valencina de la Concepción,m41096,dontshow
+Zaragoza,50,30,17.2,12.8,4,Épila,m50099,dontshow
+"A Coruña",15,32.9,20.1,12.8,11,"Laracha, A",m15041,dontshow
+Pontevedra,36,38.2,25.4,12.8,2,Dozón,m36016,dontshow
+Sevilla,41,38.6,25.8,12.8,5,Villanueva del Río y Minas,m41099,dontshow
+Málaga,29,39.6,26.8,12.8,7,Pizarra,m29080,dontshow
+Sevilla,41,40.9,28.1,12.8,10,"Algaba, La",m41007,dontshow
+Pontevedra,36,42.4,29.6,12.8,8,Baiona,m36003,dontshow
+Salamanca,37,43.8,31,12.8,9,Santa Marta de Tormes,m37294,dontshow
+Girona,17,45.6,32.8,12.8,3,Porqueres,m17137,dontshow
+Tarragona,43,48.9,36.1,12.8,5,Montblanc,m43086,dontshow
+Valencia,46,34.6,21.9,12.7,12,Silla,m46230,dontshow
+Valencia,46,41.4,28.7,12.7,3,Montserrat,m46172,dontshow
+Gipuzkoa,20,44.2,31.5,12.7,9,Elgoibar,m20032,dontshow
+Gipuzcoa,20,44.2,31.5,12.7,9,Elgoibar,m20032,dontshow
+Murcia,30,35.5,22.9,12.6,30,Yecla,m30043,dontshow
+Teruel,44,40.2,27.6,12.6,11,Alcañiz,m44013,dontshow
+Sevilla,41,40.4,27.8,12.6,7,"Puebla del Río, La",m41079,dontshow
+Gipuzkoa,20,40.7,28.1,12.6,14,Zarautz,m20079,dontshow
+Gipuzcoa,20,40.7,28.1,12.6,14,Zarautz,m20079,dontshow
+Huesca,22,43.2,30.6,12.6,11,Monzón,m22158,dontshow
+Asturias,33,43.4,30.8,12.6,19,Castrillón,m33016,dontshow
+Barcelona,8,44.8,32.2,12.6,4,Santa Margarida i els Monjos,m8251,dontshow
+Almería,4,47.4,34.8,12.6,13,Vícar,m4102,dontshow
+Barcelona,8,49.6,37,12.6,5,Palafolls,m8155,dontshow
+Barcelona,8,49.7,37.1,12.6,5,Cervelló,m8068,dontshow
+Ourense,32,28.3,15.8,12.5,2,Taboadela,m32079,dontshow
+Ourense,32,34.8,22.3,12.5,3,Boborás,m32013,dontshow
+Valencia,46,35.6,23.1,12.5,5,Canet d'En Berenguer,m46082,dontshow
+Sevilla,41,40,27.5,12.5,13,Osuna,m41068,dontshow
+Bizkaia,48,44,31.5,12.5,11,Ermua,m48034,dontshow
+"A Coruña",15,54,41.5,12.5,28,Narón,m15054,dontshow
+Alicante,3,32.7,20.3,12.4,3,Agost,m3002,dontshow
+Valencia,46,35.3,22.9,12.4,8,Massamagrell,m46164,dontshow
+Asturias,33,38.7,26.3,12.4,11,Llanera,m33035,dontshow
+Toledo,45,40.9,28.5,12.4,15,Illescas,m45081,dontshow
+Pontevedra,36,42.8,30.4,12.4,3,"Lama, A",m36025,dontshow
+Barcelona,8,45.7,33.3,12.4,4,Sant Fruitós de Bages,m8213,dontshow
+Girona,17,48.2,35.8,12.4,6,Santa Coloma de Farners,m17180,dontshow
+Barcelona,8,52.4,40,12.4,10,Lliçà d'Amunt,m8107,dontshow
+León,24,29.9,17.6,12.3,2,Santa Marina del Rey,m24159,dontshow
+Valencia,46,32.1,19.8,12.3,14,Tavernes de la Valldigna,m46238,dontshow
+Pontevedra,36,36.4,24.1,12.3,9,Gondomar,m36021,dontshow
+Madrid,28,38,25.7,12.3,8,Humanes de Madrid,m28073,dontshow
+Barcelona,8,43.2,30.9,12.3,4,Súria,m8274,dontshow
+"A Coruña",15,29.6,17.4,12.2,10,Ordes,m15059,dontshow
+Alicante,3,33.7,21.5,12.2,5,Gata de Gorgos,m3071,dontshow
+Huelva,21,36.7,24.5,12.2,8,Bollullos Par del Condado,m21013,dontshow
+Almería,4,37.6,25.4,12.2,3,Viator,m4101,dontshow
+Tarragona,43,40.5,28.3,12.2,12,Amposta,m43014,dontshow
+Madrid,28,40.8,28.6,12.2,8,Paracuellos de Jarama,m28104,dontshow
+León,24,44.7,32.5,12.2,46,Ponferrada,m24115,dontshow
+Barcelona,8,45.1,32.9,12.2,5,Santa Coloma de Cervelló,m8244,dontshow
+Barcelona,8,47,34.8,12.2,2,"Torre de Claramunt, La",m8286,dontshow
+Barcelona,8,47.9,35.7,12.2,7,Abrera,m8001,dontshow
+Barcelona,8,50.8,38.6,12.2,6,Sant Andreu de Llavaneres,m8197,dontshow
+"Illes Balears,",7,23.6,11.5,12.1,3,Selva,m7058,dontshow
+Castellón,12,31.9,19.8,12.1,24,"Vall d'Uixó, la",m12126,dontshow
+Lugo,27,32.5,20.4,12.1,7,Foz,m27019,dontshow
+"Las Palmas",35,32.7,20.6,12.1,6,Moya,m35013,dontshow
+"Illes Balears,",7,35,22.9,12.1,5,Campos,m7013,dontshow
+Toledo,45,35.3,23.2,12.1,6,Fuensalida,m45066,dontshow
+Ourense,32,39.6,27.5,12.1,9,Verín,m32085,dontshow
+Barcelona,8,47.9,35.8,12.1,6,Premià de Dalt,m8230,dontshow
+Sevilla,41,50,37.9,12.1,11,Marchena,m41060,dontshow
+Barcelona,8,52.3,40.2,12.1,12,Badia del Vallès,m8904,dontshow
+Navarra,31,35.6,23.6,12,11,Barañain,m31901,dontshow
+Pontevedra,36,36.4,24.4,12,7,"Grove, O",m36022,dontshow
+Córdoba,14,40.8,28.8,12,9,"Carlota, La",m14017,dontshow
+Granada,18,45.6,33.6,12,16,Baza,m18023,dontshow
+Barcelona,8,50.2,38.2,12,23,Barberà del Vallès,m8252,dontshow
+Barcelona,8,50.4,38.4,12,5,"Ametlla del Vallès, L'",m8005,dontshow
+Santa Cruz de Tenerife,38,26.4,14.5,11.9,7,"Victoria de Acentejo, La",m38051,dontshow
+Valencia,46,28.8,16.9,11.9,7,Benaguasil,m46051,dontshow
+Valencia,46,32.6,20.7,11.9,16,Sueca,m46235,dontshow
+Valencia,46,33.6,21.7,11.9,12,Puçol,m46205,dontshow
+Alicante,3,38.2,26.3,11.9,26,Petrer,m3104,dontshow
+Valencia,46,38.3,26.4,11.9,17,Alfafar,m46022,dontshow
+Lugo,27,38.4,26.5,11.9,6,Ribadeo,m27051,dontshow
+Jaén,23,38.7,26.8,11.9,5,Santiago-Pontones,m23904,dontshow
+Madrid,28,43.1,31.2,11.9,5,Meco,m28083,dontshow
+Álava,1,43.5,31.6,11.9,13,Laudio/Llodio,m1036,dontshow
+"Illes Balears,",7,44.7,32.8,11.9,15,Maó,m7032,dontshow
+Barcelona,8,48.5,36.6,11.9,4,Sant Antoni de Vilamajor,m8198,dontshow
+Málaga,29,31.2,19.4,11.8,3,Villanueva de la Concepción,m29902,dontshow
+Cádiz,11,36.5,24.7,11.8,13,Ubrique,m11038,dontshow
+Cádiz,11,40,28.2,11.8,9,Vejer de la Frontera,m11039,dontshow
+Girona,17,48.8,37,11.8,11,Palamós,m17118,dontshow
+Barcelona,8,49,37.2,11.8,5,"Roca del Vallès, La",m8181,dontshow
+Pontevedra,36,31.6,19.9,11.7,15,Lalín,m36024,dontshow
+Pontevedra,36,33,21.3,11.7,12,Tui,m36055,dontshow
+Tarragona,43,41.3,29.6,11.7,2,Banyeres del Penedès,m43020,dontshow
+Barcelona,8,43.2,31.5,11.7,2,Monistrol de Montserrat,m8127,dontshow
+Asturias,33,43.6,31.9,11.7,11,Aller,m33002,dontshow
+Murcia,30,27.1,15.5,11.6,6,Fortuna,m30020,dontshow
+Alicante,3,37.3,25.7,11.6,23,Novelda,m3093,dontshow
+"A Coruña",15,39.1,27.5,11.6,8,Muros,m15053,dontshow
+Córdoba,14,39.8,28.2,11.6,6,Posadas,m14053,dontshow
+Bizkaia,48,43.5,31.9,11.6,11,Valle de Trápaga-Trapagaran,m48080,dontshow
+León,24,44.8,33.2,11.6,19,San Andrés del Rabanedo,m24142,dontshow
+Barcelona,8,44.9,33.3,11.6,4,Sant Esteve Sesrovires,m8208,dontshow
+Huesca,22,46.4,34.8,11.6,10,Fraga,m22112,dontshow
+Alicante,3,46.8,35.2,11.6,2,Finestrat,m3069,dontshow
+Huelva,21,48.5,36.9,11.6,11,Aljaraque,m21002,dontshow
+Lleida,25,53.2,41.6,11.6,4,Alcarràs,m25011,dontshow
+"A Coruña",15,33.6,22.1,11.5,5,Cee,m15023,dontshow
+Toledo,45,37.5,26,11.5,2,Camarena,m45031,dontshow
+Pontevedra,36,40.8,29.3,11.5,13,Sanxenxo,m36051,dontshow
+Barcelona,8,42.9,31.4,11.5,6,Viladecavalls,m8300,dontshow
+"Las Palmas",35,43.1,31.6,11.5,4,Tinajo,m35029,dontshow
+Toledo,45,45.7,34.2,11.5,11,Seseña,m45161,dontshow
+Toledo,45,47.5,36,11.5,2,"Viso de San Juan, El",m45199,dontshow
+Murcia,30,30.1,18.7,11.4,10,Beniel,m30010,dontshow
+Granada,18,32.1,20.7,11.4,5,Alhama de Granada,m18013,dontshow
+"Las Palmas",35,38.2,26.8,11.4,7,Tuineje,m35030,dontshow
+León,24,40,28.6,11.4,7,Astorga,m24008,dontshow
+Granada,18,41.5,30.1,11.4,3,Gójar,m18084,dontshow
+Barcelona,8,47.7,36.3,11.4,6,Llinars del Vallès,m8106,dontshow
+Barcelona,8,48.8,37.4,11.4,9,"Llagosta, La",m8105,dontshow
+Cantabria,39,28,16.7,11.3,4,Campoo de Enmedio,m39027,dontshow
+Cáceres,10,30.7,19.4,11.3,9,Coria,m10067,dontshow
+Murcia,30,33.9,22.6,11.3,9,Calasparra,m30013,dontshow
+Valencia,46,34.8,23.5,11.3,17,Moncada,m46171,dontshow
+Córdoba,14,37.4,26.1,11.3,15,Cabra,m14013,dontshow
+Alicante,3,39.7,28.4,11.3,7,Jijona/Xixona,m3083,dontshow
+Asturias,33,40.5,29.2,11.3,3,Colunga,m33019,dontshow
+"A Coruña",15,44.4,33.1,11.3,14,Boiro,m15011,dontshow
+Pontevedra,36,46,34.7,11.3,10,Bueu,m36004,dontshow
+Barcelona,8,47.8,36.5,11.3,8,Palau-solità i Plegamans,m8156,dontshow
+Santa Cruz de Tenerife,38,27.1,15.9,11.2,6,San Sebastián de la Gomera,m38036,dontshow
+Madrid,28,34.8,23.6,11.2,5,Valdemorillo,m28160,dontshow
+"A Coruña",15,37.9,26.7,11.2,10,Noia,m15057,dontshow
+Lleida,25,41.4,30.2,11.2,5,Cervera,m25072,dontshow
+Gipuzkoa,20,42,30.8,11.2,11,Bergara,m20074,dontshow
+Gipuzcoa,20,42,30.8,11.2,11,Bergara,m20074,dontshow
+"Illes Balears,",7,44.4,33.2,11.2,5,Andratx,m7005,dontshow
+Tarragona,43,45.6,34.4,11.2,10,Sant Carles de la Ràpita,m43136,dontshow
+Cádiz,11,29,17.9,11.1,9,Medina-Sidonia,m11023,dontshow
+Ourense,32,31,19.9,11.1,7,Xinzo de Limia,m32032,dontshow
+Córdoba,14,35.5,24.4,11.1,8,Montoro,m14043,dontshow
+Madrid,28,38.4,27.3,11.1,5,Brunete,m28026,dontshow
+Huesca,22,39.2,28.1,11.1,11,Barbastro,m22048,dontshow
+Sevilla,41,55.5,44.4,11.1,18,Camas,m41021,dontshow
+Valencia,46,28.3,17.3,11,2,Miramar,m46168,dontshow
+"A Coruña",15,35.1,24.1,11,9,Porto do Son,m15071,dontshow
+Madrid,28,35.7,24.7,11,5,Villarejo de Salvanés,m28180,dontshow
+Ciudad Real,13,41.5,30.5,11,21,Valdepeñas,m13087,dontshow
+Bizkaia,48,42.8,31.8,11,8,Arrigorriaga,m48011,dontshow
+Lleida,25,44.5,33.5,11,11,Tàrrega,m25217,dontshow
+Santa Cruz de Tenerife,38,44.5,33.5,11,13,"Llanos de Aridane, Los",m38024,dontshow
+Granada,18,46.1,35.1,11,8,Churriana de la Vega,m18062,dontshow
+Castellón,12,24.5,13.6,10.9,2,Chilches/Xilxes,m12053,dontshow
+"A Coruña",15,34.6,23.7,10.9,6,Arzúa,m15006,dontshow
+Asturias,33,34.7,23.8,10.9,10,Llanes,m33036,dontshow
+Pontevedra,36,34.8,23.9,10.9,3,Agolada,m36020,dontshow
+Ciudad Real,13,35.4,24.5,10.9,7,Bolaños de Calatrava,m13023,dontshow
+"Illes Balears,",7,39.3,28.4,10.9,11,Felanitx,m7022,dontshow
+Barcelona,8,43,32.1,10.9,3,Capellades,m8044,dontshow
+Bizkaia,48,43.4,32.5,10.9,7,Etxebarri,m48029,dontshow
+Asturias,33,48.9,38,10.9,12,Cangas del Narcea,m33011,dontshow
+Ourense,32,25.2,14.4,10.8,2,Xunqueira de Ambía,m32036,dontshow
+Valencia,46,25.8,15,10.8,7,Albaida,m46006,dontshow
+Alicante,3,28.4,17.6,10.8,6,Pego,m3102,dontshow
+Cantabria,39,29.3,18.5,10.8,4,San Vicente de la Barquera,m39080,dontshow
+Barcelona,8,35.6,24.8,10.8,3,Subirats,m8273,dontshow
+Madrid,28,35.6,24.8,10.8,3,Serranillos del Valle,m28140,dontshow
+Zamora,49,35.8,25,10.8,8,Toro,m49219,dontshow
+Madrid,28,37.7,26.9,10.8,9,Algete,m28009,dontshow
+Toledo,45,38.8,28,10.8,8,Sonseca,m45163,dontshow
+Huesca,22,41.9,31.1,10.8,8,Jaca,m22130,dontshow
+Asturias,33,43.4,32.6,10.8,13,Corvera de Asturias,m33020,dontshow
+Sevilla,41,43.6,32.8,10.8,14,Tomares,m41093,dontshow
+Girona,17,44.1,33.3,10.8,8,Ripoll,m17147,dontshow
+Barcelona,8,47.7,36.9,10.8,2,Masquefa,m8119,dontshow
+Lleida,25,48.8,38,10.8,6,Mollerussa,m25137,dontshow
+Barcelona,8,52,41.2,10.8,8,Torelló,m8285,dontshow
+Valencia,46,29.7,19,10.7,7,Massanassa,m46165,dontshow
+Alicante,3,32.8,22.1,10.7,2,Xaló,m3081,dontshow
+Cáceres,10,33.6,22.9,10.7,7,Trujillo,m10195,dontshow
+Murcia,30,35.3,24.6,10.7,12,Puerto Lumbreras,m30033,dontshow
+"La Rioja",26,42.1,31.4,10.7,8,Haro,m26071,dontshow
+Bizkaia,48,44.7,34,10.7,10,Mungia,m48069,dontshow
+"A Coruña",15,47,36.3,10.7,11,Fene,m15035,dontshow
+Valencia,46,27.3,16.7,10.6,7,Godella,m46135,dontshow
+"Las Palmas",35,29.8,19.2,10.6,12,Santa María de Guía de Gran Canaria,m35023,dontshow
+Sevilla,41,30.5,19.9,10.6,3,Castilblanco de los Arroyos,m41027,dontshow
+Córdoba,14,40.6,30,10.6,13,Peñarroya-Pueblonuevo,m14052,dontshow
+Valencia,46,41.9,31.3,10.6,13,Requena,m46213,dontshow
+Lleida,25,48.2,37.6,10.6,7,"Seu d'Urgell, La",m25203,dontshow
+Sevilla,41,51.5,40.9,10.6,3,Alcolea del Río,m41006,dontshow
+Tarragona,43,52.4,41.8,10.6,8,Torredembarra,m43153,dontshow
+Barcelona,8,54.4,43.8,10.6,4,Torrelles de Llobregat,m8289,dontshow
+Girona,17,43.1,32.6,10.5,3,Celrà,m17049,dontshow
+Pontevedra,36,28.7,18.3,10.4,4,Forcarei,m36018,dontshow
+Córdoba,14,29.7,19.3,10.4,2,Almedinilla,m14004,dontshow
+Valencia,46,31,20.6,10.4,14,Paiporta,m46186,dontshow
+Jaén,23,32.4,22,10.4,13,Baeza,m23009,dontshow
+Córdoba,14,32.6,22.2,10.4,6,Villa del Río,m14066,dontshow
+Huelva,21,33.5,23.1,10.4,2,Manzanilla,m21047,dontshow
+Pontevedra,36,35,24.6,10.4,7,Vilanova de Arousa,m36061,dontshow
+"A Coruña",15,37.3,26.9,10.4,6,Ponteceso,m15068,dontshow
+Gipuzkoa,20,37.7,27.3,10.4,8,Ordizia,m20076,dontshow
+Gipuzcoa,20,37.7,27.3,10.4,8,Ordizia,m20076,dontshow
+Cantabria,39,38.9,28.5,10.4,7,Santa Cruz de Bezana,m39073,dontshow
+Tarragona,43,39.2,28.8,10.4,2,Camarles,m43903,dontshow
+Gipuzkoa,20,43.8,33.4,10.4,11,Andoain,m20009,dontshow
+Gipuzcoa,20,43.8,33.4,10.4,11,Andoain,m20009,dontshow
+Huelva,21,45.3,34.9,10.4,7,Aracena,m21007,dontshow
+Barcelona,8,53.1,42.7,10.4,7,Tordera,m8284,dontshow
+Valencia,46,23.5,13.2,10.3,9,"Alcúdia, l'",m46019,dontshow
+"Las Palmas",35,32.3,22,10.3,10,Teror,m35027,dontshow
+Pontevedra,36,34.4,24.1,10.3,10,Mos,m36033,dontshow
+Asturias,33,34.8,24.5,10.3,3,Candamo,m33010,dontshow
+"A Coruña",15,35.4,25.1,10.3,4,Ares,m15004,dontshow
+Granada,18,37.3,27,10.3,2,Cortes de Baza,m18053,dontshow
+Jaén,23,37.4,27.1,10.3,7,Villanueva del Arzobispo,m23097,dontshow
+Barcelona,8,39.2,28.9,10.3,8,Sant Sadurní d'Anoia,m8240,dontshow
+Asturias,33,39.5,29.2,10.3,5,Parres,m33045,dontshow
+Pontevedra,36,43.6,33.3,10.3,26,Vilagarcía de Arousa,m36060,dontshow
+Barcelona,8,44.6,34.3,10.3,2,"Masies de Voltregà, Les",m8117,dontshow
+Barcelona,8,45.6,35.3,10.3,7,Sallent,m8191,dontshow
+Huelva,21,30.6,20.4,10.2,4,Alosno,m21006,dontshow
+Valladolid,47,36,25.8,10.2,2,Mojados,m47090,dontshow
+Cádiz,11,36.7,26.5,10.2,10,Villamartín,m11041,dontshow
+Asturias,33,42.2,32,10.2,10,Carreño,m33014,dontshow
+Sevilla,41,49.3,39.1,10.2,10,Bormujos,m41017,dontshow
+Barcelona,8,51.6,41.4,10.2,9,Piera,m8161,dontshow
+Cáceres,10,24.6,14.5,10.1,4,Malpartida de Cáceres,m10115,dontshow
+Murcia,30,29.3,19.2,10.1,5,Librilla,m30023,dontshow
+Santa Cruz de Tenerife,38,32.2,22.1,10.1,5,"Matanza de Acentejo, La",m38025,dontshow
+Pontevedra,36,34.5,24.4,10.1,5,Ponte Caldelas,m36043,dontshow
+"A Coruña",15,35.1,25,10.1,5,"Pino, O",m15066,dontshow
+Navarra,31,38.8,28.7,10.1,11,Burlada/Burlata,m31060,dontshow
+Toledo,45,38.8,28.7,10.1,3,Casarrubios del Monte,m45041,dontshow
+Bizkaia,48,43.7,33.6,10.1,21,Leioa,m48054,dontshow
+Sevilla,41,48,37.9,10.1,5,Benacazón,m41015,dontshow
+"Illes Balears,",7,27.1,17.1,10,2,Sant Joan,m7049,dontshow
+Navarra,31,29.1,19.1,10,2,Caparroso,m31065,dontshow
+León,24,31.4,21.4,10,2,Benavides,m24015,dontshow
+Alicante,3,37.5,27.5,10,11,Sant Joan d'Alacant,m3119,dontshow
+Huelva,21,38,28,10,2,Jabugo,m21043,dontshow
+Madrid,28,39.1,29.1,10,4,San Martín de Valdeiglesias,m28133,dontshow
+"Illes Balears,",7,39.4,29.4,10,9,Sóller,m7061,dontshow
+Granada,18,40,30,10,10,Santa Fe,m18175,dontshow
+Madrid,28,40,30,10,8,"Escorial, El",m28054,dontshow
+Almería,4,28.2,18.3,9.9,11,Huércal-Overa,m4053,dontshow
+Pontevedra,36,28.4,18.5,9.9,5,Meaño,m36027,dontshow
+Alicante,3,31.3,21.4,9.9,11,Callosa de Segura,m3049,dontshow
+"A Coruña",15,32.6,22.7,9.9,8,Ortigueira,m15061,dontshow
+Pontevedra,36,34,24.1,9.9,8,Tomiño,m36054,dontshow
+Sevilla,41,34.7,24.8,9.9,6,Paradas,m41071,dontshow
+Lleida,25,39.1,29.2,9.9,3,Vielha e Mijaran,m25243,dontshow
+Lugo,27,42.6,32.7,9.9,3,Abadín,m27001,dontshow
+Tarragona,43,51.5,41.6,9.9,2,Creixell,m43050,dontshow
+León,24,26.9,17.1,9.8,3,Camponaraya,m24034,dontshow
+Bizkaia,48,27.1,17.3,9.8,5,Zalla,m48096,dontshow
+Málaga,29,27.2,17.4,9.8,3,Arriate,m29020,dontshow
+Castellón,12,28.1,18.3,9.8,3,Almenara,m12011,dontshow
+Valencia,46,29.8,20,9.8,9,Benifaió,m46060,dontshow
+Valencia,46,30.4,20.6,9.8,20,Xàtiva,m46145,dontshow
+Sevilla,41,32.8,23,9.8,7,Guillena,m41049,dontshow
+Navarra,31,33.4,23.6,9.8,3,Sangüesa/Zangoza,m31216,dontshow
+Sevilla,41,33.8,24,9.8,12,"Viso del Alcor, El",m41102,dontshow
+Valladolid,47,34.2,24.4,9.8,6,Tordesillas,m47165,dontshow
+Burgos,9,34.3,24.5,9.8,5,Medina de Pomar,m9209,dontshow
+Gipuzkoa,20,35.2,25.4,9.8,8,Azkoitia,m20017,dontshow
+Gipuzcoa,20,35.2,25.4,9.8,8,Azkoitia,m20017,dontshow
+Madrid,28,36.4,26.6,9.8,6,Velilla de San Antonio,m28167,dontshow
+Bizkaia,48,36.9,27.1,9.8,5,Abadiño,m48001,dontshow
+"Illes Balears,",7,49.4,39.6,9.8,6,Capdepera,m7014,dontshow
+Girona,17,54.1,44.3,9.8,5,Calonge,m17034,dontshow
+Málaga,29,26.9,17.2,9.7,3,Periana,m29079,dontshow
+Madrid,28,30.6,20.9,9.7,2,Robledo de Chavela,m28125,dontshow
+Alicante,3,33.8,24.1,9.7,7,Sax,m3123,dontshow
+Santa Cruz de Tenerife,38,34.5,24.8,9.7,6,"Sauzal, El",m38041,dontshow
+Valencia,46,35.3,25.6,9.7,13,Bétera,m46070,dontshow
+Palencia,34,37.8,28.1,9.7,5,Venta de Baños,m34023,dontshow
+Santa Cruz de Tenerife,38,40.5,30.8,9.7,15,Tacoronte,m38043,dontshow
+Asturias,33,40.8,31.1,9.7,12,Lena,m33033,dontshow
+Madrid,28,43.1,33.4,9.7,3,"Molar, El",m28086,dontshow
+Barcelona,8,44.7,35,9.7,4,Artés,m8010,dontshow
+Guadalajara,19,46.7,37,9.7,6,"Casar, El",m19071,dontshow
+Jaén,23,16.6,7,9.6,2,Montizón,m23062,dontshow
+"A Coruña",15,28.2,18.6,9.6,6,Mazaricos,m15045,dontshow
+Castellón,12,28.3,18.7,9.6,2,Cabanes,m12033,dontshow
+Valencia,46,30.2,20.6,9.6,7,Picanya,m46193,dontshow
+Lugo,27,30.5,20.9,9.6,5,Outeiro de Rei,m27039,dontshow
+Sevilla,41,31,21.4,9.6,5,Constantina,m41033,dontshow
+Sevilla,41,31.7,22.1,9.6,8,Pilas,m41075,dontshow
+Alicante,3,33.1,23.5,9.6,19,Ibi,m3079,dontshow
+Barcelona,8,38.1,28.5,9.6,2,Seva,m8269,dontshow
+Gipuzkoa,20,39.3,29.7,9.6,2,Zizurkil,m20028,dontshow
+Gipuzcoa,20,39.3,29.7,9.6,2,Zizurkil,m20028,dontshow
+Barcelona,8,40.8,31.2,9.6,4,Santa Maria de Palautordera,m8259,dontshow
+Pontevedra,36,42.4,32.8,9.6,18,Cangas,m36008,dontshow
+Barcelona,8,45.7,36.1,9.6,3,Balsareny,m8018,dontshow
+Girona,17,48.3,38.7,9.6,2,Santa Cristina d'Aro,m17181,dontshow
+Cantabria,39,27.2,17.7,9.5,6,Santa María de Cayón,m39074,dontshow
+Castellón,12,32,22.5,9.5,8,"Alcora, l'",m12005,dontshow
+Murcia,30,32.2,22.7,9.5,13,Santomera,m30901,dontshow
+Castellón,12,38.2,28.7,9.5,14,Benicarló,m12027,dontshow
+Segovia,40,40.7,31.2,9.5,4,"Espinar, El",m40076,dontshow
+Bizkaia,48,41,31.5,9.5,20,Durango,m48027,dontshow
+Granada,18,41.1,31.6,9.5,10,Albolote,m18003,dontshow
+Salamanca,37,41.6,32.1,9.5,4,Villamayor,m37354,dontshow
+"La Rioja",26,42,32.5,9.5,5,Lardero,m26084,dontshow
+"Illes Balears,",7,43.8,34.3,9.5,18,Inca,m7027,dontshow
+Bizkaia,48,44.9,35.4,9.5,7,Ondarroa,m48073,dontshow
+Girona,17,53.5,44,9.5,11,Palafrugell,m17117,dontshow
+Córdoba,14,27.5,18.1,9.4,8,Castro del Río,m14019,dontshow
+Cáceres,10,33.8,24.4,9.4,3,Alcuéscar,m10010,dontshow
+Tarragona,43,35,25.6,9.4,2,Sant Jaume d'Enveja,m43902,dontshow
+Navarra,31,35.3,25.9,9.4,3,Castejón,m31070,dontshow
+Córdoba,14,35.6,26.2,9.4,7,Rute,m14058,dontshow
+Asturias,33,36,26.6,9.4,3,Coaña,m33018,dontshow
+Sevilla,41,36,26.6,9.4,7,Tocina,m41092,dontshow
+"Las Palmas",35,39.6,30.2,9.4,12,Santa Brígida,m35021,dontshow
+Zaragoza,50,39.7,30.3,9.4,4,Alagón,m50008,dontshow
+Barcelona,8,45.5,36.1,9.4,14,"Masnou, El",m8118,dontshow
+Barcelona,8,46.8,37.4,9.4,8,Vallirana,m8295,dontshow
+Pontevedra,36,29.7,20.4,9.3,8,Silleda,m36052,dontshow
+Valencia,46,30.9,21.6,9.3,16,Carcaixent,m46083,dontshow
+Tarragona,43,36.2,26.9,9.3,3,Flix,m43060,dontshow
+"A Coruña",15,36.6,27.3,9.3,9,Rianxo,m15072,dontshow
+Granada,18,36.7,27.4,9.3,6,Huéscar,m18098,dontshow
+Sevilla,41,41.4,32.1,9.3,13,Arahal,m41011,dontshow
+Barcelona,8,43.4,34.1,9.3,15,Vilassar de Mar,m8219,dontshow
+Granada,18,45.2,35.9,9.3,9,Ogíjares,m18145,dontshow
+Cantabria,39,26.5,17.3,9.2,2,Guriezo,m39030,dontshow
+Ourense,32,28.8,19.6,9.2,2,Vilamartín de Valdeorras,m32088,dontshow
+"A Coruña",15,29.6,20.4,9.2,5,Negreira,m15056,dontshow
+"La Rioja",26,30,20.8,9.2,6,Nájera,m26102,dontshow
+Murcia,30,30.8,21.6,9.2,7,Lorquí,m30025,dontshow
+Valencia,46,32.5,23.3,9.2,4,San Antonio de Benagéber,m46903,dontshow
+Valencia,46,33,23.8,9.2,9,Tavernes Blanques,m46237,dontshow
+Sevilla,41,33.2,24,9.2,2,Pruna,m41076,dontshow
+Córdoba,14,34.2,25,9.2,10,Aguilar de la Frontera,m14002,dontshow
+Sevilla,41,34.4,25.2,9.2,4,Villanueva del Ariscal,m41098,dontshow
+Madrid,28,34.8,25.6,9.2,2,Villaconejos,m28170,dontshow
+Madrid,28,37,27.8,9.2,4,Torres de la Alameda,m28154,dontshow
+"A Coruña",15,39.2,30,9.2,9,Betanzos,m15009,dontshow
+Santa Cruz de Tenerife,38,43.4,34.2,9.2,12,Santa Cruz de la Palma,m38037,dontshow
+Granada,18,44.1,34.9,9.2,3,Órgiva,m18147,dontshow
+Barcelona,8,44.8,35.6,9.2,3,Teià,m8281,dontshow
+Ourense,32,29.3,20.2,9.1,2,Ramirás,m32068,dontshow
+"A Coruña",15,30,20.9,9.1,7,Melide,m15046,dontshow
+Ourense,32,30.2,21.1,9.1,4,Celanova,m32024,dontshow
+Valencia,46,31.3,22.2,9.1,13,Alboraya,m46013,dontshow
+"A Coruña",15,31.4,22.3,9.1,4,Rois,m15074,dontshow
+Santa Cruz de Tenerife,38,32.1,23,9.1,5,Villa de Mazo,m38053,dontshow
+Huelva,21,32.6,23.5,9.1,6,"Palma del Condado, La",m21054,dontshow
+Cádiz,11,37.3,28.2,9.1,6,Bornos,m11010,dontshow
+Gipuzkoa,20,38.9,29.8,9.1,9,Azpeitia,m20018,dontshow
+Gipuzcoa,20,38.9,29.8,9.1,9,Azpeitia,m20018,dontshow
+Santa Cruz de Tenerife,38,39.5,30.4,9.1,15,Güímar,m38020,dontshow
+Madrid,28,40.8,31.7,9.1,11,Mejorada del Campo,m28084,dontshow
+Granada,18,43.7,34.6,9.1,7,Peligros,m18153,dontshow
+Gipuzkoa,20,45.1,36,9.1,4,Lezo,m20053,dontshow
+Gipuzcoa,20,45.1,36,9.1,4,Lezo,m20053,dontshow
+Barcelona,8,46.1,37,9.1,11,Parets del Vallès,m8159,dontshow
+Ciudad Real,13,28.9,19.9,9,7,Almodóvar del Campo,m13015,dontshow
+Málaga,29,30.4,21.4,9,2,Casarabonela,m29040,dontshow
+"A Coruña",15,30.7,21.7,9,4,Vedra,m15089,dontshow
+Huelva,21,31.7,22.7,9,3,Bonares,m21014,dontshow
+Pontevedra,36,31.9,22.9,9,2,Pontecesures,m36044,dontshow
+Badajoz,6,32.3,23.3,9,4,San Vicente de Alcántara,m6123,dontshow
+Almería,4,32.9,23.9,9,4,Garrucha,m4049,dontshow
+Córdoba,14,33.3,24.3,9,11,Pozoblanco,m14054,dontshow
+Cantabria,39,34.6,25.6,9,10,Reinosa,m39059,dontshow
+Madrid,28,35.2,26.2,9,6,Villalbilla,m28172,dontshow
+"A Coruña",15,37.8,28.8,9,5,Carral,m15021,dontshow
+Granada,18,38.7,29.7,9,2,Moraleda de Zafayona,m18138,dontshow
+Madrid,28,39.4,30.4,9,3,Fuente el Saz de Jarama,m28059,dontshow
+Barcelona,8,43.1,34.1,9,12,Molins de Rei,m8123,dontshow
+Granada,18,43.9,34.9,9,6,Huétor Vega,m18101,dontshow
+Castellón,12,28.3,19.4,8.9,7,Segorbe,m12104,dontshow
+Valencia,46,30.9,22,8.9,6,Sedaví,m46223,dontshow
+Cáceres,10,31,22.1,8.9,5,Moraleja,m10128,dontshow
+Santa Cruz de Tenerife,38,33.5,24.6,8.9,4,Garachico,m38015,dontshow
+Cáceres,10,34.6,25.7,8.9,5,Valencia de Alcántara,m10203,dontshow
+Bizkaia,48,36.9,28,8.9,12,Gernika-Lumo,m48046,dontshow
+Teruel,44,37.7,28.8,8.9,6,Andorra,m44025,dontshow
+Madrid,28,38.4,29.5,8.9,4,Morata de Tajuña,m28091,dontshow
+Jaén,23,38.9,30,8.9,7,Cazorla,m23028,dontshow
+Jaén,23,39.2,30.3,8.9,28,Úbeda,m23092,dontshow
+Toledo,45,39.8,30.9,8.9,4,Ugena,m45176,dontshow
+Bizkaia,48,40.6,31.7,8.9,7,Abanto y Ciérvana-Abanto Zierbena,m48002,dontshow
+"A Coruña",15,40.9,32,8.9,3,Cariño,m15901,dontshow
+Jaén,23,41.8,32.9,8.9,11,Torre del Campo,m23086,dontshow
+Lleida,25,43.9,35,8.9,4,"Borges Blanques, Les",m25058,dontshow
+"A Coruña",15,45.7,36.8,8.9,19,Culleredo,m15031,dontshow
+Navarra,31,30.7,21.9,8.8,4,Cintruénigo,m31072,dontshow
+Cantabria,39,31,22.2,8.8,3,Bárcena de Cicero,m39009,dontshow
+León,24,31.9,23.1,8.8,2,Villarejo de Órbigo,m24223,dontshow
+Cádiz,11,34.4,25.6,8.8,7,Olvera,m11024,dontshow
+Jaén,23,35,26.2,8.8,8,Mancha Real,m23058,dontshow
+Huelva,21,36.5,27.7,8.8,3,Calañas,m21017,dontshow
+Madrid,28,38.1,29.3,8.8,8,Villanueva de la Cañada,m28176,dontshow
+Asturias,33,39.9,31.1,8.8,8,Piloña,m33049,dontshow
+Bizkaia,48,40,31.2,8.8,6,Ortuella,m48083,dontshow
+Girona,17,40.9,32.1,8.8,3,Campdevànol,m17036,dontshow
+Salamanca,37,41.9,33.1,8.8,13,Béjar,m37046,dontshow
+Madrid,28,46.6,37.8,8.8,5,Colmenar de Oreja,m28043,dontshow
+Alicante,3,26.8,18.1,8.7,6,Ondara,m3095,dontshow
+Badajoz,6,29.1,20.4,8.7,10,Villafranca de los Barros,m6149,dontshow
+Jaén,23,29.1,20.4,8.7,4,Villatorres,m23903,dontshow
+Ciudad Real,13,29.2,20.5,8.7,4,Piedrabuena,m13063,dontshow
+"A Coruña",15,30.8,22.1,8.7,5,Miño,m15048,dontshow
+Navarra,31,35.5,26.8,8.7,2,Leitza,m31149,dontshow
+Álava,1,36.8,28.1,8.7,7,Amurrio,m1002,dontshow
+Girona,17,38,29.3,8.7,3,Tossa de Mar,m17202,dontshow
+Valladolid,47,39.3,30.6,8.7,14,Medina del Campo,m47085,dontshow
+Tarragona,43,41.9,33.2,8.7,2,Alcover,m43005,dontshow
+Girona,17,50.5,41.8,8.7,4,Vilafant,m17221,dontshow
+"Illes Balears,",7,52.1,43.4,8.7,6,Formentera,m7024,dontshow
+Sevilla,41,52.5,43.8,8.7,5,Palomares del Río,m41070,dontshow
+Ciudad Real,13,26.2,17.6,8.6,10,Campo de Criptana,m13028,dontshow
+Córdoba,14,28,19.4,8.6,4,Benamejí,m14010,dontshow
+Asturias,33,29.2,20.6,8.6,4,Salas,m33059,dontshow
+Cantabria,39,29.3,20.7,8.6,3,Ribamontán al Mar,m39061,dontshow
+Navarra,31,31,22.4,8.6,3,Cascante,m31068,dontshow
+Jaén,23,31.2,22.6,8.6,11,Torredonjimeno,m23087,dontshow
+Lugo,27,31.9,23.3,8.6,4,"Fonsagrada, A",m27018,dontshow
+Navarra,31,32,23.4,8.6,3,Peralta/Azkoien,m31202,dontshow
+Bizkaia,48,37.5,28.9,8.6,2,Plentzia,m48077,dontshow
+Barcelona,8,40.4,31.8,8.6,4,Centelles,m8067,dontshow
+Asturias,33,40.4,31.8,8.6,14,San Martín del Rey Aurelio,m33060,dontshow
+Zaragoza,50,44.2,35.6,8.6,2,Ricla,m50225,dontshow
+Asturias,33,44.3,35.7,8.6,8,Gozón,m33025,dontshow
+Lugo,27,24,15.5,8.5,3,Carballedo,m27009,dontshow
+Ciudad Real,13,25.9,17.4,8.5,4,Porzuna,m13065,dontshow
+Navarra,31,30.9,22.4,8.5,7,Tafalla,m31227,dontshow
+Córdoba,14,34.3,25.8,8.5,11,Villanueva de Córdoba,m14069,dontshow
+Gipuzkoa,20,35.6,27.1,8.5,8,Oñati,m20059,dontshow
+Gipuzcoa,20,35.6,27.1,8.5,8,Oñati,m20059,dontshow
+Valladolid,47,36.2,27.7,8.5,2,Renedo de Esgueva,m47133,dontshow
+Pontevedra,36,39.2,30.7,8.5,4,Vilaboa,m36058,dontshow
+Barcelona,8,40.8,32.3,8.5,3,Dosrius,m8075,dontshow
+Huesca,22,41.3,32.8,8.5,3,Tamarite de Litera,m22225,dontshow
+Tarragona,43,41.5,33,8.5,3,Altafulla,m43012,dontshow
+Girona,17,47.9,39.4,8.5,5,Puigcerdà,m17141,dontshow
+Lugo,27,22.9,14.5,8.4,4,Cervo,m27013,dontshow
+Valencia,46,24.9,16.5,8.4,4,Guadassuar,m46139,dontshow
+Granada,18,26.2,17.8,8.4,4,Caniles,m18039,dontshow
+Valencia,46,31.3,22.9,8.4,8,Alginet,m46031,dontshow
+Lugo,27,33.3,24.9,8.4,4,Mondoñedo,m27030,dontshow
+Madrid,28,35.3,26.9,8.4,6,San Agustín del Guadalix,m28129,dontshow
+Santa Cruz de Tenerife,38,37,28.6,8.4,4,San Andrés y Sauces,m38033,dontshow
+Sevilla,41,37.5,29.1,8.4,3,Salteras,m41085,dontshow
+Gipuzkoa,20,37.6,29.2,8.4,13,Lasarte-Oria,m20902,dontshow
+Gipuzcoa,20,37.6,29.2,8.4,13,Lasarte-Oria,m20902,dontshow
+Sevilla,41,40.8,32.4,8.4,3,Aznalcázar,m41012,dontshow
+Granada,18,46.7,38.3,8.4,14,Armilla,m18021,dontshow
+Granada,18,47.9,39.5,8.4,10,"Zubia, La",m18193,dontshow
+Barcelona,8,52.5,44.1,8.4,4,Sant Fost de Campsentelles,m8209,dontshow
+Valencia,46,26.9,18.6,8.3,6,Alcàsser,m46015,dontshow
+Navarra,31,29,20.7,8.3,2,Falces,m31104,dontshow
+Tarragona,43,29.8,21.5,8.3,2,Gandesa,m43064,dontshow
+Albacete,2,33.5,25.2,8.3,2,Yeste,m2086,dontshow
+Bizkaia,48,35,26.7,8.3,2,Zaratamo,m48097,dontshow
+Gipuzkoa,20,36.5,28.2,8.3,2,Aia,m20016,dontshow
+Gipuzcoa,20,36.5,28.2,8.3,2,Aia,m20016,dontshow
+Bizkaia,48,37.7,29.4,8.3,3,Markina-Xemein,m48060,dontshow
+Lleida,25,40.1,31.8,8.3,4,Almacelles,m25019,dontshow
+Valencia,46,24.9,16.7,8.2,5,Foios,m46126,dontshow
+Toledo,45,33.1,24.9,8.2,5,"Puebla de Montalbán, La",m45136,dontshow
+Santa Cruz de Tenerife,38,35.2,27,8.2,7,Tegueste,m38046,dontshow
+Álava,1,35.5,27.3,8.2,3,Salvatierra/Agurain,m1051,dontshow
+Ourense,32,36.8,28.6,8.2,4,Allariz,m32001,dontshow
+Madrid,28,37.4,29.2,8.2,8,Guadarrama,m28068,dontshow
+Granada,18,42.2,34,8.2,4,Alhendín,m18014,dontshow
+Asturias,33,46.4,38.2,8.2,8,Grado,m33026,dontshow
+Sevilla,41,26.2,18.1,8.1,5,"Coronil, El",m41036,dontshow
+"Las Palmas",35,27.6,19.5,8.1,6,Valsequillo de Gran Canaria,m35031,dontshow
+Navarra,31,28.8,20.7,8.1,2,Valtierra,m31249,dontshow
+Murcia,30,29,20.9,8.1,9,Ceutí,m30018,dontshow
+Jaén,23,30.7,22.6,8.1,9,Villacarrillo,m23095,dontshow
+Navarra,31,31.5,23.4,8.1,2,Orkoien,m31906,dontshow
+Pontevedra,36,32.2,24.1,8.1,5,Soutomaior,m36053,dontshow
+"A Coruña",15,32.9,24.8,8.1,4,Touro,m15085,dontshow
+Valencia,46,33,24.9,8.1,5,"Olleria, l'",m46183,dontshow
+Girona,17,37.7,29.6,8.1,3,Llançà,m17092,dontshow
+Santa Cruz de Tenerife,38,38.7,30.6,8.1,5,"Paso, El",m38027,dontshow
+Girona,17,44.6,36.5,8.1,5,Cassà de la Selva,m17044,dontshow
+Santa Cruz de Tenerife,38,44.6,36.5,8.1,2,Puntagorda,m38029,dontshow
+Salamanca,37,47.8,39.7,8.1,2,Terradillos,m37322,dontshow
+"A Coruña",15,22.4,14.4,8,4,Cerceda,m15024,dontshow
+Badajoz,6,24.7,16.7,8,8,Olivenza,m6095,dontshow
+Jaén,23,27.8,19.8,8,3,Sabiote,m23075,dontshow
+Gipuzkoa,20,40.5,32.5,8,7,Oiartzun,m20063,dontshow
+Gipuzcoa,20,40.5,32.5,8,7,Oiartzun,m20063,dontshow
+Girona,17,40.6,32.6,8,3,Sant Joan les Fonts,m17185,dontshow
+Barcelona,8,42.6,34.6,8,3,Sant Pol de Mar,m8235,dontshow
+Barcelona,8,46.3,38.3,8,4,Polinyà,m8167,dontshow
+Murcia,30,25.3,17.4,7.9,2,Villanueva del Río Segura,m30042,dontshow
+Granada,18,27,19.1,7.9,2,Ugíjar,m18182,dontshow
+Pontevedra,36,31.2,23.3,7.9,6,Valga,m36056,dontshow
+Burgos,9,31.6,23.7,7.9,3,Valle de Mena,m9410,dontshow
+Pontevedra,36,33.3,25.4,7.9,5,Vila de Cruces,m36059,dontshow
+"Illes Balears,",7,36.1,28.2,7.9,5,Artà,m7006,dontshow
+Jaén,23,36.5,28.6,7.9,3,Segura de la Sierra,m23081,dontshow
+"La Rioja",26,37.1,29.2,7.9,6,Alfaro,m26011,dontshow
+Granada,18,37.8,29.9,7.9,4,Alfacar,m18011,dontshow
+Bizkaia,48,37.9,30,7.9,4,Derio,m48901,dontshow
+Navarra,31,39.8,31.9,7.9,5,Berriozar,m31903,dontshow
+Lleida,25,40.9,33,7.9,5,Solsona,m25207,dontshow
+Barcelona,8,44.9,37,7.9,4,Gironella,m8092,dontshow
+Tarragona,43,49.1,41.2,7.9,5,Cunit,m43051,dontshow
+Ciudad Real,13,26.6,18.8,7.8,7,Almagro,m13013,dontshow
+Pontevedra,36,26.6,18.8,7.8,3,Oia,m36036,dontshow
+Badajoz,6,30.2,22.4,7.8,4,Fuente de Cantos,m6052,dontshow
+"Las Palmas",35,30.8,23,7.8,16,Gáldar,m35009,dontshow
+Córdoba,14,31.5,23.7,7.8,7,Bujalance,m14012,dontshow
+Madrid,28,32.5,24.7,7.8,3,Cercedilla,m28038,dontshow
+Tarragona,43,33.8,26,7.8,3,"Selva del Camp, La",m43145,dontshow
+Madrid,28,34.1,26.3,7.8,3,Torrelaguna,m28151,dontshow
+Girona,17,34.7,26.9,7.8,3,Arbúcies,m17009,dontshow
+Gipuzkoa,20,37.5,29.7,7.8,6,Zumaia,m20081,dontshow
+Gipuzcoa,20,37.5,29.7,7.8,6,Zumaia,m20081,dontshow
+Sevilla,41,46.3,38.5,7.8,7,Gines,m41047,dontshow
+Girona,17,46.8,39,7.8,3,Hostalric,m17083,dontshow
+Málaga,29,23.4,15.7,7.7,2,Monda,m29073,dontshow
+Murcia,30,25.2,17.5,7.7,12,Bullas,m30012,dontshow
+"Las Palmas",35,27,19.3,7.7,7,Vega de San Mateo,m35033,dontshow
+Granada,18,28.2,20.5,7.7,4,Iznalloz,m18105,dontshow
+Valencia,46,29.8,22.1,7.7,10,"Eliana, l'",m46116,dontshow
+Asturias,33,35.4,27.7,7.7,5,Cangas de Onís,m33012,dontshow
+Huelva,21,39.2,31.5,7.7,5,Trigueros,m21070,dontshow
+Barcelona,8,44,36.3,7.7,7,Vilanova del Camí,m8302,dontshow
+Barcelona,8,45.7,38,7.7,9,Sant Just Desvern,m8221,dontshow
+Girona,17,48.7,41,7.7,4,Llagostera,m17089,dontshow
+Toledo,45,22.5,14.9,7.6,4,Miguel Esteban,m45101,dontshow
+Valencia,46,26.3,18.7,7.6,8,Canals,m46081,dontshow
+Cádiz,11,31.2,23.6,7.6,6,Benalup-Casas Viejas,m11901,dontshow
+Guadalajara,19,37.4,29.8,7.6,2,Torrejón del Rey,m19280,dontshow
+Asturias,33,39.8,32.2,7.6,7,Navia,m33041,dontshow
+Barcelona,8,40.4,32.8,7.6,7,"Garriga, La",m8088,dontshow
+Pontevedra,36,42.4,34.8,7.6,10,Nigrán,m36035,dontshow
+Sevilla,41,42.7,35.1,7.6,6,Gelves,m41044,dontshow
+Barcelona,8,43.7,36.1,7.6,2,Vilanova del Vallès,m8902,dontshow
+Valencia,46,22.3,14.8,7.5,3,Corbera,m46098,dontshow
+"A Coruña",15,25.9,18.4,7.5,8,Santa Comba,m15077,dontshow
+Badajoz,6,27.1,19.6,7.5,5,Guareña,m6060,dontshow
+Pontevedra,36,30.1,22.6,7.5,9,Cambados,m36006,dontshow
+Cantabria,39,30.3,22.8,7.5,5,Suances,m39085,dontshow
+Ourense,32,30.6,23.1,7.5,2,Carballeda de Valdeorras,m32017,dontshow
+Girona,17,34.4,26.9,7.5,3,Bescanó,m17020,dontshow
+Palencia,34,34.7,27.2,7.5,6,Aguilar de Campoo,m34004,dontshow
+Badajoz,6,35.7,28.2,7.5,11,Zafra,m6158,dontshow
+Pontevedra,36,36.2,28.7,7.5,6,"Rosal, O",m36048,dontshow
+Lleida,25,41.5,34,7.5,3,Almenar,m25021,dontshow
+Barcelona,8,41.6,34.1,7.5,4,Sant Feliu de Codines,m8210,dontshow
+Lleida,25,41.7,34.2,7.5,9,Balaguer,m25040,dontshow
+"Illes Balears,",7,43.4,35.9,7.5,5,"Castell, Es",m7064,dontshow
+Toledo,45,43.4,35.9,7.5,3,Yeles,m45201,dontshow
+Barcelona,8,46.1,38.6,7.5,14,Pineda de Mar,m8163,dontshow
+Valencia,46,24.4,17,7.4,7,Buñol,m46077,dontshow
+Huelva,21,29.8,22.4,7.4,10,Valverde del Camino,m21072,dontshow
+"A Coruña",15,31.1,23.7,7.4,7,"Pobra do Caramiñal, A",m15067,dontshow
+Sevilla,41,31.9,24.5,7.4,5,Gerena,m41045,dontshow
+Navarra,31,32.4,25,7.4,6,Ansoáin/Antsoain,m31016,dontshow
+Bizkaia,48,32.8,25.4,7.4,7,Lekeitio,m48057,dontshow
+León,24,33.4,26,7.4,4,"Pola de Gordón, La",m24114,dontshow
+Almería,4,35.6,28.2,7.4,2,Zurgena,m4103,dontshow
+Zaragoza,50,38.2,30.8,7.4,6,Cuarte de Huerva,m50089,dontshow
+Barcelona,8,39.7,32.3,7.4,2,Santa Susanna,m8261,dontshow
+Toledo,45,42.7,35.3,7.4,2,Cedillo del Condado,m45047,dontshow
+Córdoba,14,17.4,10.1,7.3,2,Pedroche,m14051,dontshow
+Granada,18,22.9,15.6,7.3,2,Valle del Zalabí,m18907,dontshow
+Ourense,32,23.9,16.6,7.3,2,"Peroxa, A",m32059,dontshow
+Córdoba,14,26.8,19.5,7.3,3,"Carpio, El",m14018,dontshow
+"Illes Balears,",7,26.9,19.6,7.3,4,Lloseta,m7029,dontshow
+Córdoba,14,27.3,20,7.3,6,"Rambla, La",m14057,dontshow
+Granada,18,28.6,21.3,7.3,5,Dúrcal,m18071,dontshow
+Granada,18,31.4,24.1,7.3,3,Moclín,m18132,dontshow
+Huelva,21,32.8,25.5,7.3,4,Zalamea la Real,m21078,dontshow
+Guadalajara,19,33.4,26.1,7.3,4,Marchamalo,m19171,dontshow
+Toledo,45,35.3,28,7.3,3,Carranque,m45038,dontshow
+"A Coruña",15,36.4,29.1,7.3,5,Bergondo,m15008,dontshow
+Gipuzkoa,20,37.2,29.9,7.3,6,Urretxu,m20077,dontshow
+Gipuzcoa,20,37.2,29.9,7.3,6,Urretxu,m20077,dontshow
+Madrid,28,38.1,30.8,7.3,3,Campo Real,m28033,dontshow
+Pontevedra,36,38.3,31,7.3,15,Moaña,m36029,dontshow
+Lleida,25,42.9,35.6,7.3,3,Bellpuig,m25050,dontshow
+León,24,43.6,36.3,7.3,6,"Bañeza, La",m24010,dontshow
+Asturias,33,46.8,39.5,7.3,10,Tineo,m33073,dontshow
+Cantabria,39,21.3,14.1,7.2,3,Alfoz de Lloredo,m39001,dontshow
+Lugo,27,22.6,15.4,7.2,3,Antas de Ulla,m27003,dontshow
+Ciudad Real,13,26,18.8,7.2,3,Fuente el Fresno,m13044,dontshow
+Jaén,23,28.7,21.5,7.2,4,"Villares, Los",m23099,dontshow
+Alicante,3,29.2,22,7.2,6,Muro de Alcoy,m3092,dontshow
+Ciudad Real,13,33.4,26.2,7.2,8,Miguelturra,m13056,dontshow
+Jaén,23,33.4,26.2,7.2,5,Valdepeñas de Jaén,m23093,dontshow
+Tarragona,43,34.9,27.7,7.2,4,Riudoms,m43129,dontshow
+Tarragona,43,35.3,28.1,7.2,6,Deltebre,m43901,dontshow
+Asturias,33,37.4,30.2,7.2,6,Pravia,m33051,dontshow
+Huelva,21,44.9,37.7,7.2,6,Nerva,m21052,dontshow
+Barcelona,8,45.9,38.7,7.2,6,Vilassar de Dalt,m8214,dontshow
+Cáceres,10,21.3,14.2,7.1,4,Casar de Cáceres,m10049,dontshow
+Jaén,23,24.7,17.6,7.1,4,Arjonilla,m23007,dontshow
+Murcia,30,28.8,21.7,7.1,5,Blanca,m30011,dontshow
+Ciudad Real,13,29.8,22.7,7.1,7,Malagón,m13052,dontshow
+Madrid,28,30.6,23.5,7.1,4,Soto del Real,m28144,dontshow
+Valencia,46,31.2,24.1,7.1,7,Alberic,m46011,dontshow
+Toledo,45,32.9,25.8,7.1,8,Madridejos,m45087,dontshow
+Bizkaia,48,33.2,26.1,7.1,3,Lemoa,m48055,dontshow
+Granada,18,35.7,28.6,7.1,2,Puebla de Don Fadrique,m18164,dontshow
+Tarragona,43,48.5,41.4,7.1,4,Roquetes,m43133,dontshow
+Badajoz,6,23.4,16.4,7,6,Cabeza del Buey,m6023,dontshow
+"A Coruña",15,23.4,16.4,7,3,Dodro,m15033,dontshow
+Córdoba,14,23.6,16.6,7,7,Hinojosa del Duque,m14035,dontshow
+Valencia,46,28.6,21.6,7,3,Museros,m46177,dontshow
+Huelva,21,29.2,22.2,7,5,Cortegana,m21025,dontshow
+León,24,31.3,24.3,7,2,Vega de Espinareda,m24196,dontshow
+Badajoz,6,32,25,7,4,Talavera la Real,m6128,dontshow
+Valencia,46,33.9,26.9,7,2,Gilet,m46134,dontshow
+Barcelona,8,34,27,7,2,Cercs,m8268,dontshow
+Navarra,31,34.5,27.5,7,4,Noáin (Valle de Elorz)/Noain (Elortzibar),m31088,dontshow
+Málaga,29,35.6,28.6,7,2,Colmenar,m29043,dontshow
+Ciudad Real,13,35.8,28.8,7,13,"Solana, La",m13079,dontshow
+Barcelona,8,48.6,41.6,7,5,Sant Joan de Vilatorrada,m8218,dontshow
+Albacete,2,20.9,14,6.9,4,Madrigueras,m2045,dontshow
+"Las Palmas",35,21.4,14.5,6.9,5,Agaete,m35001,dontshow
+Valencia,46,24.4,17.5,6.9,3,Xeraco,m46143,dontshow
+Jaén,23,25.5,18.6,6.9,5,Castillo de Locubín,m23026,dontshow
+Alicante,3,27.1,20.2,6.9,6,Callosa d'En Sarrià,m3048,dontshow
+Cádiz,11,29,22.1,6.9,4,Trebujena,m11037,dontshow
+Teruel,44,29.5,22.6,6.9,3,Calanda,m44051,dontshow
+Bizkaia,48,30.3,23.4,6.9,5,Güeñes,m48045,dontshow
+Santa Cruz de Tenerife,38,30.6,23.7,6.9,2,Tijarafe,m38047,dontshow
+Asturias,33,34.2,27.3,6.9,4,Tapia de Casariego,m33070,dontshow
+Ciudad Real,13,35.6,28.7,6.9,8,Almadén,m13011,dontshow
+Granada,18,46.8,39.9,6.9,5,Monachil,m18134,dontshow
+Almería,4,18.2,11.4,6.8,2,Oria,m4070,dontshow
+Toledo,45,19.1,12.3,6.8,2,Almorox,m45013,dontshow
+Albacete,2,22.5,15.7,6.8,2,"Gineta, La",m2035,dontshow
+Castellón,12,22.5,15.7,6.8,5,Betxí,m12021,dontshow
+Valencia,46,26.6,19.8,6.8,4,Turís,m46248,dontshow
+Albacete,2,27.7,20.9,6.8,7,Caudete,m2025,dontshow
+Alicante,3,29.2,22.4,6.8,4,"Pinós, el/Pinoso",m3105,dontshow
+Navarra,31,29.5,22.7,6.8,8,Zizur Mayor/Zizur Nagusia,m31907,dontshow
+Gipuzkoa,20,36.7,29.9,6.8,4,Aretxabaleta,m20013,dontshow
+Gipuzcoa,20,36.7,29.9,6.8,4,Aretxabaleta,m20013,dontshow
+Pontevedra,36,37,30.2,6.8,8,"Guarda, A",m36023,dontshow
+Asturias,33,37.7,30.9,6.8,5,Nava,m33040,dontshow
+Madrid,28,38.6,31.8,6.8,2,Ajalvir,m28002,dontshow
+Barcelona,8,47.6,40.8,6.8,4,Tona,m8283,dontshow
+Sevilla,41,47.8,41,6.8,3,Almensilla,m41010,dontshow
+Girona,17,48.6,41.8,6.8,6,"Bisbal d'Empordà, La",m17022,dontshow
+Jaén,23,21.4,14.7,6.7,3,Bedmar y Garcíez,m23902,dontshow
+"A Coruña",15,24.3,17.6,6.7,6,Vimianzo,m15092,dontshow
+Málaga,29,26.8,20.1,6.7,4,Villanueva del Trabuco,m29097,dontshow
+Granada,18,27.2,20.5,6.7,3,Albuñol,m18006,dontshow
+Valencia,46,27.2,20.5,6.7,4,Ayora,m46044,dontshow
+Santa Cruz de Tenerife,38,27.7,21,6.7,2,"Tanque, El",m38044,dontshow
+Navarra,31,29.8,23.1,6.7,5,Villava/Atarrabia,m31258,dontshow
+Navarra,31,32,25.3,6.7,4,Corella,m31077,dontshow
+León,24,36.8,30.1,6.7,3,Villafranca del Bierzo,m24209,dontshow
+Zaragoza,50,37.1,30.4,6.7,4,Tauste,m50252,dontshow
+Gipuzkoa,20,41.6,34.9,6.7,4,Urnieta,m20072,dontshow
+Gipuzcoa,20,41.6,34.9,6.7,4,Urnieta,m20072,dontshow
+Granada,18,43.3,36.6,6.7,6,Vegas del Genil,m18911,dontshow
+Córdoba,14,18.2,11.6,6.6,4,"Viso, El",m14074,dontshow
+Huelva,21,23.5,16.9,6.6,5,Palos de la Frontera,m21055,dontshow
+"A Coruña",15,25.6,19,6.6,2,Laxe,m15040,dontshow
+Cantabria,39,25.7,19.1,6.6,4,Medio Cudeyo,m39042,dontshow
+Almería,4,25.9,19.3,6.6,2,Antas,m4016,dontshow
+Jaén,23,26.5,19.9,6.6,5,Arjona,m23006,dontshow
+Badajoz,6,26.6,20,6.6,3,Valverde de Leganés,m6143,dontshow
+Valladolid,47,28.4,21.8,6.6,4,Íscar,m47075,dontshow
+Valencia,46,29.8,23.2,6.6,10,Benetússer,m46054,dontshow
+"La Rioja",26,30.3,23.7,6.6,3,Autol,m26021,dontshow
+Jaén,23,30.9,24.3,6.6,6,Quesada,m23073,dontshow
+Cantabria,39,31,24.4,6.6,3,Entrambasaguas,m39028,dontshow
+Toledo,45,31.4,24.8,6.6,2,Novés,m45118,dontshow
+Santa Cruz de Tenerife,38,31.9,25.3,6.6,3,Arafo,m38004,dontshow
+Madrid,28,35.6,29,6.6,9,San Lorenzo de El Escorial,m28131,dontshow
+Ciudad Real,13,37.1,30.5,6.6,4,Santa Cruz de Mudela,m13077,dontshow
+"A Coruña",15,37.6,31,6.6,7,Outes,m15062,dontshow
+Tarragona,43,43.7,37.1,6.6,4,"Canonja, La",m43907,dontshow
+Barcelona,8,47.1,40.5,6.6,4,Arenys de Munt,m8007,dontshow
+Madrid,28,23.2,16.7,6.5,2,Cenicientos,m28037,dontshow
+Cuenca,16,23.8,17.3,6.5,4,San Clemente,m16190,dontshow
+Badajoz,6,24.2,17.7,6.5,4,Puebla de la Calzada,m6103,dontshow
+Jaén,23,26.2,19.7,6.5,11,"Carolina, La",m23024,dontshow
+Toledo,45,26.8,20.3,6.5,7,Consuegra,m45053,dontshow
+Toledo,45,27.4,20.9,6.5,4,Olías del Rey,m45122,dontshow
+Girona,17,27.6,21.1,6.5,2,Vilobí d'Onyar,m17233,dontshow
+"A Coruña",15,28,21.5,6.5,5,Camariñas,m15016,dontshow
+Guadalajara,19,32.9,26.4,6.5,5,Cabanillas del Campo,m19058,dontshow
+Valladolid,47,36.1,29.6,6.5,4,Peñafiel,m47114,dontshow
+Granada,18,18.6,12.2,6.4,4,Lanjarón,m18116,dontshow
+Badajoz,6,21.7,15.3,6.4,2,Segura de León,m6124,dontshow
+Pontevedra,36,23.7,17.3,6.4,4,Ribadumia,m36046,dontshow
+Valencia,46,25.7,19.3,6.4,2,"Font d'En Carròs, la",m46127,dontshow
+Badajoz,6,26.7,20.3,6.4,2,Puebla de Sancho Pérez,m6108,dontshow
+"A Coruña",15,27.2,20.8,6.4,5,Coristanco,m15029,dontshow
+Sevilla,41,27.4,21,6.4,6,Fuentes de Andalucía,m41042,dontshow
+Cantabria,39,28,21.6,6.4,3,Marina de Cudeyo,m39040,dontshow
+Alicante,3,28.2,21.8,6.4,4,Catral,m3055,dontshow
+Sevilla,41,29,22.6,6.4,4,Villaverde del Río,m41101,dontshow
+Almería,4,30.2,23.8,6.4,5,Vélez-Rubio,m4099,dontshow
+Toledo,45,30.2,23.8,6.4,2,Cebolla,m45046,dontshow
+Ávila,5,30.4,24,6.4,2,"Barraco, El",m5022,dontshow
+Cantabria,39,34.5,28.1,6.4,3,Miengo,m39044,dontshow
+Granada,18,34.7,28.3,6.4,7,Huétor Tájar,m18100,dontshow
+Gipuzkoa,20,35.5,29.1,6.4,2,Zestoa,m20027,dontshow
+Gipuzcoa,20,35.5,29.1,6.4,2,Zestoa,m20027,dontshow
+Granada,18,36.3,29.9,6.4,3,Chauchina,m18059,dontshow
+Ourense,32,55.6,49.2,6.4,2,Avión,m32004,dontshow
+"La Rioja",26,16.1,9.8,6.3,2,Cervera del Río Alhama,m26047,dontshow
+Lugo,27,20.3,14,6.3,3,Begonte,m27007,dontshow
+Lugo,27,23.3,17,6.3,3,Guntín,m27023,dontshow
+Gipuzkoa,20,25.4,19.1,6.3,2,Getaria,m20039,dontshow
+Gipuzcoa,20,25.4,19.1,6.3,2,Getaria,m20039,dontshow
+Lugo,27,26.1,19.8,6.3,2,"Pontenova, A",m27048,dontshow
+"A Coruña",15,26.3,20,6.3,5,Muxía,m15052,dontshow
+Navarra,31,26.6,20.3,6.3,2,Cizur,m31076,dontshow
+Cantabria,39,27.2,20.9,6.3,5,Reocín,m39060,dontshow
+Zaragoza,50,28,21.7,6.3,2,Belchite,m50045,dontshow
+Pontevedra,36,29.6,23.3,6.3,4,"Neves, As",m36034,dontshow
+Málaga,29,29.8,23.5,6.3,2,Casabermeja,m29039,dontshow
+Bizkaia,48,34.5,28.2,6.3,6,Muskiz,m48071,dontshow
+Madrid,28,35.4,29.1,6.3,4,Torrejón de la Calzada,m28149,dontshow
+Barcelona,8,41.3,35,6.3,3,Begues,m8020,dontshow
+Sevilla,41,50.3,44,6.3,4,Isla Mayor,m41902,dontshow
+Cuenca,16,21.3,15.1,6.2,2,Minglanilla,m16125,dontshow
+"Illes Balears,",7,22,15.8,6.2,2,Llubí,m7030,dontshow
+Zamora,49,26.4,20.2,6.2,2,Villalpando,m49250,dontshow
+Santa Cruz de Tenerife,38,27.3,21.1,6.2,2,Barlovento,m38007,dontshow
+Madrid,28,30.3,24.1,6.2,3,Cobeña,m28041,dontshow
+Ciudad Real,13,30.6,24.4,6.2,5,Pedro Muñoz,m13061,dontshow
+"Illes Balears,",7,31.8,25.6,6.2,2,Esporles,m7020,dontshow
+Cáceres,10,33.6,27.4,6.2,6,Jaraíz de la Vera,m10104,dontshow
+"Illes Balears,",7,34.3,28.1,6.2,3,Ferreries,m7023,dontshow
+Girona,17,34.8,28.6,6.2,2,Sant Gregori,m17163,dontshow
+Valladolid,47,36,29.8,6.2,6,Tudela de Duero,m47175,dontshow
+Toledo,45,37.1,30.9,6.2,2,Ontígola,m45123,dontshow
+Alicante,3,19.2,13.1,6.1,4,Benejúzar,m3024,dontshow
+Málaga,29,21.4,15.3,6.1,2,Riogordo,m29083,dontshow
+Pontevedra,36,23.9,17.8,6.1,3,Moraña,m36032,dontshow
+Pontevedra,36,26.2,20.1,6.1,3,Crecente,m36014,dontshow
+Girona,17,27.7,21.6,6.1,3,Sant Joan de les Abadesses,m17167,dontshow
+Castellón,12,27.8,21.7,6.1,2,Sant Joan de Moró,m12902,dontshow
+Lugo,27,28.8,22.7,6.1,7,Chantada,m27016,dontshow
+Ourense,32,29.2,23.1,6.1,2,Vilar de Barrio,m32089,dontshow
+Córdoba,14,29.9,23.8,6.1,4,Fuente Obejuna,m14029,dontshow
+Ciudad Real,13,30.3,24.2,6.1,9,Socuéllamos,m13078,dontshow
+Almería,4,30.4,24.3,6.1,2,Turre,m4093,dontshow
+Bizkaia,48,32.2,26.1,6.1,3,Urduña/Orduña,m48074,dontshow
+Guadalajara,19,45.4,39.3,6.1,2,Pioz,m19220,dontshow
+Barcelona,8,46.4,40.3,6.1,4,Montgat,m8126,dontshow
+Granada,18,16.6,10.6,6,4,Algarinejo,m18012,dontshow
+Jaén,23,18.5,12.5,6,7,Porcuna,m23069,dontshow
+Almería,4,18.7,12.7,6,2,Alhama de Almería,m4011,dontshow
+Valencia,46,20.8,14.8,6,2,Rafelguaraf,m46209,dontshow
+Jaén,23,21.4,15.4,6,4,Cambil,m23018,dontshow
+Valencia,46,26,20,6,4,Almussafes,m46035,dontshow
+Ciudad Real,13,27.6,21.6,6,6,Membrilla,m13054,dontshow
+Teruel,44,28,22,6,4,Utrillas,m44238,dontshow
+Ciudad Real,13,29.2,23.2,6,3,Torralba de Calatrava,m13083,dontshow
+Valencia,46,29.3,23.3,6,6,Meliana,m46166,dontshow
+Jaén,23,29.7,23.7,6,7,Jódar,m23053,dontshow
+Santa Cruz de Tenerife,38,32,26,6,4,Breña Alta,m38008,dontshow
+Soria,42,33.1,27.1,6,2,Ólvega,m42134,dontshow
+Barcelona,8,45.2,39.2,6,5,Sentmenat,m8267,dontshow
+Toledo,45,22,16.1,5.9,2,Villasequilla,m45197,dontshow
+Valencia,46,24.4,18.5,5.9,3,Sollana,m46233,dontshow
+Jaén,23,25.2,19.3,5.9,5,Marmolejo,m23059,dontshow
+Castellón,12,26.3,20.4,5.9,3,Borriol,m12031,dontshow
+Albacete,2,27,21.1,5.9,5,Tarazona de la Mancha,m2073,dontshow
+Lugo,27,28.2,22.3,5.9,3,Xermade,m27021,dontshow
+Cáceres,10,28.8,22.9,5.9,6,Miajadas,m10121,dontshow
+Badajoz,6,29.8,23.9,5.9,4,Llerena,m6074,dontshow
+Ciudad Real,13,30.7,24.8,5.9,16,Manzanares,m13053,dontshow
+Gipuzkoa,20,33.3,27.4,5.9,7,Legazpi,m20051,dontshow
+Gipuzcoa,20,33.3,27.4,5.9,7,Legazpi,m20051,dontshow
+Jaén,23,35.3,29.4,5.9,4,Pozo Alcón,m23070,dontshow
+Gipuzkoa,20,38.6,32.7,5.9,3,Soraluze/Placencia de las Armas,m20065,dontshow
+Gipuzcoa,20,38.6,32.7,5.9,3,Soraluze/Placencia de las Armas,m20065,dontshow
+Tarragona,43,39.4,33.5,5.9,2,"Morell, El",m43095,dontshow
+Salamanca,37,41.1,35.2,5.9,4,Carbajosa de la Sagrada,m37085,dontshow
+Bizkaia,48,41.7,35.8,5.9,3,Zaldibar,m48095,dontshow
+Lugo,27,18.6,12.8,5.8,4,Monterroso,m27032,dontshow
+"Las Palmas",35,22.9,17.1,5.8,7,"Aldea de San Nicolás, La",m35020,dontshow
+Granada,18,28.4,22.6,5.8,2,Arenas del Rey,m18020,dontshow
+Ciudad Real,13,29.5,23.7,5.8,7,Villarrubia de los Ojos,m13096,dontshow
+Bizkaia,48,31.4,25.6,5.8,3,Alonsotegi,m48912,dontshow
+Bizkaia,48,36.6,30.8,5.8,4,Ugao-Miraballes,m48065,dontshow
+Barcelona,8,36.9,31.1,5.8,4,Cardona,m8047,dontshow
+Barcelona,8,39.4,33.6,5.8,5,Pallejà,m8157,dontshow
+Girona,17,41.2,35.4,5.8,2,Sant Julià de Ramis,m17169,dontshow
+Tarragona,43,41.2,35.4,5.8,2,Castellvell del Camp,m43042,dontshow
+Ávila,5,22.3,16.6,5.7,4,Candeleda,m5047,dontshow
+Toledo,45,23.5,17.8,5.7,6,"Yébenes, Los",m45200,dontshow
+Segovia,40,24,18.3,5.7,2,Nava de la Asunción,m40138,dontshow
+Almería,4,27.2,21.5,5.7,2,Sorbas,m4086,dontshow
+León,24,27.6,21.9,5.7,2,Torre del Bierzo,m24170,dontshow
+Valencia,46,28.2,22.5,5.7,2,Faura,m46122,dontshow
+"A Coruña",15,28.4,22.7,5.7,5,Cabana de Bergantiños,m15014,dontshow
+Navarra,31,28.5,22.8,5.7,9,Egüés,m31086,dontshow
+Cáceres,10,28.6,22.9,5.7,6,Arroyo de la Luz,m10021,dontshow
+Santa Cruz de Tenerife,38,28.6,22.9,5.7,4,"Silos, Los",m38042,dontshow
+Zaragoza,50,33.1,27.4,5.7,2,Pedrola,m50204,dontshow
+Navarra,31,34.4,28.7,5.7,3,Berrioplano,m31902,dontshow
+Asturias,33,38.9,33.2,5.7,5,Ribadesella,m33056,dontshow
+Barcelona,8,42.3,36.6,5.7,4,Taradell,m8278,dontshow
+Barcelona,8,43.6,37.9,5.7,4,Alella,m8003,dontshow
+Albacete,2,16.8,11.2,5.6,3,"Bonillo, El",m2019,dontshow
+Valencia,46,18.1,12.5,5.6,2,Genovés,m46132,dontshow
+Lugo,27,23.8,18.2,5.6,3,Sober,m27059,dontshow
+Lugo,27,24.7,19.1,5.6,3,Becerreá,m27006,dontshow
+Santa Cruz de Tenerife,38,25.7,20.1,5.6,2,Vallehermoso,m38050,dontshow
+Valencia,46,26.6,21,5.6,3,"Alcúdia de Crespins, l'",m46020,dontshow
+Ciudad Real,13,27.1,21.5,5.6,6,Herencia,m13047,dontshow
+Málaga,29,27.2,21.6,5.6,2,"Burgo, El",m29031,dontshow
+Lugo,27,28.3,22.7,5.6,4,Cospeito,m27015,dontshow
+Toledo,45,30.9,25.3,5.6,2,Villaluenga de la Sagra,m45188,dontshow
+Guadalajara,19,35.3,29.7,5.6,2,Chiloeches,m19105,dontshow
+Cádiz,11,36.5,30.9,5.6,3,San José del Valle,m11902,dontshow
+Asturias,33,36.6,31,5.6,3,Castropol,m33017,dontshow
+Zamora,49,36.7,31.1,5.6,2,Morales del Vino,m49127,dontshow
+Huesca,22,39,33.4,5.6,4,Binéfar,m22061,dontshow
+Girona,17,42.9,37.3,5.6,3,Sarrià de Ter,m17186,dontshow
+Barcelona,8,43.8,38.2,5.6,4,Lliçà de Vall,m8108,dontshow
+Lugo,27,19.7,14.2,5.5,4,Palas de Rei,m27040,dontshow
+Navarra,31,24,18.5,5.5,2,Ribaforada,m31208,dontshow
+Sevilla,41,24,18.5,5.5,2,Alanís,m41002,dontshow
+Zaragoza,50,26.3,20.8,5.5,2,Quinto,m50222,dontshow
+Toledo,45,27.1,21.6,5.5,2,"Carpio de Tajo, El",m45037,dontshow
+Bizkaia,48,30.2,24.7,5.5,5,Elorrio,m48032,dontshow
+Jaén,23,32.2,26.7,5.5,7,Torreperogil,m23088,dontshow
+Madrid,28,33.6,28.1,5.5,4,Collado Mediano,m28046,dontshow
+Barcelona,8,44.1,38.6,5.5,2,Collbató,m8069,dontshow
+Ourense,32,21.8,16.4,5.4,2,Rubiá,m32073,dontshow
+Toledo,45,24.4,19,5.4,8,Villacañas,m45185,dontshow
+Jaén,23,25.8,20.4,5.4,2,Santo Tomé,m23080,dontshow
+Gipuzkoa,20,28.1,22.7,5.4,4,Deba,m20029,dontshow
+Gipuzcoa,20,28.1,22.7,5.4,4,Deba,m20029,dontshow
+Girona,17,30,24.6,5.4,2,"Vall d'en Bas, La",m17207,dontshow
+Toledo,45,30,24.6,5.4,8,Torrijos,m45173,dontshow
+Jaén,23,32.1,26.7,5.4,5,Beas de Segura,m23012,dontshow
+Pontevedra,36,33,27.6,5.4,5,Meis,m36028,dontshow
+Granada,18,33.1,27.7,5.4,2,Gualchos,m18093,dontshow
+Huelva,21,34.8,29.4,5.4,2,Villanueva de los Castillejos,m21076,dontshow
+Granada,18,43.4,38,5.4,2,Jun,m18111,dontshow
+Lleida,25,44.2,38.8,5.4,3,Alpicat,m25023,dontshow
+Lugo,27,18.9,13.6,5.3,2,"Nogais, As",m27037,dontshow
+Jaén,23,19.4,14.1,5.3,4,Santisteban del Puerto,m23079,dontshow
+Toledo,45,24.4,19.1,5.3,8,Mora,m45106,dontshow
+Lugo,27,27.2,21.9,5.3,2,"Vicedo, O",m27064,dontshow
+Toledo,45,27.8,22.5,5.3,4,Corral de Almaguer,m45054,dontshow
+Navarra,31,28.4,23.1,5.3,2,Arguedas,m31032,dontshow
+Teruel,44,29.8,24.5,5.3,3,Albalate del Arzobispo,m44008,dontshow
+Ourense,32,32.7,27.4,5.3,5,"Rúa, A",m32072,dontshow
+Sevilla,41,33.2,27.9,5.3,6,Montellano,m41064,dontshow
+Valencia,46,34,28.7,5.3,3,Náquera,m46178,dontshow
+Bizkaia,48,34.3,29,5.3,3,Sondika,m48904,dontshow
+Tarragona,43,34.5,29.2,5.3,3,"Sénia, La",m43044,dontshow
+Soria,42,35.3,30,5.3,3,Almazán,m42020,dontshow
+Ávila,5,35.7,30.4,5.3,2,"Tiemblo, El",m5241,dontshow
+Gipuzkoa,20,35.7,30.4,5.3,3,Lazkao,m20049,dontshow
+Gipuzcoa,20,35.7,30.4,5.3,3,Lazkao,m20049,dontshow
+Zaragoza,50,35.9,30.6,5.3,3,"Almunia de Doña Godina, La",m50025,dontshow
+Salamanca,37,39.8,34.5,5.3,4,Villares de la Reina,m37362,dontshow
+Córdoba,14,15.8,10.6,5.2,3,Espejo,m14025,dontshow
+Ourense,32,18.8,13.6,5.2,3,Maside,m32045,dontshow
+Badajoz,6,26.6,21.4,5.2,3,Granja de Torrehermosa,m6059,dontshow
+Zaragoza,50,26.6,21.4,5.2,2,Daroca,m50094,dontshow
+Toledo,45,26.9,21.7,5.2,2,Pantoja,m45128,dontshow
+Cantabria,39,28.9,23.7,5.2,9,"Corrales de Buelna, Los",m39025,dontshow
+Madrid,28,31.4,26.2,5.2,10,Torrelodones,m28152,dontshow
+Segovia,40,32.3,27.1,5.2,2,San Cristóbal de Segovia,m40906,dontshow
+Badajoz,6,32.9,27.7,5.2,7,Azuaga,m6014,dontshow
+Tarragona,43,33.1,27.9,5.2,2,"Perelló, El",m43104,dontshow
+Palencia,34,35.5,30.3,5.2,6,Guardo,m34080,dontshow
+Huelva,21,35.7,30.5,5.2,4,Minas de Riotinto,m21049,dontshow
+Zaragoza,50,35.8,30.6,5.2,3,Villanueva de Gállego,m50288,dontshow
+"A Coruña",15,37.2,32,5.2,6,Neda,m15055,dontshow
+Valladolid,47,38.2,33,5.2,3,Cigales,m47050,dontshow
+Barcelona,8,39.7,34.5,5.2,2,Sant Climent de Llobregat,m8204,dontshow
+Lleida,25,40.8,35.6,5.2,4,Agramunt,m25003,dontshow
+Lugo,27,16.9,11.8,5.1,4,Friol,m27020,dontshow
+Sevilla,41,19.5,14.4,5.1,2,Almadén de la Plata,m41009,dontshow
+Castellón,12,20.4,15.3,5.1,3,Morella,m12080,dontshow
+Lugo,27,22.9,17.8,5.1,3,Láncara,m27026,dontshow
+Badajoz,6,23.2,18.1,5.1,3,Villanueva del Fresno,m6154,dontshow
+Navarra,31,27.2,22.1,5.1,2,Ablitas,m31006,dontshow
+Zaragoza,50,30,24.9,5.1,2,Mallén,m50160,dontshow
+Madrid,28,31.3,26.2,5.1,4,Colmenarejo,m28044,dontshow
+Sevilla,41,34,28.9,5.1,7,Brenes,m41018,dontshow
+"La Rioja",26,38,32.9,5.1,2,Albelda de Iregua,m26005,dontshow
+Granada,18,42.1,37,5.1,3,Pulianas,m18165,dontshow
+Badajoz,6,18.3,13.3,5,3,Talarrubias,m6127,dontshow
+Sevilla,41,22.7,17.7,5,2,Marinaleda,m41061,dontshow
+Granada,18,23.3,18.3,5,3,Castril,m18046,dontshow
+León,24,25.3,20.3,5,3,Toreno,m24169,dontshow
+Ourense,32,25.3,20.3,5,5,Ribadavia,m32069,dontshow
+Almería,4,26.1,21.1,5,2,Benahadux,m4024,dontshow
+Valladolid,47,26.1,21.1,5,4,Medina de Rioseco,m47086,dontshow
+Segovia,40,28.8,23.8,5,4,Real Sitio de San Ildefonso,m40181,dontshow
+Badajoz,6,31.6,26.6,5,11,Montijo,m6088,dontshow
+Madrid,28,32,27,5,4,Manzanares el Real,m28082,dontshow
+Córdoba,14,32.2,27.2,5,3,Villaviciosa de Córdoba,m14073,dontshow
+Madrid,28,35.4,30.4,5,3,Cubas de la Sagra,m28050,dontshow
+Jaén,23,35.9,30.9,5,2,Baños de la Encina,m23011,dontshow
+Sevilla,41,38.8,33.8,5,2,Villamanrique de la Condesa,m41097,dontshow
+Huelva,21,39.6,34.6,5,2,"Campillo, El",m21018,dontshow
+Barcelona,8,42.5,37.5,5,4,Santpedor,m8192,dontshow
+Jaén,23,13.8,8.9,4.9,2,Jabalquinto,m23049,dontshow
+Valencia,46,17.9,13,4.9,2,Anna,m46039,dontshow
+Toledo,45,19.3,14.4,4.9,2,Tembleque,m45166,dontshow
+Alicante,3,21.1,16.2,4.9,6,Banyeres de Mariola,m3021,dontshow
+Valencia,46,22.6,17.7,4.9,2,Bellreguard,m46048,dontshow
+León,24,24.9,20,4.9,4,Fabero,m24070,dontshow
+Jaén,23,26,21.1,4.9,5,Navas de San Juan,m23063,dontshow
+Cantabria,39,27,22.1,4.9,5,Colindres,m39023,dontshow
+Toledo,45,31.2,26.3,4.9,2,"Navalmorales, Los",m45112,dontshow
+"A Coruña",15,31.5,26.6,4.9,6,Abegondo,m15001,dontshow
+Pontevedra,36,31.9,27,4.9,4,Barro,m36002,dontshow
+Jaén,23,34.6,29.7,4.9,5,Mengíbar,m23061,dontshow
+Huesca,22,37.2,32.3,4.9,7,Sabiñánigo,m22199,dontshow
+Zaragoza,50,37.9,33,4.9,3,"Puebla de Alfindén, La",m50219,dontshow
+Almería,4,15.6,10.8,4.8,2,Gádor,m4047,dontshow
+Sevilla,41,22.9,18.1,4.8,2,Albaida del Aljarafe,m41003,dontshow
+Almería,4,23.6,18.8,4.8,2,Chirivel,m4037,dontshow
+Cuenca,16,27.3,22.5,4.8,5,"Pedroñeras, Las",m16154,dontshow
+Navarra,31,29.1,24.3,4.8,5,Baztan,m31050,dontshow
+Pontevedra,36,30.2,25.4,4.8,5,Cuntis,m36015,dontshow
+Badajoz,6,31.1,26.3,4.8,2,Zahínos,m6159,dontshow
+León,24,32.1,27.3,4.8,3,Sariegos,m24163,dontshow
+Madrid,28,33.1,28.3,4.8,6,Alpedrete,m28010,dontshow
+Asturias,33,34.3,29.5,4.8,6,Cudillero,m33021,dontshow
+Teruel,44,35.1,30.3,4.8,3,Calamocha,m44050,dontshow
+"A Coruña",15,35.2,30.4,4.8,5,Cedeira,m15022,dontshow
+Barcelona,8,36.3,31.5,4.8,5,Montmeló,m8135,dontshow
+Sevilla,41,37.7,32.9,4.8,5,Umbrete,m41094,dontshow
+Lugo,27,38,33.2,4.8,6,Burela,m27902,dontshow
+Málaga,29,38,33.2,4.8,2,Villanueva del Rosario,m29096,dontshow
+Sevilla,41,39.4,34.6,4.8,5,Santiponce,m41089,dontshow
+Barcelona,8,46,41.2,4.8,4,Roda de Ter,m8183,dontshow
+Badajoz,6,16.8,12.1,4.7,2,Cabeza la Vaca,m6024,dontshow
+Lugo,27,19.5,14.8,4.7,2,"Valadouro, O",m27063,dontshow
+Alicante,3,20.9,16.2,4.7,4,Cox,m3058,dontshow
+Asturias,33,28,23.3,4.7,3,Vegadeo,m33074,dontshow
+"A Coruña",15,28.2,23.5,4.7,8,Padrón,m15065,dontshow
+Madrid,28,30.5,25.8,4.7,3,Loeches,m28075,dontshow
+Lleida,25,30.7,26,4.7,2,Bell-lloc d'Urgell,m25048,dontshow
+Madrid,28,30.9,26.2,4.7,2,Casarrubuelos,m28036,dontshow
+"A Coruña",15,31.6,26.9,4.7,6,Pontedeume,m15069,dontshow
+Navarra,31,34.8,30.1,4.7,5,Altsasu/Alsasua,m31010,dontshow
+Asturias,33,34.9,30.2,4.7,3,"Franco, El",m33023,dontshow
+Barcelona,8,42.5,37.8,4.7,3,Martorelles,m8115,dontshow
+Tarragona,43,47.9,43.2,4.7,2,"Catllar, El",m43043,dontshow
+Albacete,2,17.8,13.2,4.6,2,Fuente-Álamo,m2033,dontshow
+Valencia,46,19,14.4,4.6,4,Mogente/Moixent,m46170,dontshow
+Murcia,30,22.5,17.9,4.6,4,Pliego,m30032,dontshow
+Navarra,31,23.6,19,4.6,2,Fitero,m31105,dontshow
+Lugo,27,23.9,19.3,4.6,4,"Corgo, O",m27014,dontshow
+Navarra,31,24.3,19.7,4.6,4,Aranguren,m31023,dontshow
+Cuenca,16,26.7,22.1,4.6,3,Motilla del Palancar,m16134,dontshow
+Toledo,45,29.2,24.6,4.6,3,"Navalucillos, Los",m45113,dontshow
+Álava,1,30.8,26.2,4.6,2,Ayala/Aiara,m1010,dontshow
+Toledo,45,32.4,27.8,4.6,3,Añover de Tajo,m45014,dontshow
+Palencia,34,32.6,28,4.6,4,Villamuriel de Cerrato,m34225,dontshow
+Madrid,28,33.4,28.8,4.6,3,Hoyo de Manzanares,m28072,dontshow
+Barcelona,8,37.6,33,4.6,2,Sant Julià de Vilatorta,m8220,dontshow
+Girona,17,44.2,39.6,4.6,2,Riells i Viabrea,m17146,dontshow
+Cáceres,10,17.3,12.8,4.5,2,Garrovillas de Alconétar,m10082,dontshow
+Toledo,45,18.6,14.1,4.5,2,Dosbarrios,m45059,dontshow
+Huelva,21,21.9,17.4,4.5,3,Niebla,m21053,dontshow
+Ciudad Real,13,23.7,19.2,4.5,5,Calzada de Calatrava,m13027,dontshow
+Badajoz,6,25.1,20.6,4.5,6,Castuera,m6036,dontshow
+Navarra,31,25.6,21.1,4.5,2,Cortes,m31078,dontshow
+"Illes Balears,",7,27.9,23.4,4.5,4,Porreres,m7043,dontshow
+Málaga,29,28.4,23.9,4.5,3,Cuevas de San Marcos,m29049,dontshow
+"A Coruña",15,28.5,24,4.5,6,Malpica de Bergantiños,m15043,dontshow
+"A Coruña",15,30.5,26,4.5,5,Zas,m15093,dontshow
+"La Rioja",26,30.7,26.2,4.5,4,Santo Domingo de la Calzada,m26138,dontshow
+Navarra,31,32.5,28,4.5,4,San Adrián,m31215,dontshow
+Cuenca,16,32.7,28.2,4.5,8,Tarancón,m16203,dontshow
+Valladolid,47,35,30.5,4.5,5,Cistérniga,m47052,dontshow
+Valladolid,47,35.3,30.8,4.5,4,Zaratán,m47231,dontshow
+"A Coruña",15,36.1,31.6,4.5,8,"Pontes de García Rodríguez, As",m15070,dontshow
+Palencia,34,36.7,32.2,4.5,2,Herrera de Pisuerga,m34083,dontshow
+"A Coruña",15,37.4,32.9,4.5,9,Sada,m15075,dontshow
+Barcelona,8,42.8,38.3,4.5,2,Balenyà,m8017,dontshow
+Barcelona,8,45.7,41.2,4.5,3,Moià,m8138,dontshow
+Cuenca,16,15.1,10.7,4.4,2,Campillo de Altobuey,m16042,dontshow
+Lugo,27,15.6,11.2,4.4,2,"Incio, O",m27024,dontshow
+Badajoz,6,19.1,14.7,4.4,5,Oliva de la Frontera,m6093,dontshow
+Jaén,23,21.5,17.1,4.4,2,Bélmez de la Moraleda,m23015,dontshow
+Ciudad Real,13,21.9,17.5,4.4,3,Carrión de Calatrava,m13031,dontshow
+Lugo,27,22.1,17.7,4.4,3,Xove,m27025,dontshow
+Ciudad Real,13,22.2,17.8,4.4,5,Moral de Calatrava,m13058,dontshow
+Santa Cruz de Tenerife,38,22.7,18.3,4.4,2,Fasnia,m38012,dontshow
+Cáceres,10,27.1,22.7,4.4,5,Montehermoso,m10127,dontshow
+Cádiz,11,27.2,22.8,4.4,4,Prado del Rey,m11026,dontshow
+León,24,27.2,22.8,4.4,2,Chozas de Abajo,m24065,dontshow
+"Las Palmas",35,27.2,22.8,4.4,7,Firgas,m35008,dontshow
+Navarra,31,27.3,22.9,4.4,2,Buñuel,m31057,dontshow
+"A Coruña",15,28.1,23.7,4.4,4,Trazo,m15086,dontshow
+Albacete,2,28.2,23.8,4.4,2,Chinchilla de Monte-Aragón,m2029,dontshow
+Badajoz,6,28.5,24.1,4.4,3,Hornachos,m6069,dontshow
+Badajoz,6,29,24.6,4.4,7,Jerez de los Caballeros,m6070,dontshow
+Huelva,21,32.5,28.1,4.4,3,Paterna del Campo,m21056,dontshow
+Córdoba,14,32.7,28.3,4.4,8,Fernán-Núñez,m14027,dontshow
+Barcelona,8,36,31.6,4.4,2,Sant Pere de Torelló,m8233,dontshow
+Sevilla,41,36.1,31.7,4.4,8,"Puebla de Cazalla, La",m41077,dontshow
+Bizkaia,48,38.1,33.7,4.4,7,Sopelana,m48085,dontshow
+Asturias,33,38.4,34,4.4,4,Noreña,m33042,dontshow
+Cuenca,16,17.9,13.6,4.3,3,Casasimarro,m16066,dontshow
+Badajoz,6,19.7,15.4,4.3,3,Fuentes de León,m6055,dontshow
+"A Coruña",15,20.6,16.3,4.3,3,"Baña, A",m15007,dontshow
+Toledo,45,22.8,18.5,4.3,3,Calera y Chozas,m45028,dontshow
+Ourense,32,22.9,18.6,4.3,2,Leiro,m32040,dontshow
+"Las Palmas",35,22.9,18.6,4.3,3,Valleseco,m35032,dontshow
+Valencia,46,22.9,18.6,4.3,3,Villalonga,m46255,dontshow
+Badajoz,6,23.8,19.5,4.3,2,Valdelacalzada,m6901,dontshow
+Valencia,46,25.7,21.4,4.3,4,Rafelbuñol/Rafelbunyol,m46207,dontshow
+Ourense,32,26.4,22.1,4.3,3,Cartelle,m32020,dontshow
+Madrid,28,27,22.7,4.3,2,Becerril de la Sierra,m28018,dontshow
+Valencia,46,27.2,22.9,4.3,4,Almàssera,m46032,dontshow
+Castellón,12,27.3,23,4.3,2,Vall d'Alba,m12124,dontshow
+Ourense,32,27.6,23.3,4.3,2,"Pobra de Trives, A",m32063,dontshow
+Sevilla,41,27.8,23.5,4.3,3,"Puebla de los Infantes, La",m41078,dontshow
+Almería,4,30.7,26.4,4.3,2,Lubrín,m4059,dontshow
+Lleida,25,30.7,26.4,4.3,2,Juneda,m25119,dontshow
+Cantabria,39,31,26.7,4.3,7,Santoña,m39079,dontshow
+"Las Palmas",35,31.3,27,4.3,4,Haría,m35010,dontshow
+Toledo,45,36.7,32.4,4.3,2,Chozas de Canales,m45056,dontshow
+Bizkaia,48,38,33.7,4.3,5,Berango,m48016,dontshow
+Barcelona,8,45,40.7,4.3,4,Matadepera,m8120,dontshow
+Jaén,23,15.5,11.3,4.2,2,Canena,m23020,dontshow
+Jaén,23,15.8,11.6,4.2,2,Villardompardo,m23098,dontshow
+Sevilla,41,23.8,19.6,4.2,2,"Pedroso, El",m41073,dontshow
+Jaén,23,24.1,19.9,4.2,4,Peal de Becerro,m23066,dontshow
+Toledo,45,27.5,23.3,4.2,4,"Villa de Don Fadrique, La",m45186,dontshow
+Badajoz,6,27.9,23.7,4.2,4,Aceuchal,m6002,dontshow
+Lugo,27,28.2,24,4.2,3,Barreiros,m27005,dontshow
+Cantabria,39,28.9,24.7,4.2,3,Polanco,m39054,dontshow
+Lugo,27,31.1,26.9,4.2,3,Taboada,m27060,dontshow
+Castellón,12,32.3,28.1,4.2,10,Benicasim/Benicàssim,m12028,dontshow
+Soria,42,34.5,30.3,4.2,3,Burgo de Osma-Ciudad de Osma,m42043,dontshow
+Álava,1,36,31.8,4.2,2,Iruña Oka/Iruña de Oca,m1901,dontshow
+Lleida,25,36.8,32.6,4.2,2,Artesa de Segre,m25034,dontshow
+Barcelona,8,37.2,33,4.2,3,Sant Hipòlit de Voltregà,m8215,dontshow
+Granada,18,45.2,41,4.2,4,Cenes de la Vega,m18047,dontshow
+Huelva,21,18.1,14,4.1,3,Villalba del Alcor,m21074,dontshow
+Granada,18,18.7,14.6,4.1,2,Guadahortuna,m18088,dontshow
+Badajoz,6,19.4,15.3,4.1,2,Lobón,m6072,dontshow
+Badajoz,6,21.2,17.1,4.1,5,Fuente del Maestre,m6054,dontshow
+Cuenca,16,22.7,18.6,4.1,2,Horcajo de Santiago,m16106,dontshow
+Valencia,46,23.1,19,4.1,4,Villanueva de Castellón,m46257,dontshow
+Valladolid,47,24.5,20.4,4.1,4,Olmedo,m47104,dontshow
+Badajoz,6,24.8,20.7,4.1,3,Santa Marta,m6121,dontshow
+Almería,4,25.3,21.2,4.1,5,Carboneras,m4032,dontshow
+Cuenca,16,26.3,22.2,4.1,4,Mota del Cuervo,m16133,dontshow
+Valencia,46,26.3,22.2,4.1,3,Rocafort,m46216,dontshow
+León,24,27.4,23.3,4.1,2,Valderas,m24181,dontshow
+Bizkaia,48,29.1,25,4.1,6,Balmaseda,m48090,dontshow
+Huesca,22,29.4,25.3,4.1,3,Sariñena,m22213,dontshow
+Toledo,45,29.9,25.8,4.1,2,"Pueblanueva, La",m45137,dontshow
+Salamanca,37,30.2,26.1,4.1,4,Peñaranda de Bracamonte,m37246,dontshow
+Ciudad Real,13,31.1,27,4.1,5,Argamasilla de Alba,m13019,dontshow
+Gipuzkoa,20,35.6,31.5,4.1,3,Orio,m20061,dontshow
+Gipuzcoa,20,35.6,31.5,4.1,3,Orio,m20061,dontshow
+Madrid,28,38.8,34.7,4.1,5,Griñón,m28066,dontshow
+Barcelona,8,40.8,36.7,4.1,5,Tiana,m8282,dontshow
+Ciudad Real,13,17.1,13.1,4,3,Torrenueva,m13085,dontshow
+Cuenca,16,17.9,13.9,4,2,Belmonte,m16033,dontshow
+Albacete,2,20.4,16.4,4,3,Munera,m2053,dontshow
+Castellón,12,22.9,18.9,4,2,Jérica,m12071,dontshow
+León,24,24.1,20.1,4,2,Toral de los Vados,m24206,dontshow
+Lugo,27,24.4,20.4,4,2,Bóveda,m27008,dontshow
+Palencia,34,25.1,21.1,4,3,Saldaña,m34157,dontshow
+Granada,18,25.2,21.2,4,3,Cúllar,m18056,dontshow
+Madrid,28,25.9,21.9,4,3,"Boalo, El",m28023,dontshow
+Guadalajara,19,26.5,22.5,4,3,Molina de Aragón,m19190,dontshow
+Zaragoza,50,26.8,22.8,4,2,Cariñena,m50073,dontshow
+Girona,17,27.3,23.3,4,2,Camprodon,m17039,dontshow
+Asturias,33,27.4,23.4,4,2,Cabrales,m33008,dontshow
+Burgos,9,28.6,24.6,4,2,Lerma,m9194,dontshow
+Girona,17,29.1,25.1,4,2,Forallac,m17902,dontshow
+Lugo,27,29.1,25.1,4,5,Castro de Rei,m27010,dontshow
+Madrid,28,30.4,26.4,4,2,Talamanca de Jarama,m28145,dontshow
+Cádiz,11,31,27,4,6,Jimena de la Frontera,m11021,dontshow
+Navarra,31,31.2,27.2,4,3,Viana,m31251,dontshow
+Bizkaia,48,31.7,27.7,4,2,Busturia,m48021,dontshow
+Valladolid,47,32.8,28.8,4,3,Boecillo,m47023,dontshow
+Granada,18,32.9,28.9,4,2,Colomera,m18051,dontshow
+Guadalajara,19,37.2,33.2,4,4,Villanueva de la Torre,m19319,dontshow
+Burgos,9,37.5,33.5,4,4,Briviesca,m9056,dontshow
+Barcelona,8,45.7,41.7,4,2,Cabrils,m8030,dontshow
+Córdoba,14,15.8,11.9,3.9,3,Luque,m14039,dontshow
+Toledo,45,18.1,14.2,3.9,3,Santa Cruz de la Zarza,m45156,dontshow
+Valencia,46,22.4,18.5,3.9,2,Catadau,m46093,dontshow
+Lugo,27,22.6,18.7,3.9,2,Paradela,m27042,dontshow
+Santa Cruz de Tenerife,38,22.9,19,3.9,4,San Juan de la Rambla,m38034,dontshow
+Almería,4,24.3,20.4,3.9,2,Vélez-Blanco,m4098,dontshow
+Toledo,45,24.5,20.6,3.9,3,Menasalbas,m45098,dontshow
+Lugo,27,24.8,20.9,3.9,6,Guitiriz,m27022,dontshow
+Cuenca,16,24.9,21,3.9,2,"Mesas, Las",m16124,dontshow
+Pontevedra,36,25.4,21.5,3.9,5,Cotobade,m36012,dontshow
+Jaén,23,27.2,23.3,3.9,4,Lopera,m23056,dontshow
+Málaga,29,28.3,24.4,3.9,5,Campillos,m29032,dontshow
+"Illes Balears,",7,28.6,24.7,3.9,5,Binissalem,m7008,dontshow
+Madrid,28,28.6,24.7,3.9,3,Guadalix de la Sierra,m28067,dontshow
+Ourense,32,29.1,25.2,3.9,2,Viana do Bolo,m32086,dontshow
+Bizkaia,48,30.6,26.7,3.9,3,Igorre,m48094,dontshow
+Salamanca,37,30.8,26.9,3.9,2,Cabrerizos,m37067,dontshow
+Badajoz,6,32,28.1,3.9,4,Monesterio,m6085,dontshow
+Soria,42,32.2,28.3,3.9,3,San Esteban de Gormaz,m42162,dontshow
+Gipuzkoa,20,35.2,31.3,3.9,2,Eskoriatza,m20034,dontshow
+Gipuzcoa,20,35.2,31.3,3.9,2,Eskoriatza,m20034,dontshow
+Segovia,40,35.8,31.9,3.9,2,"Lastrilla, La",m40112,dontshow
+"A Coruña",15,37.9,34,3.9,4,Mugardos,m15051,dontshow
+"A Coruña",15,40,36.1,3.9,5,Valdoviño,m15087,dontshow
+Albacete,2,16.6,12.8,3.8,2,Lezuza,m2043,dontshow
+Badajoz,6,23.7,19.9,3.8,4,Navalvillar de Pela,m6091,dontshow
+Badajoz,6,24.7,20.9,3.8,2,Puebla de Obando,m6107,dontshow
+"A Coruña",15,26,22.2,3.8,3,Val do Dubra,m15088,dontshow
+Bizkaia,48,26.8,23,3.8,2,Sopuerta,m48086,dontshow
+Cuenca,16,27.4,23.6,3.8,2,Iniesta,m16113,dontshow
+Huesca,22,28.1,24.3,3.8,2,Zaidín,m22254,dontshow
+Navarra,31,28.5,24.7,3.8,2,Mendavia,m31165,dontshow
+Alicante,3,30.3,26.5,3.8,2,"Montesinos, Los",m3903,dontshow
+Huelva,21,32.8,29,3.8,2,Almonaster la Real,m21004,dontshow
+Sevilla,41,35.2,31.4,3.8,4,Cazalla de la Sierra,m41032,dontshow
+Barcelona,8,39.8,36,3.8,2,Sant Salvador de Guardiola,m8098,dontshow
+Albacete,2,17.4,13.7,3.7,2,Ontur,m2056,dontshow
+Ávila,5,19.3,15.6,3.7,3,Cebreros,m5057,dontshow
+Valencia,46,21.8,18.1,3.7,3,Enguera,m46118,dontshow
+Palencia,34,24.5,20.8,3.7,2,Carrión de los Condes,m34047,dontshow
+Badajoz,6,25.2,21.5,3.7,2,"Garrovilla, La",m6058,dontshow
+Burgos,9,25.9,22.2,3.7,3,Villarcayo de Merindad de Castilla la Vieja,m9903,dontshow
+Córdoba,14,27.3,23.6,3.7,4,Belmez,m14009,dontshow
+Madrid,28,28.8,25.1,3.7,3,Miraflores de la Sierra,m28085,dontshow
+"Illes Balears,",7,30.1,26.4,3.7,3,Santa María del Camí,m7056,dontshow
+Albacete,2,30.7,27,3.7,5,Tobarra,m2074,dontshow
+Madrid,28,30.8,27.1,3.7,6,Villanueva del Pardillo,m28177,dontshow
+Toledo,45,31.8,28.1,3.7,3,Esquivias,m45064,dontshow
+Gipuzkoa,20,37,33.3,3.7,8,Zumarraga,m20080,dontshow
+Gipuzcoa,20,37,33.3,3.7,8,Zumarraga,m20080,dontshow
+Guadalajara,19,16.8,13.2,3.6,2,Sacedón,m19245,dontshow
+Sevilla,41,18.6,15,3.6,4,Aznalcóllar,m41013,dontshow
+Cantabria,39,19.2,15.6,3.6,2,Puente Viesgo,m39056,dontshow
+Jaén,23,19.8,16.2,3.6,4,Vilches,m23094,dontshow
+Pontevedra,36,20.8,17.2,3.6,3,Portas,m36040,dontshow
+Albacete,2,22,18.4,3.6,2,Villamalea,m2079,dontshow
+Lugo,27,23.4,19.8,3.6,2,"Páramo, O",m27043,dontshow
+"A Coruña",15,27.4,23.8,3.6,5,NA,m15902,dontshow
+Ourense,32,28.2,24.6,3.6,2,Padrenda,m32056,dontshow
+Guadalajara,19,35.4,31.8,3.6,3,Sigüenza,m19257,dontshow
+Guadalajara,19,37.2,33.6,3.6,5,Alovera,m19024,dontshow
+Jaén,23,21.2,17.7,3.5,2,"Puerta de Segura, La",m23072,dontshow
+Granada,18,22.9,19.4,3.5,2,Salar,m18171,dontshow
+Badajoz,6,23.8,20.3,3.5,4,Alburquerque,m6006,dontshow
+Lugo,27,24,20.5,3.5,3,"Saviñao, O",m27058,dontshow
+"A Coruña",15,24.5,21,3.5,3,Paderne,m15064,dontshow
+Albacete,2,27.1,23.6,3.5,2,Liétor,m2044,dontshow
+Ávila,5,27.3,23.8,3.5,4,"Navas del Marqués, Las",m5168,dontshow
+Toledo,45,30.1,26.6,3.5,2,Pepino,m45132,dontshow
+Gipuzkoa,20,37.2,33.7,3.5,4,Usurbil,m20073,dontshow
+Gipuzcoa,20,37.2,33.7,3.5,4,Usurbil,m20073,dontshow
+Málaga,29,38.8,35.3,3.5,2,Ojén,m29076,dontshow
+Badajoz,6,12.9,9.5,3.4,5,Campanario,m6028,dontshow
+Cantabria,39,14.1,10.7,3.4,3,Valdáliga,m39091,dontshow
+Jaén,23,15.8,12.4,3.4,3,Villanueva de la Reina,m23096,dontshow
+Toledo,45,19.1,15.7,3.4,3,Navahermosa,m45109,dontshow
+Ourense,32,22.1,18.7,3.4,2,"Bola, A",m32014,dontshow
+Albacete,2,24,20.6,3.4,3,Casas-Ibáñez,m2024,dontshow
+Badajoz,6,24,20.6,3.4,3,Ribera del Fresno,m6113,dontshow
+Málaga,29,25.5,22.1,3.4,2,Sierra de Yeguas,m29088,dontshow
+Salamanca,37,26.1,22.7,3.4,3,Alba de Tormes,m37008,dontshow
+Lugo,27,26.4,23,3.4,3,"Pastoriza, A",m27044,dontshow
+Córdoba,14,26.7,23.3,3.4,3,Villafranca de Córdoba,m14067,dontshow
+Cantabria,39,27.3,23.9,3.4,2,Santillana del Mar,m39076,dontshow
+Jaén,23,28.1,24.7,3.4,2,Rus,m23074,dontshow
+Alicante,3,28.6,25.2,3.4,2,"Verger, el",m3138,dontshow
+Madrid,28,29.9,26.5,3.4,4,Daganzo de Arriba,m28053,dontshow
+Madrid,28,32.7,29.3,3.4,3,Chinchón,m28052,dontshow
+Tarragona,43,36.2,32.8,3.4,2,"Ampolla, L'",m43906,dontshow
+Lleida,25,42.4,39,3.4,3,Guissona,m25110,dontshow
+"A Coruña",15,20.6,17.3,3.3,2,Boimorto,m15010,dontshow
+Málaga,29,21.7,18.4,3.3,2,Humilladero,m29059,dontshow
+Málaga,29,22.3,19,3.3,4,Alameda,m29001,dontshow
+Palencia,34,23.4,20.1,3.3,2,Velilla del Río Carrión,m34199,dontshow
+Teruel,44,24,20.7,3.3,2,Alcorisa,m44014,dontshow
+Cantabria,39,26.8,23.5,3.3,4,Cartes,m39018,dontshow
+Valladolid,47,27.3,24,3.3,2,Cabezón de Pisuerga,m47027,dontshow
+Santa Cruz de Tenerife,38,27.4,24.1,3.3,3,"Guancha, La",m38018,dontshow
+Sevilla,41,29.8,26.5,3.3,3,Cañada Rosal,m41901,dontshow
+Burgos,9,30.5,27.2,3.3,2,Roa,m9321,dontshow
+Badajoz,6,32.1,28.8,3.3,6,"Santos de Maimona, Los",m6122,dontshow
+Valladolid,47,32.8,29.5,3.3,3,Simancas,m47161,dontshow
+Madrid,28,35.5,32.2,3.3,4,Sevilla la Nueva,m28141,dontshow
+Valladolid,47,13.6,10.4,3.2,2,Nava del Rey,m47101,dontshow
+Jaén,23,15.8,12.6,3.2,2,Chiclana de Segura,m23029,dontshow
+Valencia,46,19.3,16.1,3.2,2,Llombai,m46156,dontshow
+Cáceres,10,20.2,17,3.2,2,Brozas,m10032,dontshow
+Málaga,29,21.8,18.6,3.2,3,Teba,m29089,dontshow
+Castellón,12,22.2,19,3.2,4,Torreblanca,m12117,dontshow
+Córdoba,14,22.6,19.4,3.2,4,Nueva Carteya,m14046,dontshow
+Ourense,32,24.3,21.1,3.2,2,Baños de Molgas,m32007,dontshow
+Santa Cruz de Tenerife,38,27.4,24.2,3.2,3,Valverde,m38048,dontshow
+Asturias,33,28.1,24.9,3.2,3,Morcín,m33038,dontshow
+Santa Cruz de Tenerife,38,28.3,25.1,3.2,2,Hermigua,m38021,dontshow
+Álava,1,30.4,27.2,3.2,2,Oyón-Oion,m1043,dontshow
+Zaragoza,50,31.3,28.1,3.2,2,Fuentes de Ebro,m50115,dontshow
+Madrid,28,32.2,29,3.2,3,Torrejón de Velasco,m28150,dontshow
+Madrid,28,33.4,30.2,3.2,3,Camarma de Esteruelas,m28032,dontshow
+Tarragona,43,34.7,31.5,3.2,2,Santa Coloma de Queralt,m43139,dontshow
+Valladolid,47,37.9,34.7,3.2,2,Santovenia de Pisuerga,m47155,dontshow
+Badajoz,6,20.4,17.3,3.1,3,Arroyo de San Serván,m6012,dontshow
+Badajoz,6,20.9,17.8,3.1,4,Fregenal de la Sierra,m6050,dontshow
+Toledo,45,21.9,18.8,3.1,4,Yepes,m45202,dontshow
+"La Rioja",26,23.2,20.1,3.1,2,Quel,m26120,dontshow
+Sevilla,41,24.7,21.6,3.1,2,"Rubio, El",m41084,dontshow
+Cáceres,10,26.5,23.4,3.1,2,Cabezuela del Valle,m10035,dontshow
+Ourense,32,26.5,23.4,3.1,2,"Irixo, O",m32035,dontshow
+Sevilla,41,28.4,25.3,3.1,2,"Lantejuela, La",m41052,dontshow
+Girona,17,30.5,27.4,3.1,2,Vilablareix,m17215,dontshow
+Palencia,34,30.5,27.4,3.1,2,Osorno la Mayor,m34901,dontshow
+Burgos,9,31.1,28,3.1,2,Belorado,m9048,dontshow
+Asturias,33,32.4,29.3,3.1,2,Teverga,m33072,dontshow
+Ciudad Real,13,32.5,29.4,3.1,4,Argamasilla de Calatrava,m13020,dontshow
+Zaragoza,50,33,29.9,3.1,2,Borja,m50055,dontshow
+Tarragona,43,34.8,31.7,3.1,3,Ulldecona,m43156,dontshow
+Huelva,21,35.3,32.2,3.1,4,Rociana del Condado,m21061,dontshow
+Lleida,25,36.3,33.2,3.1,2,Torrefarrera,m25228,dontshow
+"La Rioja",26,37.8,34.7,3.1,4,Villamediana de Iregua,m26168,dontshow
+Cáceres,10,15.3,12.3,3,2,Madrigalejo,m10112,dontshow
+Albacete,2,17.4,14.4,3,2,Alpera,m2010,dontshow
+Cantabria,39,17.5,14.5,3,2,Penagos,m39048,dontshow
+Valencia,46,18.4,15.4,3,3,Benigánim,m46062,dontshow
+Alicante,3,19.2,16.2,3,3,Biar,m3043,dontshow
+Sevilla,41,19.9,16.9,3,4,"Saucejo, El",m41090,dontshow
+Zamora,49,20.6,17.6,3,2,Fermoselle,m49065,dontshow
+Cáceres,10,22,19,3,2,Cañamero,m10044,dontshow
+Ourense,32,22.2,19.2,3,2,Castrelo de Miño,m32022,dontshow
+Sevilla,41,24.1,21.1,3,2,Aguadulce,m41001,dontshow
+Valencia,46,26.3,23.3,3,2,Simat de la Valldigna,m46231,dontshow
+Sevilla,41,28,25,3,4,"Campana, La",m41022,dontshow
+Barcelona,8,28.9,25.9,3,2,Calaf,m8031,dontshow
+"A Coruña",15,30.9,27.9,3,3,Cabanas,m15015,dontshow
+Cádiz,11,32.2,29.2,3,4,Alcalá de los Gazules,m11001,dontshow
+"Illes Balears,",7,33.2,30.2,3,3,Consell,m7016,dontshow
+Lleida,25,33.4,30.4,3,2,Linyola,m25122,dontshow
+Lleida,25,35.1,32.1,3,2,"Pobla de Segur, La",m25171,dontshow
+Girona,17,36.6,33.6,3,3,Sant Hilari Sacalm,m17164,dontshow
+Gipuzkoa,20,37.8,34.8,3,3,Villabona,m20075,dontshow
+Gipuzcoa,20,37.8,34.8,3,3,Villabona,m20075,dontshow
+Toledo,45,17.1,14.2,2.9,2,Villatobas,m45198,dontshow
+Sevilla,41,17.8,14.9,2.9,5,Herrera,m41050,dontshow
+Ciudad Real,13,18.6,15.7,2.9,2,Castellar de Santiago,m13033,dontshow
+Lugo,27,19.5,16.6,2.9,2,Lourenzá,m27027,dontshow
+Toledo,45,19.8,16.9,2.9,4,"Puebla de Almoradiel, La",m45135,dontshow
+Valencia,46,20.1,17.2,2.9,3,Bocairent,m46072,dontshow
+Badajoz,6,20.7,17.8,2.9,3,Zalamea de la Serena,m6160,dontshow
+Badajoz,6,21.4,18.5,2.9,2,Siruela,m6125,dontshow
+Sevilla,41,23.4,20.5,2.9,8,Estepa,m41041,dontshow
+Pontevedra,36,23.7,20.8,2.9,2,Fornelos de Montes,m36019,dontshow
+Ourense,32,24.1,21.2,2.9,2,Amoeiro,m32002,dontshow
+Almería,4,25.4,22.5,2.9,2,Canjáyar,m4030,dontshow
+Toledo,45,25.8,22.9,2.9,7,Quintanar de la Orden,m45142,dontshow
+Cáceres,10,26.1,23.2,2.9,2,Zorita,m10219,dontshow
+Córdoba,14,27.3,24.4,2.9,4,Doña Mencía,m14022,dontshow
+Cáceres,10,27.7,24.8,2.9,3,Torrejoncillo,m10189,dontshow
+Ourense,32,28,25.1,2.9,3,Toén,m32081,dontshow
+Cádiz,11,28.4,25.5,2.9,3,Paterna de Rivera,m11025,dontshow
+Toledo,45,28.8,25.9,2.9,2,Valmojado,m45180,dontshow
+Zaragoza,50,29,26.1,2.9,2,Sádaba,m50230,dontshow
+Granada,18,29.9,27,2.9,2,Zújar,m18194,dontshow
+Ávila,5,30.2,27.3,2.9,5,Arenas de San Pedro,m5014,dontshow
+Huesca,22,33.8,30.9,2.9,3,Graus,m22117,dontshow
+Zaragoza,50,33.8,30.9,2.9,2,Cadrete,m50066,dontshow
+Bizkaia,48,36,33.1,2.9,3,Gorliz,m48043,dontshow
+Toledo,45,36.1,33.2,2.9,2,"Ventas de Retamosa, Las",m45183,dontshow
+Toledo,45,36.4,33.5,2.9,2,Numancia de la Sagra,m45119,dontshow
+"A Coruña",15,13.3,10.5,2.8,2,Sobrado,m15080,dontshow
+Jaén,23,14.4,11.6,2.8,2,Begíjar,m23014,dontshow
+Jaén,23,17.1,14.3,2.8,3,Torreblascopedro,m23085,dontshow
+"A Coruña",15,18.8,16,2.8,2,Santiso,m15079,dontshow
+Valencia,46,19.5,16.7,2.8,2,Albuixech,m46014,dontshow
+Cádiz,11,21.9,19.1,2.8,2,Grazalema,m11019,dontshow
+Valencia,46,22.5,19.7,2.8,2,Chelva,m46106,dontshow
+Córdoba,14,24.1,21.3,2.8,3,Montalbán de Córdoba,m14040,dontshow
+Soria,42,25,22.2,2.8,2,Ágreda,m42004,dontshow
+Ávila,5,25.7,22.9,2.8,2,Piedrahíta,m5186,dontshow
+Lugo,27,26.7,23.9,2.8,2,Pantón,m27041,dontshow
+Cáceres,10,28.1,25.3,2.8,3,Hervás,m10096,dontshow
+Castellón,12,28.9,26.1,2.8,2,Villafranca del Cid/Vilafranca,m12129,dontshow
+Huelva,21,30.2,27.4,2.8,2,San Bartolomé de la Torre,m21063,dontshow
+Asturias,33,30.3,27.5,2.8,2,Bimenes,m33006,dontshow
+Huelva,21,35.1,32.3,2.8,2,"Cerro de Andévalo, El",m21023,dontshow
+Bizkaia,48,36.3,33.5,2.8,4,Berriz,m48019,dontshow
+Jaén,23,11.8,9.1,2.7,2,Noalejo,m23064,dontshow
+Córdoba,14,12.1,9.4,2.7,2,Palenciana,m14048,dontshow
+Cádiz,11,15.2,12.5,2.7,4,Alcalá del Valle,m11002,dontshow
+Badajoz,6,19.2,16.5,2.7,2,Alconchel,m6007,dontshow
+Córdoba,14,19.6,16.9,2.7,2,Villaralto,m14072,dontshow
+Jaén,23,20.8,18.1,2.7,4,Huelma,m23044,dontshow
+Valencia,46,21.8,19.1,2.7,3,Albalat dels Sorells,m46009,dontshow
+Cáceres,10,23.4,20.7,2.7,2,Guadalupe,m10087,dontshow
+Sevilla,41,24.9,22.2,2.7,3,Guadalcanal,m41048,dontshow
+Ávila,5,27.8,25.1,2.7,2,"Barco de Ávila, El",m5021,dontshow
+Guadalajara,19,29.2,26.5,2.7,2,Yunquera de Henares,m19331,dontshow
+Cáceres,10,30.4,27.7,2.7,2,Valverde del Fresno,m10205,dontshow
+Barcelona,8,30.9,28.2,2.7,2,Sant Quirze de Besora,m8237,dontshow
+Barcelona,8,47.2,44.5,2.7,2,Olivella,m8148,dontshow
+Albacete,2,14.7,12.1,2.6,2,Valdeganga,m2075,dontshow
+Toledo,45,15.5,12.9,2.6,2,"Guardia, La",m45071,dontshow
+Ciudad Real,13,16,13.4,2.6,3,Villanueva de la Fuente,m13092,dontshow
+Palencia,34,17.4,14.8,2.6,2,Paredes de Nava,m34123,dontshow
+Málaga,29,17.5,14.9,2.6,2,Alozaina,m29013,dontshow
+Almería,4,19.6,17,2.6,4,Macael,m4062,dontshow
+Cáceres,10,20.6,18,2.6,2,Zarza la Mayor,m10218,dontshow
+Badajoz,6,23.7,21.1,2.6,2,Higuera de Vargas,m6066,dontshow
+Cáceres,10,25.8,23.2,2.6,3,Malpartida de Plasencia,m10116,dontshow
+Huelva,21,27,24.4,2.6,2,Puebla de Guzmán,m21058,dontshow
+Palencia,34,27.1,24.5,2.6,3,Cervera de Pisuerga,m34056,dontshow
+Palencia,34,30.1,27.5,2.6,2,Dueñas,m34069,dontshow
+Madrid,28,30.3,27.7,2.6,3,Moraleja de Enmedio,m28089,dontshow
+Navarra,31,31.7,29.1,2.6,2,Murchante,m31176,dontshow
+Segovia,40,31.8,29.2,2.6,3,Cantalejo,m40040,dontshow
+Navarra,31,31.9,29.3,2.6,3,Lodosa,m31157,dontshow
+Madrid,28,40.1,37.5,2.6,3,Nuevo Baztán,m28100,dontshow
+Toledo,45,12.4,9.9,2.5,2,Huerta de Valdecarábanos,m45078,dontshow
+Sevilla,41,17.8,15.3,2.5,2,"Navas de la Concepción, Las",m41066,dontshow
+Badajoz,6,19,16.5,2.5,4,Calamonte,m6025,dontshow
+Cáceres,10,23.2,20.7,2.5,2,Ceclavín,m10061,dontshow
+Jaén,23,24,21.5,2.5,2,"Iruela, La",m23047,dontshow
+Toledo,45,25.2,22.7,2.5,2,Cobisa,m45052,dontshow
+Lleida,25,26.4,23.9,2.5,2,Ponts,m25172,dontshow
+Santa Cruz de Tenerife,38,27.3,24.8,2.5,4,Buenavista del Norte,m38010,dontshow
+Toledo,45,27.7,25.2,2.5,2,Alameda de la Sagra,m45002,dontshow
+Navarra,31,34,31.5,2.5,3,Bera,m31250,dontshow
+Almería,4,34.4,31.9,2.5,5,"Mojonera, La",m4903,dontshow
+Barcelona,8,38.1,35.6,2.5,3,Navarcles,m8140,dontshow
+Jaén,23,13,10.6,2.4,2,Frailes,m23033,dontshow
+Ciudad Real,13,13.5,11.1,2.4,2,Montiel,m13057,dontshow
+"Illes Balears,",7,13.7,11.3,2.4,2,Petra,m7041,dontshow
+Navarra,31,18.7,16.3,2.4,2,Funes,m31107,dontshow
+Granada,18,20.6,18.2,2.4,2,Lecrín,m18119,dontshow
+Alicante,3,22.3,19.9,2.4,3,Bigastro,m3044,dontshow
+Valencia,46,25,22.6,2.4,2,Manuel,m46160,dontshow
+Zaragoza,50,30.3,27.9,2.4,2,Mequinenza,m50165,dontshow
+Madrid,28,30.4,28,2.4,5,Moralzarzal,m28090,dontshow
+Zaragoza,50,30.6,28.2,2.4,2,Pina de Ebro,m50208,dontshow
+Granada,18,31.6,29.2,2.4,2,Benalúa,m18027,dontshow
+Granada,18,31.9,29.5,2.4,2,Villanueva Mesía,m18188,dontshow
+Tarragona,43,37.2,34.8,2.4,3,Móra d'Ebre,m43093,dontshow
+Tarragona,43,37.4,35,2.4,2,"Arboç, L'",m43016,dontshow
+Toledo,45,37.5,35.1,2.4,2,Magán,m45088,dontshow
+Ciudad Real,13,14,11.7,2.3,2,Abenójar,m13001,dontshow
+Badajoz,6,15.3,13,2.3,2,"Coronada, La",m6039,dontshow
+Cantabria,39,15.4,13.1,2.3,2,Noja,m39047,dontshow
+Jaén,23,15.8,13.5,2.3,2,Lahiguera,m23040,dontshow
+Valencia,46,19.6,17.3,2.3,2,Vinalesa,m46260,dontshow
+Córdoba,14,20.1,17.8,2.3,2,Encinas Reales,m14024,dontshow
+Cantabria,39,21.1,18.8,2.3,2,Arnuero,m39006,dontshow
+Toledo,45,21.5,19.2,2.3,2,Camuñas,m45034,dontshow
+Cantabria,39,24.5,22.2,2.3,2,Voto,m39102,dontshow
+Badajoz,6,24.8,22.5,2.3,3,Berlanga,m6019,dontshow
+Cáceres,10,25.6,23.3,2.3,2,Madrigal de la Vera,m10111,dontshow
+"A Coruña",15,25.6,23.3,2.3,4,Tordoia,m15084,dontshow
+Granada,18,26,23.7,2.3,2,Montejícar,m18136,dontshow
+Málaga,29,26,23.7,2.3,2,Yunquera,m29100,dontshow
+Navarra,31,27.2,24.9,2.3,2,Azagra,m31042,dontshow
+Ciudad Real,13,29.5,27.2,2.3,5,Villanueva de los Infantes,m13093,dontshow
+Sevilla,41,31.2,28.9,2.3,2,Huévar del Aljarafe,m41051,dontshow
+"Illes Balears,",7,33.5,31.2,2.3,3,Bunyola,m7010,dontshow
+Toledo,45,11.8,9.6,2.2,2,"Ventas con Peña Aguilera, Las",m45182,dontshow
+Córdoba,14,11.9,9.7,2.2,2,Dos Torres,m14023,dontshow
+Valladolid,47,16.9,14.7,2.2,2,Alaejos,m47004,dontshow
+Cádiz,11,17.3,15.1,2.2,2,Setenil de las Bodegas,m11034,dontshow
+Sevilla,41,20,17.8,2.2,2,"Real de la Jara, El",m41080,dontshow
+Cádiz,11,21.7,19.5,2.2,3,Espera,m11017,dontshow
+"A Coruña",15,21.9,19.7,2.2,4,Mesía,m15047,dontshow
+Granada,18,21.9,19.7,2.2,2,Cuevas del Campo,m18912,dontshow
+Valencia,46,22.6,20.4,2.2,2,Bonrepòs i Mirambell,m46074,dontshow
+Castellón,12,24,21.8,2.2,3,Alquerías del Niño Perdido,m12901,dontshow
+Cantabria,39,24.1,21.9,2.2,2,Ribamontán al Monte,m39062,dontshow
+"A Coruña",15,24.3,22.1,2.2,3,Monfero,m15050,dontshow
+Toledo,45,24.9,22.7,2.2,2,San Pablo de los Montes,m45153,dontshow
+Badajoz,6,25,22.8,2.2,2,Oliva de Mérida,m6094,dontshow
+León,24,26.4,24.2,2.2,3,Valencia de Don Juan,m24188,dontshow
+Palencia,34,27,24.8,2.2,2,Barruelo de Santullán,m34027,dontshow
+Lleida,25,31.4,29.2,2.2,2,Arbeca,m25029,dontshow
+Guadalajara,19,31.8,29.6,2.2,2,Brihuega,m19053,dontshow
+Tarragona,43,37.3,35.1,2.2,2,Santa Bàrbara,m43138,dontshow
+Barcelona,8,40.6,38.4,2.2,3,Gelida,m8091,dontshow
+Toledo,45,18.2,16.1,2.1,2,Lillo,m45084,dontshow
+Valencia,46,18.9,16.8,2.1,2,Albalat de la Ribera,m46008,dontshow
+Córdoba,14,20.4,18.3,2.1,2,Villanueva del Duque,m14070,dontshow
+Jaén,23,20.4,18.3,2.1,3,Castellar,m23025,dontshow
+Ourense,32,21.8,19.7,2.1,2,Cenlle,m32025,dontshow
+Cantabria,39,22.2,20.1,2.1,2,Val de San Vicente,m39095,dontshow
+Santa Cruz de Tenerife,38,22.4,20.3,2.1,2,Puntallana,m38030,dontshow
+Barcelona,8,24.4,22.3,2.1,2,Prats de Lluçanès,m8171,dontshow
+Valencia,46,24.4,22.3,2.1,2,Alfara del Patriarca,m46025,dontshow
+Córdoba,14,24.6,22.5,2.1,3,Montemayor,m14041,dontshow
+"A Coruña",15,24.9,22.8,2.1,3,Curtis,m15032,dontshow
+Ávila,5,31.9,29.8,2.1,6,Arévalo,m5016,dontshow
+Sevilla,41,32.1,30,2.1,5,"Cuervo de Sevilla, El",m41903,dontshow
+Álava,1,33.1,31,2.1,2,Alegría-Dulantzi,m1001,dontshow
+Gipuzkoa,20,36.6,34.5,2.1,3,Ibarra,m20042,dontshow
+Gipuzcoa,20,36.6,34.5,2.1,3,Ibarra,m20042,dontshow
+Zaragoza,50,36.7,34.6,2.1,2,María de Huerva,m50163,dontshow
+Lleida,25,37.5,35.4,2.1,2,Alguaire,m25016,dontshow
+Lleida,25,38.2,36.1,2.1,2,"Pont de Suert, El",m25173,dontshow
+Granada,18,40.2,38.1,2.1,3,Cúllar Vega,m18057,dontshow
+Cantabria,39,14.9,12.9,2,2,San Felices de Buelna,m39069,dontshow
+Málaga,29,15.7,13.7,2,2,Benamocarra,m29027,dontshow
+Córdoba,14,16.4,14.4,2,2,Torrecampo,m14062,dontshow
+Badajoz,6,17.7,15.7,2,3,Barcarrota,m6016,dontshow
+Toledo,45,19.1,17.1,2,2,Polán,m45133,dontshow
+Navarra,31,20.5,18.5,2,2,Fustiñana,m31108,dontshow
+Albacete,2,21.4,19.4,2,2,Ossa de Montiel,m2057,dontshow
+Jaén,23,21.9,19.9,2,2,Fuensanta de Martos,m23034,dontshow
+Valencia,46,23.2,21.2,2,2,Villar del Arzobispo,m46258,dontshow
+Toledo,45,24.5,22.5,2,3,Nambroca,m45107,dontshow
+Lleida,25,25,23,2,2,Ivars d'Urgell,m25113,dontshow
+Cantabria,39,26.2,24.2,2,3,Ampuero,m39002,dontshow
+Soria,42,26.3,24.3,2,2,Arcos de Jalón,m42025,dontshow
+Lleida,25,26.4,24.4,2,2,Torregrossa,m25230,dontshow
+Málaga,29,26.8,24.8,2,2,Cómpeta,m29045,dontshow
+Toledo,45,28.6,26.6,2,3,Mocejón,m45102,dontshow
+Toledo,45,29.6,27.6,2,2,Yuncler,m45203,dontshow
+Toledo,45,34.4,32.4,2,2,Méntrida,m45099,dontshow
+Ciudad Real,13,13.9,12,1.9,2,Aldea del Rey,m13009,dontshow
+Valencia,46,15.7,13.8,1.9,2,Navarrés,m46179,dontshow
+Albacete,2,16.5,14.6,1.9,2,Pozo Cañada,m2901,dontshow
+Valencia,46,17.2,15.3,1.9,3,"Pobla Llarga, la",m46203,dontshow
+Ciudad Real,13,18.2,16.3,1.9,2,Alcolea de Calatrava,m13007,dontshow
+Valencia,46,18.3,16.4,1.9,2,Quatretonda,m46104,dontshow
+Granada,18,20.3,18.4,1.9,3,Güejar Sierra,m18094,dontshow
+Cádiz,11,20.4,18.5,1.9,2,Castellar de la Frontera,m11013,dontshow
+Badajoz,6,21.7,19.8,1.9,2,Usagre,m6136,dontshow
+Badajoz,6,23.2,21.3,1.9,2,NA,m6903,dontshow
+Ourense,32,24.7,22.8,1.9,3,Coles,m32026,dontshow
+"Illes Balears,",7,26.5,24.6,1.9,2,Sineu,m7060,dontshow
+León,24,26.5,24.6,1.9,4,Cacabelos,m24030,dontshow
+Asturias,33,30.4,28.5,1.9,2,Riosa,m33058,dontshow
+Huesca,22,30.6,28.7,1.9,2,Almudévar,m22021,dontshow
+Girona,17,32,30.1,1.9,2,"Cellera de Ter, La",m17189,dontshow
+Cádiz,11,37.3,35.4,1.9,4,Algodonales,m11005,dontshow
+Zaragoza,50,39.2,37.3,1.9,3,"Muela, La",m50182,dontshow
+Castellón,12,14.6,12.8,1.8,2,Sant Mateu,m12100,dontshow
+Cantabria,39,17.2,15.4,1.8,2,Liérganes,m39037,dontshow
+Tarragona,43,18.3,16.5,1.8,2,Batea,m43022,dontshow
+Guadalajara,19,21.1,19.3,1.8,2,Mondéjar,m19192,dontshow
+Jaén,23,22.7,20.9,1.8,3,Pegalajar,m23067,dontshow
+Córdoba,14,22.9,21.1,1.8,2,Carcabuey,m14015,dontshow
+Barcelona,8,23,21.2,1.8,2,"Pobla de Lillet, La",m8166,dontshow
+Sevilla,41,24.4,22.6,1.8,3,"Luisiana, La",m41056,dontshow
+León,24,25.1,23.3,1.8,2,Carracedelo,m24038,dontshow
+Navarra,31,26.9,25.1,1.8,2,Olite/Erriberri,m31191,dontshow
+Zaragoza,50,27,25.2,1.8,2,Maella,m50152,dontshow
+Granada,18,27.4,25.6,1.8,3,Fuente Vaqueros,m18079,dontshow
+Cáceres,10,28.6,26.8,1.8,4,Talayuela,m10180,dontshow
+Navarra,31,28.9,27.1,1.8,2,Etxarri-Aranatz,m31084,dontshow
+Badajoz,6,33.3,31.5,1.8,3,Higuera la Real,m6067,dontshow
+Pontevedra,36,33.8,32,1.8,2,Campo Lameiro,m36007,dontshow
+Salamanca,37,33.8,32,1.8,3,Guijuelo,m37156,dontshow
+Tarragona,43,38.4,36.6,1.8,2,"Pobla de Mafumet, La",m43109,dontshow
+Barcelona,8,38.5,36.7,1.8,2,"Papiol, El",m8158,dontshow
+Córdoba,14,10.3,8.6,1.7,2,Añora,m14006,dontshow
+Jaén,23,13.2,11.5,1.7,2,Cárcheles,m23901,dontshow
+Toledo,45,17.8,16.1,1.7,2,Velada,m45181,dontshow
+Sevilla,41,19,17.3,1.7,2,Gilena,m41046,dontshow
+Jaén,23,19.8,18.1,1.7,2,Guarromán,m23039,dontshow
+Navarra,31,21.4,19.7,1.7,2,Puente la Reina/Gares,m31206,dontshow
+Málaga,29,21.8,20.1,1.7,2,Villanueva de Algaidas,m29095,dontshow
+Badajoz,6,22.2,20.5,1.7,2,Medellín,m6080,dontshow
+"Illes Balears,",7,22.2,20.5,1.7,2,Campanet,m7012,dontshow
+León,24,24.5,22.8,1.7,2,Sahagún,m24139,dontshow
+Ourense,32,26.6,24.9,1.7,2,Nogueira de Ramuín,m32052,dontshow
+Navarra,31,28.5,26.8,1.7,2,Aoiz/Agoitz,m31019,dontshow
+"A Coruña",15,29.7,28,1.7,5,Fisterra,m15037,dontshow
+Zaragoza,50,32.8,31.1,1.7,2,San Mateo de Gállego,m50235,dontshow
+Zaragoza,50,33.4,31.7,1.7,2,Illueca,m50126,dontshow
+"A Coruña",15,34.1,32.4,1.7,3,Lousame,m15042,dontshow
+Barcelona,8,40.1,38.4,1.7,2,Canyelles,m8043,dontshow
+Sevilla,41,50.6,48.9,1.7,2,"Molares, Los",m41063,dontshow
+Segovia,40,14.7,13.1,1.6,2,Coca,m40057,dontshow
+Badajoz,6,15.1,13.5,1.6,4,Quintana de la Serena,m6109,dontshow
+Murcia,30,15.5,13.9,1.6,2,Campos del Río,m30014,dontshow
+Sevilla,41,15.9,14.3,1.6,3,"Roda de Andalucía, La",m41082,dontshow
+Valencia,46,16,14.4,1.6,2,"Font de la Figuera, la",m46128,dontshow
+Toledo,45,18.2,16.6,1.6,2,Oropesa,m45125,dontshow
+Pontevedra,36,18.6,17,1.6,3,"Illa de Arousa, A",m36901,dontshow
+Córdoba,14,19,17.4,1.6,3,Moriles,m14045,dontshow
+Cuenca,16,19.5,17.9,1.6,2,Villamayor de Santiago,m16249,dontshow
+Badajoz,6,21.2,19.6,1.6,3,"Zarza, La",m6162,dontshow
+Cáceres,10,21.2,19.6,1.6,3,Logrosán,m10109,dontshow
+Cáceres,10,22.5,20.9,1.6,2,Aliseda,m10018,dontshow
+Lugo,27,22.7,21.1,1.6,2,Quiroga,m27050,dontshow
+"La Rioja",26,24.4,22.8,1.6,2,Fuenmayor,m26064,dontshow
+Cáceres,10,25.5,23.9,1.6,2,Villanueva de la Vera,m10212,dontshow
+Córdoba,14,26.7,25.1,1.6,4,Belalcázar,m14008,dontshow
+"Illes Balears,",7,27,25.4,1.6,3,Alaró,m7001,dontshow
+Almería,4,29.8,28.2,1.6,2,Dalías,m4038,dontshow
+Asturias,33,30.6,29,1.6,4,Soto del Barco,m33069,dontshow
+Lleida,25,33.3,31.7,1.6,2,Alfarràs,m25013,dontshow
+Bizkaia,48,35.1,33.5,1.6,2,Urduliz,m48089,dontshow
+Barcelona,8,38.1,36.5,1.6,3,Puig-reig,m8175,dontshow
+Ourense,32,10.3,8.8,1.5,2,Vilardevós,m32091,dontshow
+Valencia,46,15.3,13.8,1.5,2,Chella,m46107,dontshow
+Córdoba,14,18.2,16.7,1.5,2,Cañete de las Torres,m14014,dontshow
+Lugo,27,18.4,16.9,1.5,2,Pol,m27046,dontshow
+Castellón,12,18.5,17,1.5,3,Altura,m12012,dontshow
+Alicante,3,19.6,18.1,1.5,2,Rafal,m3109,dontshow
+Valladolid,47,20.1,18.6,1.5,2,Portillo,m47122,dontshow
+Almería,4,22.5,21,1.5,3,Fiñana,m4045,dontshow
+Albacete,2,23,21.5,1.5,2,Alcaraz,m2008,dontshow
+Cantabria,39,23.4,21.9,1.5,2,Castañeda,m39019,dontshow
+Valencia,46,25,23.5,1.5,2,Daimús,m46113,dontshow
+Toledo,45,27.4,25.9,1.5,3,Argés,m45016,dontshow
+Badajoz,6,29.4,27.9,1.5,2,"Albuera, La",m6005,dontshow
+León,24,29.6,28.1,1.5,2,San Justo de la Vega,m24148,dontshow
+Jaén,23,10.9,9.5,1.4,2,Jimena,m23052,dontshow
+Badajoz,6,12.8,11.4,1.4,3,Monterrubio de la Serena,m6087,dontshow
+Badajoz,6,14.9,13.5,1.4,3,Herrera del Duque,m6063,dontshow
+Badajoz,6,15.3,13.9,1.4,2,Casas de Don Pedro,m6033,dontshow
+Sevilla,41,15.7,14.3,1.4,2,"Corrales, Los",m41037,dontshow
+Toledo,45,16.7,15.3,1.4,2,Noblejas,m45115,dontshow
+Málaga,29,17.3,15.9,1.4,2,Almargen,m29010,dontshow
+"A Coruña",15,20.6,19.2,1.4,2,Frades,m15038,dontshow
+Valladolid,47,21.2,19.8,1.4,2,Pedrajas de San Esteban,m47112,dontshow
+Sevilla,41,22.9,21.5,1.4,2,Peñaflor,m41074,dontshow
+Almería,4,24.8,23.4,1.4,2,Láujar de Andarax,m4057,dontshow
+Pontevedra,36,26,24.6,1.4,2,Catoira,m36010,dontshow
+Toledo,45,27.2,25.8,1.4,2,Borox,m45021,dontshow
+Segovia,40,34.2,32.8,1.4,2,Palazuelos de Eresma,m40155,dontshow
+Barcelona,8,34.8,33.4,1.4,2,"Palma de Cervelló, La",m8905,dontshow
+Barcelona,8,37.1,35.7,1.4,2,Cabrera de Mar,m8029,dontshow
+Jaén,23,10.8,9.5,1.3,2,Campillo de Arenas,m23019,dontshow
+Jaén,23,11.4,10.1,1.3,2,Jamilena,m23051,dontshow
+Toledo,45,13.8,12.5,1.3,4,Villafranca de los Caballeros,m45187,dontshow
+Córdoba,14,14.1,12.8,1.3,2,Cardeña,m14016,dontshow
+Toledo,45,16.8,15.5,1.3,2,Urda,m45177,dontshow
+Pontevedra,36,17.8,16.5,1.3,3,Rodeiro,m36047,dontshow
+Pontevedra,36,18.7,17.4,1.3,3,Arbo,m36001,dontshow
+Jaén,23,19.8,18.5,1.3,2,Orcera,m23065,dontshow
+Huelva,21,20.2,18.9,1.3,2,Santa Olalla del Cala,m21069,dontshow
+Granada,18,20.5,19.2,1.3,2,Cogollos de la Vega,m18050,dontshow
+Ávila,5,21.1,19.8,1.3,2,"Hoyo de Pinares, El",m5102,dontshow
+Ciudad Real,13,21.7,20.4,1.3,3,Viso del Marqués,m13098,dontshow
+León,24,24.3,23,1.3,2,Santa María del Páramo,m24157,dontshow
+Granada,18,24.9,23.6,1.3,2,Benamaurel,m18029,dontshow
+Ourense,32,24.9,23.6,1.3,2,Maceda,m32043,dontshow
+Huelva,21,25.2,23.9,1.3,2,Villarrasa,m21077,dontshow
+"A Coruña",15,26.7,25.4,1.3,3,San Sadurniño,m15076,dontshow
+Cáceres,10,28.4,27.1,1.3,2,Jarandilla de la Vera,m10105,dontshow
+Zaragoza,50,28.7,27.4,1.3,2,Calatorao,m50068,dontshow
+Almería,4,29.5,28.2,1.3,2,Pechina,m4074,dontshow
+Toledo,45,30.1,28.8,1.3,2,Recas,m45145,dontshow
+Ávila,5,35.2,33.9,1.3,2,Sotillo de la Adrada,m5240,dontshow
+Girona,17,37,35.7,1.3,3,Anglès,m17008,dontshow
+Gipuzkoa,20,37.1,35.8,1.3,3,Astigarraga,m20903,dontshow
+Gipuzcoa,20,37.1,35.8,1.3,3,Astigarraga,m20903,dontshow
+Teruel,44,39.7,38.4,1.3,2,Monreal del Campo,m44153,dontshow
+Ciudad Real,13,13.3,12.1,1.2,3,Villahermosa,m13089,dontshow
+Jaén,23,15.3,14.1,1.2,2,Ibros,m23046,dontshow
+Lugo,27,15.8,14.6,1.2,2,Samos,m27055,dontshow
+Lugo,27,16.8,15.6,1.2,2,Alfoz,m27002,dontshow
+Cáceres,10,19.5,18.3,1.2,2,Almoharín,m10020,dontshow
+"Illes Balears,",7,19.8,18.6,1.2,2,Vilafranca de Bonany,m7065,dontshow
+Badajoz,6,22.3,21.1,1.2,3,Santa Amalia,m6120,dontshow
+Málaga,29,22.7,21.5,1.2,2,Valle de Abdalajís,m29093,dontshow
+Lleida,25,24.3,23.1,1.2,2,Seròs,m25204,dontshow
+Cáceres,10,24.9,23.7,1.2,2,Madroñera,m10113,dontshow
+Girona,17,31.4,30.2,1.2,2,Breda,m17027,dontshow
+Asturias,33,31.4,30.2,1.2,2,Boal,m33007,dontshow
+"La Rioja",26,31.5,30.3,1.2,2,Pradejón,m26117,dontshow
+Madrid,28,31.5,30.3,1.2,2,Valdetorres de Jarama,m28164,dontshow
+Jaén,23,14.6,13.5,1.1,2,Siles,m23082,dontshow
+Toledo,45,14.7,13.6,1.1,2,Lagartera,m45082,dontshow
+Córdoba,14,14.8,13.7,1.1,3,Adamuz,m14001,dontshow
+Jaén,23,14.8,13.7,1.1,2,Torres,m23090,dontshow
+"Illes Balears,",7,15.6,14.5,1.1,2,Maria de la Salut,m7035,dontshow
+Ourense,32,16.4,15.3,1.1,2,Muíños,m32051,dontshow
+Sevilla,41,21.1,20,1.1,3,Pedrera,m41072,dontshow
+Bizkaia,48,23.3,22.2,1.1,2,Bakio,m48012,dontshow
+"La Rioja",26,23.7,22.6,1.1,2,Navarrete,m26105,dontshow
+"La Rioja",26,23.8,22.7,1.1,2,Cenicero,m26046,dontshow
+Asturias,33,25.9,24.8,1.1,2,"Regueras, Las",m33054,dontshow
+Zaragoza,50,27.4,26.3,1.1,2,Gallur,m50118,dontshow
+Barcelona,8,30.2,29.1,1.1,2,Sant Martí Sarroca,m8227,dontshow
+Girona,17,37.4,36.3,1.1,2,Ribes de Freser,m17145,dontshow
+Castellón,12,11.3,10.3,1,2,"Vilavella, la",m12136,dontshow
+Valencia,46,16.5,15.5,1,3,Llutxent,m46150,dontshow
+Castellón,12,17.8,16.8,1,2,Artana,m12016,dontshow
+Valencia,46,18,17,1,2,"Llosa de Ranes, la",m46157,dontshow
+Cantabria,39,19.9,18.9,1,2,Hermandad de Campoo de Suso,m39032,dontshow
+Cuenca,16,20.1,19.1,1,2,Sisante,m16198,dontshow
+Teruel,44,21,20,1,2,Cella,m44076,dontshow
+Badajoz,6,23.8,22.8,1,2,"Roca de la Sierra, La",m6115,dontshow
+Lugo,27,24.7,23.7,1,3,Castroverde,m27011,dontshow
+Cáceres,10,25.6,24.6,1,2,Losar de la Vera,m10110,dontshow
+Granada,18,37.8,36.8,1,2,Cájar,m18036,dontshow
+Valencia,46,13.3,12.4,0.9,2,"Pobla del Duc, la",m46200,dontshow
+Valencia,46,14,13.1,0.9,2,Aielo de Malferit,m46042,dontshow
+Badajoz,6,14.3,13.4,0.9,2,Burguillos del Cerro,m6022,dontshow
+Toledo,45,16.6,15.7,0.9,2,Navalcán,m45110,dontshow
+Cuenca,16,17.5,16.6,0.9,4,Quintanar del Rey,m16175,dontshow
+Cuenca,16,20,19.1,0.9,2,Villanueva de la Jara,m16251,dontshow
+Cáceres,10,20.4,19.5,0.9,2,Montánchez,m10126,dontshow
+Toledo,45,20.5,19.6,0.9,2,Santa Olalla,m45158,dontshow
+Ourense,32,24.2,23.3,0.9,2,San Cristovo de Cea,m32076,dontshow
+Navarra,31,24.5,23.6,0.9,2,Carcastillo,m31067,dontshow
+Asturias,33,24.6,23.7,0.9,2,Allande,m33001,dontshow
+Navarra,31,25.4,24.5,0.9,2,Lesaka,m31153,dontshow
+Santa Cruz de Tenerife,38,26.7,25.8,0.9,2,Frontera,m38013,dontshow
+Navarra,31,27.2,26.3,0.9,4,Huarte/Uharte,m31122,dontshow
+Sevilla,41,29.8,28.9,0.9,2,Carrión de los Céspedes,m41025,dontshow
+Cuenca,16,11.4,10.6,0.8,2,Ledaña,m16118,dontshow
+Albacete,2,12.7,11.9,0.8,2,Balazote,m2012,dontshow
+Sevilla,41,12.8,12,0.8,4,Casariche,m41026,dontshow
+Ciudad Real,13,16.6,15.8,0.8,2,Chillón,m13038,dontshow
+Córdoba,14,19.8,19,0.8,2,Pedro Abad,m14050,dontshow
+Badajoz,6,23.8,23,0.8,2,Valencia del Ventoso,m6141,dontshow
+Tarragona,43,27.8,27,0.8,2,Móra la Nova,m43094,dontshow
+Navarra,31,27.9,27.1,0.8,2,Andosilla,m31015,dontshow
+Albacete,2,29,28.2,0.8,2,Montealegre del Castillo,m2051,dontshow
+Girona,17,31,30.2,0.8,2,Quart,m17142,dontshow
+Asturias,33,34.5,33.7,0.8,2,Caso,m33015,dontshow
+Granada,18,37.6,36.8,0.8,2,Cijuela,m18048,dontshow
+Ciudad Real,13,11.4,10.7,0.7,2,Pozuelo de Calatrava,m13066,dontshow
+Ciudad Real,13,13.9,13.2,0.7,2,Albaladejo,m13004,dontshow
+Sevilla,41,15.2,14.5,0.7,2,Badolatosa,m41014,dontshow
+Albacete,2,17.8,17.1,0.7,2,Elche de la Sierra,m2030,dontshow
+"Las Palmas",35,17.8,17.1,0.7,2,Tejeda,m35025,dontshow
+Lleida,25,18.7,18,0.7,2,Aitona,m25038,dontshow
+Málaga,29,19,18.3,0.7,2,Cañete la Real,m29035,dontshow
+Badajoz,6,20.4,19.7,0.7,2,Salvatierra de los Barros,m6117,dontshow
+Badajoz,6,22.2,21.5,0.7,2,Villalba de los Barros,m6152,dontshow
+Cuenca,16,25.2,24.5,0.7,2,Huete,m16112,dontshow
+Bizkaia,48,28.8,28.1,0.7,2,Zamudio,m48905,dontshow
+Girona,17,36.2,35.5,0.7,2,"Jonquera, La",m17086,dontshow
+"Illes Balears,",7,40.9,40.2,0.7,3,Sant Joan de Labritja,m7050,dontshow
+Málaga,29,13.4,12.8,0.6,2,Cuevas del Becerro,m29048,dontshow
+Cuenca,16,18.1,17.5,0.6,2,"Alberca de Záncara, La",m16007,dontshow
+Cantabria,39,18.4,17.8,0.6,2,Comillas,m39024,dontshow
+Santa Cruz de Tenerife,38,20.4,19.8,0.6,2,Fuencaliente de la Palma,m38014,dontshow
+Sevilla,41,20.5,19.9,0.6,2,Martín de la Jara,m41062,dontshow
+"A Coruña",15,21.8,21.2,0.6,4,Boqueixón,m15012,dontshow
+Málaga,29,21.9,21.3,0.6,2,Ardales,m29018,dontshow
+Ciudad Real,13,22.2,21.6,0.6,2,Agudo,m13002,dontshow
+Granada,18,22.3,21.7,0.6,2,Vélez de Benaudalla,m18184,dontshow
+Toledo,45,22.7,22.1,0.6,2,Ajofrín,m45001,dontshow
+Valencia,46,22.8,22.2,0.6,2,Serra,m46228,dontshow
+Segovia,40,23.8,23.2,0.6,2,Carbonero el Mayor,m40043,dontshow
+Lugo,27,24.1,23.5,0.6,2,Baralla,m27901,dontshow
+Badajoz,6,25,24.4,0.6,2,Villar del Rey,m6155,dontshow
+Teruel,44,26.5,25.9,0.6,2,Híjar,m44122,dontshow
+Badajoz,6,29.2,28.6,0.6,2,Solana de los Barros,m6126,dontshow
+Tarragona,43,33.6,33,0.6,2,"Espluga de Francolí, L'",m43054,dontshow
+Barcelona,8,39.5,38.9,0.6,2,Sant Cebrià de Vallalta,m8203,dontshow
+Badajoz,6,15.3,14.8,0.5,2,Salvaleón,m6116,dontshow
+"A Coruña",15,17.5,17,0.5,2,Aranga,m15003,dontshow
+Badajoz,6,18.1,17.6,0.5,2,Alange,m6004,dontshow
+Ciudad Real,13,18.9,18.4,0.5,2,Villarta de San Juan,m13097,dontshow
+Toledo,45,19.6,19.1,0.5,2,Villarrubia de Santiago,m45195,dontshow
+Granada,18,19.7,19.2,0.5,2,Molvízar,m18133,dontshow
+Navarra,31,19.8,19.3,0.5,2,Lerín,m31152,dontshow
+Cáceres,10,21.8,21.3,0.5,2,Serradilla,m10175,dontshow
+Cantabria,39,22.2,21.7,0.5,2,Villaescusa,m39099,dontshow
+"La Rioja",26,24,23.5,0.5,2,Aldeanueva de Ebro,m26008,dontshow
+Tarragona,43,24.2,23.7,0.5,2,Falset,m43055,dontshow
+Toledo,45,26,25.5,0.5,2,Alcaudete de la Jara,m45006,dontshow
+Lugo,27,26.2,25.7,0.5,2,Cervantes,m27012,dontshow
+Salamanca,37,34.4,33.9,0.5,2,Vitigudino,m37376,dontshow
+Toledo,45,14.3,13.9,0.4,2,Villanueva de Alcardete,m45192,dontshow
+Toledo,45,14.6,14.2,0.4,2,Orgaz,m45124,dontshow
+"A Coruña",15,14.8,14.4,0.4,2,Vilasantar,m15090,dontshow
+Ciudad Real,13,17.9,17.5,0.4,2,Carrizosa,m13032,dontshow
+Toledo,45,18.8,18.4,0.4,2,Gálvez,m45067,dontshow
+Ávila,5,23,22.6,0.4,2,Piedralaves,m5187,dontshow
+Ourense,32,23.4,23,0.4,2,Vilamarín,m32087,dontshow
+Málaga,29,25.2,24.8,0.4,2,Tolox,m29090,dontshow
+León,24,25.7,25.3,0.4,2,Carrizo,m24039,dontshow
+Huelva,21,26.4,26,0.4,3,Aroche,m21008,dontshow
+Tarragona,43,27.8,27.4,0.4,2,"Aldea, L'",m43904,dontshow
+Toledo,45,29.8,29.4,0.4,2,Burguillos de Toledo,m45023,dontshow
+Santa Cruz de Tenerife,38,31.8,31.4,0.4,2,Valle Gran Rey,m38049,dontshow
+Pontevedra,36,32.8,32.4,0.4,2,Cerdedo,m36011,dontshow
+Castellón,12,17.1,16.8,0.3,2,"Coves de Vinromà, les",m12050,dontshow
+Badajoz,6,18.2,17.9,0.3,2,Bienvenida,m6020,dontshow
+Cantabria,39,19.1,18.8,0.3,2,Corvera de Toranzo,m39026,dontshow
+"A Coruña",15,20.5,20.2,0.3,2,Moeche,m15049,dontshow
+Almería,4,21.9,21.6,0.3,2,Tabernas,m4088,dontshow
+Salamanca,37,24.6,24.3,0.3,2,Lumbrales,m37173,dontshow
+Cáceres,10,25.6,25.3,0.3,2,Gata,m10084,dontshow
+Pontevedra,36,26.9,26.6,0.3,2,Pazos de Borbén,m36037,dontshow
+Madrid,28,30.5,30.2,0.3,2,Valdeolmos-Alalpardo,m28162,dontshow
+Ávila,5,10.1,9.9,0.2,2,Madrigal de las Altas Torres,m5114,dontshow
+Cuenca,16,11.5,11.3,0.2,2,"Provencio, El",m16171,dontshow
+Badajoz,6,14.6,14.4,0.2,2,Fuenlabrada de los Montes,m6051,dontshow
+Málaga,29,15.3,15.1,0.2,2,Cortes de la Frontera,m29046,dontshow
+Cantabria,39,15.5,15.3,0.2,2,Arenas de Iguña,m39004,dontshow
+Toledo,45,16.3,16.1,0.2,2,Belvís de la Jara,m45020,dontshow
+Jaén,23,17.5,17.3,0.2,2,Arroyo del Ojanco,m23905,dontshow
+Albacete,2,17.9,17.7,0.2,2,Socovos,m2072,dontshow
+Ourense,32,18,17.8,0.2,2,Monterrei,m32050,dontshow
+Navarra,31,21.3,21.1,0.2,2,Villafranca,m31254,dontshow
+Huelva,21,22.1,21.9,0.2,2,Cumbres Mayores,m21029,dontshow
+Ourense,32,25.8,25.6,0.2,2,Riós,m32071,dontshow
+"La Rioja",26,26,25.8,0.2,2,Rincón de Soto,m26125,dontshow
+Madrid,28,27.6,27.4,0.2,2,"Molinos, Los",m28087,dontshow
+Navarra,31,31.4,31.2,0.2,2,Marcilla,m31163,dontshow
+Jaén,23,32.5,32.3,0.2,2,Huesa,m23045,dontshow
+Madrid,28,34.6,34.4,0.2,2,Pedrezuela,m28108,dontshow
+Valencia,46,14.1,14,0.1,2,Vallada,m46251,dontshow
+Almería,4,15.2,15.1,0.1,2,Tíjola,m4092,dontshow
+"La Rioja",26,15.3,15.2,0.1,2,Murillo de Río Leza,m26099,dontshow
+Jaén,23,15.9,15.8,0.1,2,Cabra del Santo Cristo,m23017,dontshow
+Ciudad Real,13,16.5,16.4,0.1,2,Villamanrique,m13090,dontshow
+Valencia,46,17.4,17.3,0.1,2,Casinos,m46089,dontshow
+Ávila,5,18,17.9,0.1,2,Navaluenga,m5163,dontshow
+Bizkaia,48,20.2,20.1,0.1,2,Karrantza Harana/Valle de Carranza,m48022,dontshow
+Lugo,27,21,20.9,0.1,2,"Pobra do Brollón, A",m27047,dontshow
+Zaragoza,50,23.7,23.6,0.1,2,Villamayor de Gállego,m50903,dontshow
+Ourense,32,24.8,24.7,0.1,2,"Merca, A",m32047,dontshow
+"Illes Balears,",7,26.7,26.6,0.1,2,Sencelles,m7047,dontshow
+Ávila,5,27.2,27.1,0.1,2,"Adrada, La",m5002,dontshow
+Huelva,21,28.2,28.1,0.1,2,Hinojos,m21040,dontshow
+Navarra,31,29.7,29.6,0.1,2,Beriáin,m31905,dontshow
+Burgos,9,29.9,29.8,0.1,2,Quintanar de la Sierra,m9289,dontshow
+Pontevedra,36,35.2,35.1,0.1,3,Covelo,m36013,dontshow
+Cantabria,39,22.1,22.1,0,2,Ramales de la Victoria,m39057,dontshow
+Badajoz,6,22.3,22.3,0,2,Orellana la Vieja,m6097,dontshow
+Granada,18,26.8,26.8,0,2,Láchar,m18115,dontshow
+Toledo,45,35.6,35.6,0,2,Santa Cruz del Retamar,m45157,dontshow
+Barcelona,8,43.5,43.5,0,2,Santa Eulàlia de Ronçana,m8248,dontshow
